@@ -1,0 +1,1035 @@
+State,Site,Campaign,Date,First_HT,Steward,Time_in,Time_out,Temp_in,Temp_out,Wind_in,Wind_out,Implementation,Observers,Point_no,Start_time,Point_closed,Vehicles,Boats,Aerial,Dogs_un,Dogs_leash,People_move,People_rest,Predators,PIPL,AMOY,REKN,WIPL,SAND,SESA,Peeps,Comments
+SC,Folly Beach Lighthouse Inlet,Walkers,22-May-24,7:45,N,11:00,12:48,29,29,13,8,B,Abby Burke Jen Tyrrell,1,11:00,N,0,0,1,0,0,2,0,0,0,0,0,2,1,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,22-May-24,7:45,N,11:00,12:48,29,29,13,8,B,Abby Burke Jen Tyrrell,2,11:30,P,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,22-May-24,7:45,N,11:00,12:48,29,29,13,8,B,Abby Burke Jen Tyrrell,3,11:58,P,0,2,0,0,0,4,1,0,0,2,0,0,0,0,4,"BBPL, LETE also observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,22-May-24,7:45,N,11:00,12:48,29,29,13,8,B,Abby Burke Jen Tyrrell,4,12:33,P,2,1,1,0,0,2,3,0,0,2,0,0,0,0,2,
+SC,Folly Beach Lighthouse Inlet,Walkers,29-May-24,12:45,N,8:15,9:30,22,25,9,7,B,Abby Burke,1,8:16,N,0,0,0,0,0,2,0,0,0,0,0,9,0,0,5,
+SC,Folly Beach Lighthouse Inlet,Walkers,29-May-24,12:45,N,8:15,9:30,22,25,9,7,B,Abby Burke,2,8:40,P,0,0,0,0,0,1,0,1,0,2,0,3,0,0,0,2 LETE
+SC,Folly Beach Lighthouse Inlet,Walkers,29-May-24,12:45,N,8:15,9:30,22,25,9,7,B,Abby Burke,3,9:07,P,0,1,0,0,0,3,0,0,0,0,0,0,0,0,4,dog tracks seen
+SC,Folly Beach Lighthouse Inlet,Walkers,29-May-24,12:45,N,8:15,9:30,22,25,9,7,B,Abby Burke,4,9:24,P,1,4,0,0,0,0,2,3,0,1,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,3-Jun-24,5:45,N,8:05,9:30,24,26,11,11,B,Abby Burke,1,8:05,N,0,1,0,0,0,0,0,0,0,0,0,1,3,0,3,
+SC,Folly Beach Lighthouse Inlet,Walkers,3-Jun-24,5:45,N,8:05,9:30,24,26,11,11,B,Abby Burke,2,8:33,P,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,3-Jun-24,5:45,N,8:05,9:30,24,26,11,11,B,Abby Burke,3,9:24,P,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,
+SC,Folly Beach Lighthouse Inlet,Walkers,3-Jun-24,5:45,N,8:05,9:30,24,26,11,11,B,Abby Burke,4,9:13,P,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,"Did point 4, then went back to do point 3."
+SC,Folly Beach Lighthouse Inlet,Walkers,9-Jun-24,10:58,N,9:30,10:40,26,31,12,11,B,Abby Burke,1,10:30,N,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,Saw 2 chicks earlier in AM near this point. Spoke to Folly Beach patrol again.
+SC,Folly Beach Lighthouse Inlet,Walkers,9-Jun-24,10:58,N,9:30,10:40,26,31,12,11,B,Abby Burke,2,9:35,P,0,1,0,0,0,4,0,0,0,2,0,1,0,0,0,A little farther down from point was 2 WIPL chicks and adults being territorial. Not sure if separate broods or same as before.
+SC,Folly Beach Lighthouse Inlet,Walkers,9-Jun-24,10:58,N,9:30,10:40,26,31,12,11,B,Abby Burke,3,9:50,P,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,
+SC,Folly Beach Lighthouse Inlet,Walkers,9-Jun-24,10:58,N,9:30,10:40,26,31,12,11,B,Abby Burke,4,10:05,P,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,one egret 
+SC,Folly Beach Lighthouse Inlet,Walkers,17-Jun-24,4:45,N,7:33,8:30,29,30,19,20,B,Abby Burke,1,7:33,N,0,0,0,0,0,0,1,3,0,0,0,3,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,17-Jun-24,4:45,N,7:33,8:30,29,30,19,20,B,Abby Burke,2,7:56,P,0,0,0,0,0,3,0,5,0,0,0,3,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,17-Jun-24,4:45,N,7:33,8:30,29,30,19,20,B,Abby Burke,3,8:12,P,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1 WILL
+SC,Folly Beach Lighthouse Inlet,Walkers,17-Jun-24,4:45,N,7:33,8:30,29,30,19,20,B,Abby Burke,4,8:24,P,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,24-Jun-24,10:20,N,7:27,8:50,30,31,27,25,B,Abby Burke Erin Rogers,1,7:39,N,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,
+SC,Folly Beach Lighthouse Inlet,Walkers,24-Jun-24,10:20,N,7:27,8:50,30,31,27,25,B,Abby Burke,2,8:14,P,0,0,0,0,0,4,0,2,0,0,0,1,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,24-Jun-24,10:20,N,7:27,8:50,30,31,27,25,B,Abby Burke,3,8:32,P,0,1,0,0,0,0,0,0,0,2,0,0,0,0,2,
+SC,Folly Beach Lighthouse Inlet,Walkers,24-Jun-24,10:20,N,7:27,8:50,30,31,27,25,B,Abby Burke Erin Rogers,4,8:40,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+SC,Folly Beach Lighthouse Inlet,Walkers,1-Jul-24,4:24,N,7:18,8:20,30,31,6,8,B,Abby Burke Erin Rogers,1,7:19,N,0,0,0,0,0,1,0,1,0,0,0,10,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,1-Jul-24,4:24,N,7:18,8:20,30,31,6,8,B,Abby Burke Erin Rogers,2,7:51,P,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,2 WILL
+SC,Folly Beach Lighthouse Inlet,Walkers,1-Jul-24,4:24,N,7:18,8:20,30,31,6,8,B,Abby Burke Erin Rogers,3,8:03,P,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,1-Jul-24,4:24,N,7:18,8:20,30,31,6,8,B,Abby Burke Erin Rogers,4,8:16,P,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,8-Jul-24,10:33,N,8:28,10:00,32,33,8,10,B,Abby Burke,1,8:29,N,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,8-Jul-24,10:33,N,8:28,10:00,32,33,8,10,B,Abby Burke,2,8:38,P,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,8-Jul-24,10:33,N,8:28,10:00,32,33,8,10,B,Abby Burke,3,8:51,P,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,8-Jul-24,10:33,N,8:28,10:00,32,33,8,10,B,Abby Burke,4,9:00,P,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6,
+SC,Folly Beach Lighthouse Inlet,Walkers,19-Jul-24,6:39,N,7:54,8:25,27,26,14,13,B,Abby Burke Erin Rogers,1,7:55,N,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,19-Jul-24,6:39,N,7:54,8:25,27,26,14,13,B,Abby Burke Erin Rogers,2,8:11,P,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,19-Jul-24,6:39,N,7:54,8:25,27,26,14,13,B,Abby Burke Erin Rogers,3,8:20,P,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,Stopped survey due to severe weather. Did not do point 4.
+SC,Folly Beach Lighthouse Inlet,Walkers,23-Jul-24,11:01,N,17:24,18:17,32,31,19,19,B,Abby Burke Erin Rogers,1,17:24,N,0,1,0,0,0,0,0,0,0,0,0,1,0,0,3,
+SC,Folly Beach Lighthouse Inlet,Walkers,23-Jul-24,11:01,N,17:24,18:17,32,31,19,19,B,Abby Burke Erin Rogers,2,17:44,P,0,1,0,0,0,1,0,0,1,1,0,0,0,0,20,
+SC,Folly Beach Lighthouse Inlet,Walkers,23-Jul-24,11:01,N,17:24,18:17,32,31,19,19,B,Abby Burke Erin Rogers,3,17:58,P,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,dog tracks seen
+SC,Folly Beach Lighthouse Inlet,Walkers,23-Jul-24,11:01,N,17:24,18:17,32,31,19,19,B,Abby Burke Erin Rogers,4,18:12,P,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,On return trip 2 off leash dogs ran through the closed off shorebird nesting area. We spoke to the owners and the dogs eventually came back.
+SC,Folly Beach Lighthouse Inlet,Walkers,31-Jul-24,5:08,N,17:27,18:14,31,30,21,21,B,Abby Burke Erin Rogers,1,17:27,N,0,0,0,0,0,0,4,2,0,1,0,1,0,0,0,WIPL is a chick
+SC,Folly Beach Lighthouse Inlet,Walkers,31-Jul-24,5:08,N,17:27,18:14,31,30,21,21,B,Abby Burke Erin Rogers,2,17:41,P,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,31-Jul-24,5:08,N,17:27,18:14,31,30,21,21,B,Abby Burke Erin Rogers,3,17:56,P,0,2,0,0,0,0,0,1,0,0,0,0,0,0,3,
+SC,Folly Beach Lighthouse Inlet,Walkers,31-Jul-24,5:08,N,17:27,18:14,31,30,21,21,B,Abby Burke Erin Rogers,4,18:12,P,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2 LETE. Missed following week of data collection due to tropical storm.
+SC,Folly Beach Lighthouse Inlet,Walkers,12-Aug-24,1:09,N,12:35,14:20,32,32,23,23,B,Erin Rogers,1,13:02,N,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"Most sections of fencing taken down last week prior to the storm, some sections still partially up. WIPLs: one adult, one old chick; chick not seen flying but looks old enough to fledge."
+SC,Folly Beach Lighthouse Inlet,Walkers,12-Aug-24,1:09,N,12:35,14:20,32,32,23,23,B,Erin Rogers,2,13:17,P,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,12-Aug-24,1:09,N,12:35,14:20,32,32,23,23,B,Erin Rogers,3,13:27,P,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,One BBPL seen at this point on walk out of site.
+SC,Folly Beach Lighthouse Inlet,Walkers,12-Aug-24,1:09,N,12:35,14:20,32,32,23,23,B,Erin Rogers,4,13:37,P,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,22-Aug-24,10:42,N,12:32,14:00,26,26,29,29,B,Abby Burke Erin Rogers,1,12:32,N,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,"7 COTE, 2 WHIM, 11 ROTE, 5 GBTE, 3 RUTU. No fencing up anymore at site."
+SC,Folly Beach Lighthouse Inlet,Walkers,22-Aug-24,10:42,N,12:32,14:00,26,26,29,29,B,Abby Burke Erin Rogers,2,12:52,N,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,22-Aug-24,10:42,N,12:32,14:00,26,26,29,29,B,Abby Burke Erin Rogers,3,13:09,N,0,0,0,0,0,4,0,0,0,0,0,2,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,22-Aug-24,10:42,N,12:32,14:00,26,26,29,29,B,Abby Burke Erin Rogers,4,13:21,N,0,1,0,0,0,0,1,0,0,3,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,26-Aug-24,1:44,N,7:20,9:00,25,27,11,14,N,Erin Rogers,1,7:35,N,0,0,0,0,0,1,0,0,1,0,0,1,5,0,0,"All fencing at site has been removed. Other species observed on beach: SEPL, BBPL, LAGU, WILL, RUTU, BLSK, TRHE. Low tide at 7:42am, lots of good foraging habitat exposed."
+SC,Folly Beach Lighthouse Inlet,Walkers,26-Aug-24,1:44,N,7:20,9:00,25,27,11,14,N,Erin Rogers,2,7:55,N,0,0,0,0,0,0,0,0,3,1,0,0,1,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,26-Aug-24,1:44,N,7:20,9:00,25,27,11,14,N,Erin Rogers,3,8:16,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,no birds
+SC,Folly Beach Lighthouse Inlet,Walkers,26-Aug-24,1:44,N,7:20,9:00,25,27,11,14,N,Erin Rogers,4,8:25,N,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,5-Sep-24,10:15,N,14:00,15:30,27,27,30,35,N,Abby Burke  ,1,14:17,N,0,0,0,0,0,2,0,0,0,0,0,0,38,6,0,"6 ROTE, 13 SEPL, 1 BBPL. On return trip after survey 3 kite surfers were out near point 1 and flushed all the birds. Three PIPL seen on return trip, one banded."
+SC,Folly Beach Lighthouse Inlet,Walkers,5-Sep-24,10:15,N,14:00,15:30,27,27,30,35,N,Abby Burke  ,2,14:28,N,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,no birds
+SC,Folly Beach Lighthouse Inlet,Walkers,5-Sep-24,10:15,N,14:00,15:30,27,27,30,35,N,Abby Burke  ,3,14:45,N,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,5-Sep-24,10:15,N,14:00,15:30,27,27,30,35,N,Abby Burke  ,4,15:00,N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11 BLSK. 2 jet skis also came through after survey and flushed the birds.
+SC,Folly Beach Lighthouse Inlet,Walkers,9-Sep-24,12:28,N,7:05,8:15,21,22,18,19,N,Erin Rogers,1,7:15,N,0,0,0,0,0,1,0,0,1,0,0,1,15,0,1,dog tracks seen in sand
+SC,Folly Beach Lighthouse Inlet,Walkers,9-Sep-24,12:28,N,7:05,8:15,21,22,18,19,N,Erin Rogers,2,7:32,N,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,
+SC,Folly Beach Lighthouse Inlet,Walkers,9-Sep-24,12:28,N,7:05,8:15,21,22,18,19,N,Erin Rogers,3,7:43,N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dog tracks seen in sand. no birds.
+SC,Folly Beach Lighthouse Inlet,Walkers,9-Sep-24,12:28,N,7:05,8:15,21,22,18,19,N,Erin Rogers,4,7:52,N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"other species seen: RUTU, LAGU, WILL, SEPL, BBPL, TRHE"
+SC,Folly Beach Lighthouse Inlet,Walkers,19-Sep-24,9:26,N,15:30,16:28,27,27,6,7,N,Abby Burke Erin Rogers,1,15:30,N,4,1,0,0,0,9,0,0,2,0,0,1,24,0,6,1 BBPL
+SC,Folly Beach Lighthouse Inlet,Walkers,19-Sep-24,9:26,N,15:30,16:28,27,27,6,7,N,Abby Burke Erin Rogers,2,15:55,N,4,0,0,0,0,8,1,0,4,1,0,0,3,0,0,"3 SEPL, 1 BBPL, 4 RUTU"
+SC,Folly Beach Lighthouse Inlet,Walkers,19-Sep-24,9:26,N,15:30,16:28,27,27,6,7,N,Abby Burke Erin Rogers,3,16:16,N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no birds
+SC,Folly Beach Lighthouse Inlet,Walkers,19-Sep-24,9:26,N,15:30,16:28,27,27,6,7,N,Abby Burke Erin Rogers,4,16:28,N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no birds
+SC,Harbor Island,Dog_leash,12-Jun-24,12:59,N,16:00,17:30,29,27,19,19,C,"Peggy Lucas, Hal Carter, Sally Jesse, Barb Goble",1,16:05,N,0,0,0,0,1,24,19,0,0,0,0,0,0,0,0,no birds
+SC,Harbor Island,Dog_leash,12-Jun-24,12:59,N,16:00,17:30,29,27,19,19,C,"Peggy Lucas, Hal Carter, Sally Jesse, Barb Goble",2,16:15,N,0,0,1,0,0,4,21,0,0,0,0,0,0,0,0,1 kite flying on the beach. No birds 
+SC,Harbor Island,Dog_leash,12-Jun-24,12:59,N,16:00,17:30,29,27,19,19,P,"Peggy Lucas, Hal Carter, Sally Jesse, Barb Goble",3,16:35,N,0,0,0,0,0,0,2,0,0,0,0,16,3,1,0,13 adult WIPL and 3 WIPL chicks
+SC,Harbor Island,Dog_leash,3-May-24,NA,N,15:15,16:36,27,26,14,16,C,"Hal Carter, Mary Beth Roy, Peggy Lucas",1,15:15,N,0,0,0,1,0,10,19,0,0,0,0,0,12,0,0,
+SC,Harbor Island,Dog_leash,3-May-24,NA,N,15:15,16:36,27,26,14,16,C,"Hal Carter, Mary Beth Roy, Peggy Lucas",2,15:41,N,0,0,0,2,3,3,14,0,0,0,0,1,7,0,0,
+SC,Harbor Island,Dog_leash,3-May-24,NA,N,15:15,16:36,27,26,14,16,C,"Hal Carter, Mary Beth Roy, Peggy Lucas",3,16:07,P,0,0,0,1,13,4,0,0,2,8,0,0,9,0,0,
+SC,Harbor Island,Dog_leash,28-Jun-24,1:48,N,16:35,18:00,30,28,16,16,C,"Peggy Lucas, Hal Carter, Mary Beth Roy",1,16:40,N,1,0,0,1,0,18,22,0,0,0,0,0,0,0,0,There were no birds within this observation point. Golf cart rode down beach with 1 person & 1 dog in it. They did not leave the cart.
+SC,Harbor Island,Dog_leash,28-Jun-24,1:48,N,16:35,18:00,30,28,16,16,C,"Peggy Lucas, Hal Carter, Mary Beth Roy",2,17:00,N,0,0,0,1,0,26,27,0,0,0,0,0,0,0,0,no birds
+SC,Harbor Island,Dog_leash,28-Jun-24,1:48,N,16:35,18:00,30,28,16,16,C,"Peggy Lucas, Hal Carter, Mary Beth Roy",3,17:15,P,0,0,0,0,0,1,0,0,0,0,0,8,5,0,3,Wilson's plover adults and fledglings 
+SC,Harbor Island,Dog_leash,21-Jun-24,8:12,N,9:33,10:45,26,28,22,43,C,"Peggy Lucas, Hal Carter, Sally Jesse",1,9:36,N,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,Because of the high winds the tide was up much further than usual at leaving little room on the beach at the first 2 pts
+SC,Harbor Island,Dog_leash,21-Jun-24,8:12,N,9:33,10:45,26,28,22,43,C,"Peggy Lucas, Hal Carter, Sally Jesse",2,9:50,N,0,0,0,0,0,19,12,0,0,0,0,0,0,0,0,no birds
+SC,Harbor Island,Dog_leash,21-Jun-24,8:12,N,9:33,10:45,26,28,22,43,C,"Peggy Lucas, Hal Carter, Sally Jesse",3,10:01,N,0,0,0,0,1,18,4,0,0,0,0,17,0,0,0,We saw 7 adult Wilson's Plovers  & 10 Chicks but no other target species
+SC,Harbor Island,Dog_leash,3-Jun-24,5:59,N,9:00,10:20,25,26,9,14,C,"Peggy Lucas, Sally Jesse, Barb Goble",1,9:05,N,0,0,0,0,0,5,11,0,0,0,0,0,0,0,0,
+SC,Harbor Island,Dog_leash,3-Jun-24,5:59,N,9:00,10:20,25,26,9,14,C,"Peggy Lucas, Sally Jesse, Barb Goble",2,9:25,N,0,0,0,0,3,14,4,0,0,0,0,1,0,0,0,
+SC,Harbor Island,Dog_leash,3-Jun-24,5:59,N,9:00,10:20,25,26,9,14,P,"Peggy Lucas, Sally Jesse, Barb Goble",3,9:50,N,0,0,0,0,0,13,0,0,0,0,0,26,0,25,0,We saw 14 adult Wilson's and 12 Chicks.
+SC,Harbor Island,Dog_leash,19-Jul-24,6:55,N,16:00,17:00,30,28,17,24,C,"Peggy Lucas, Hal Carter, Sally Jesse",1,16:05,N,0,0,0,0,1,3,17,0,0,0,0,0,0,0,0,
+SC,Harbor Island,Dog_leash,19-Jul-24,6:55,N,16:00,17:00,30,28,17,24,C,"Peggy Lucas, Hal Carter, Sally Jesse",2,16:20,N,0,0,0,0,0,10,4,0,0,0,0,0,0,0,0,
+SC,Harbor Island,Dog_leash,19-Jul-24,6:55,N,16:00,17:00,30,28,17,24,C,"Peggy Lucas, Hal Carter, Sally Jesse",3,16:35,P,0,0,0,0,0,0,0,0,0,2,0,4,0,0,15,There was a storm approaching and lightening in the distance so we hurried to get the survey done
+SC,Harbor Island,Dog_leash,12-Jul-24,1:07,N,10:00,11:00,29,29,1,4,C,"Peggy Lucas, Barb Goble, Hal Carter, Sally Jesse",1,10:05,N,0,0,0,0,2,25,12,0,0,0,0,0,0,0,0,
+SC,Harbor Island,Dog_leash,12-Jul-24,1:07,N,10:00,11:00,29,29,1,4,C,"Peggy Lucas, Barb Goble, Hal Carter, Sally Jesse",2,10:15,N,0,0,0,0,1,8,6,0,0,0,0,0,0,0,0,
+SC,Harbor Island,Dog_leash,12-Jul-24,1:07,N,10:00,11:00,29,29,1,4,C,"Peggy Lucas, Barb Goble, Hal Carter, Sally Jesse",3,10:30,P,0,0,0,0,0,5,0,0,1,0,0,11,1,0,86,Excited to see first returnig PIPL. All the Wilson's chicks have fledged.
+SC,Harbor Island,Dog_leash,30-Jul-24,4:22,N,14:55,16:00,32,32,14,16,C,"Peggy Lucas, Hal Carter, Sally Jesse",1,15:00,N,0,0,0,0,0,22,22,0,0,0,0,0,27,0,0,A lot of people on the beach but the SAND were back and tolerate their presence
+SC,Harbor Island,Dog_leash,30-Jul-24,4:22,N,14:55,16:00,32,32,14,16,C,"Peggy Lucas, Hal Carter, Sally Jesse",2,15:15,N,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,
+SC,Harbor Island,Dog_leash,30-Jul-24,4:22,N,14:55,16:00,32,32,14,16,C,"Peggy Lucas, Hal Carter, Sally Jesse",3,15:30,P,0,0,0,0,0,4,4,0,1,2,0,0,7,0,0,Fewer people on this part of the beach but ones moving did disturb birds that were there causing them to fly off
+SC,Harbor Island,Dog_leash,26-Apr-24,10:20,N,10:06,11:23,20,21,16,24,C,"Peggy Lucas, Mary Beth Roy, Barb Goble",1,10:08,N,0,0,0,0,2,3,0,0,0,0,0,0,14,0,0,
+SC,Harbor Island,Dog_leash,26-Apr-24,10:20,N,10:06,11:23,20,21,16,24,C,"Peggy Lucas, Mary Beth Roy, Barb Goble",2,10:28,N,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,
+SC,Harbor Island,Dog_leash,26-Apr-24,10:20,N,10:06,11:23,20,21,16,24,C,"Peggy Lucas, Mary Beth Roy, Barb Goble",3,10:58,N,0,0,1,0,0,0,0,0,9,0,0,1,39,0,0,Coast Guard Helicopter flew low over beach and flushed birds
+SC,Harbor Island,Dog_leash,22-May-24,8:02,N,10:08,11:50,23,27,5,4,C,"Peggy Lucas, Mary Beth Roy, Hal Carter",1,10:13,N,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,no birds
+SC,Harbor Island,Dog_leash,22-May-24,8:02,N,10:08,11:50,23,27,5,4,C,"Peggy Lucas, Mary Beth Roy, Hal Carter",2,10:38,N,0,0,0,0,1,15,7,0,0,0,0,0,133,0,0,we saw one Wilson's plover while moving between pt 2 and pt 3
+SC,Harbor Island,Dog_leash,22-May-24,8:02,N,10:08,11:50,23,27,5,4,C,"Peggy Lucas, Mary Beth Roy, Hal Carter",3,11:05,P,1,0,1,0,0,9,1,0,0,0,0,4,152,0,0,1 airplane went over survey area at extremely low altitude. 1 golf cart was on beach and stopped just inside survey area.
+CT,Bushy Beach,None,21-May-24,8:24,,11:15,13:25,16,16,14,14,,T. Grimm,1,11:27,C,0,0,1,0,0,2,3,0,0,0,0,0,0,0,0,
+CT,Bushy Beach,None,21-May-24,8:24,,11:15,13:25,16,16,14,14,,T. Grimm,2,11:42,C,0,1,0,0,0,0,0,2,2,0,0,0,0,0,0,Predetors= 2 Gulls
+CT,Bushy Beach,None,21-May-24,8:24,,11:15,13:25,16,16,14,14,,T. Grimm,3,12:10,C,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,
+CT,Bushy Beach,None,21-May-24,8:24,,11:15,13:25,16,16,14,14,,T. Grimm,4,12:48,N,0,3,1,0,0,1,4,0,2,0,0,0,0,0,0,
+CT,Housatonic: Milford Point,Walkers,21-May-24,10:45,,14:57,16:08,21,21,11,11,,"B. Inclima, J Haupel",5,15:30,P,0,0,1,0,0,9,2,14,5,2,0,0,0,2,0,"Predators = 13 Gulls, 1 SMEG"
+CT,Housatonic: Milford Point,Walkers,21-May-24,10:45,,14:57,16:08,21,21,11,11,,"B. Inclima, J Haupel",6,16:02,P,0,1,1,0,0,0,0,46,6,2,0,0,0,0,0,Predators = 46 Gulls
+CT,Housatonic: Milford Shoreline,Walkers,21-May-24,10:45,,14:57,16:08,21,21,11,11,,"B. Inclima, J Haupel",7,15:00,N,1,1,0,0,0,2,4,4,1,0,0,0,0,0,0,"Predators = 3 Gulls, 1 FICR"
+CT,Housatonic: Milford Shoreline,Walkers,21-May-24,10:45,,14:57,16:08,21,21,11,11,,"B. Inclima, J Haupel",8,15:12,N,1,0,0,0,0,3,7,9,2,1,0,0,0,0,0,Predators = 9 Gulls
+CT,Sandy Point,None,23-May-24,2:00,,12:16,16:16,20,20,10,11,,B. Inclima ,4,12:20,N,0,0,0,0,0,3,0,2,0,0,0,0,0,0,4,Predators = Gulls
+CT,Sandy Point,None,23-May-24,2:00,,12:16,16:16,20,20,10,11,,B. Inclima ,5,12:38,N,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,Predators = Gull
+CT,Sandy Point,None,23-May-24,2:00,,12:16,16:16,20,20,10,11,,B. Inclima ,6,12:58,P,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,
+CT,Sandy Point,None,23-May-24,2:00,,12:16,16:16,20,20,10,11,,B. Inclima ,7,13:24,P,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,Predators = Gulls
+CT,Sandy Point,None,23-May-24,2:00,,12:16,16:16,20,20,10,11,,B. Inclima ,8,14:12,P,0,0,0,0,0,0,0,9,6,2,0,0,0,21,30,Predators = Gulls
+CT,Long Beach,Walkers,24-May-24,0:18,,13:30,17:15,24,26,2,3,,J. Esposito-Halka,2,13:50,P,0,0,1,0,0,0,0,5,4,0,0,0,0,13,0,
+CT,Long Beach,Walkers,24-May-24,0:18,,13:30,17:15,24,26,2,3,,J. Esposito-Halka,3,14:25,P,0,0,2,0,0,2,1,4,4,0,0,0,2,69,0,
+CT,Long Beach,Walkers,24-May-24,0:18,,13:30,17:15,24,26,2,3,,J. Esposito-Halka,4,15:02,P,0,0,1,0,0,1,0,0,6,0,0,0,39,60,0,
+CT,Long Beach,Walkers,24-May-24,0:18,,13:30,17:15,24,26,2,3,,J. Esposito-Halka,5,15:54,P,0,0,2,0,0,0,0,4,4,0,0,0,0,0,0,
+CT,Long Beach,Walkers,24-May-24,0:18,,13:30,17:15,24,26,2,3,,J. Esposito-Halka,6,16:43,P,0,0,1,0,0,4,8,9,2,0,0,0,0,0,0,
+CT,Housatonic: Milford Point,Walkers,30-May-24,5:05,,12:51,14:09,19,19,22.5,17.7,,J. Heupel,5,13:29,P,0,0,1,1,0,3,0,3,1,0,0,0,0,0,0,Predators = 1 FICR and 2 HEGU
+CT,Housatonic: Milford Point,Walkers,30-May-24,5:05,,12:51,14:09,19,19,22.5,17.7,,J. Heupel,6,14:02,P,0,0,0,0,0,3,0,1,4,2,0,0,1,37,39,Predators = HEGU
+CT,Housatonic: Milford Shoreline,Walkers,30-May-24,5:05,,12:51,14:09,19,19,22.5,17.7,,J. Heupel,8,12:56,N,0,0,0,0,0,2,0,5,0,2,0,0,0,0,0,Predators = Gulls
+CT,Housatonic: Milford Shoreline,Walkers,30-May-24,5:05,,12:51,14:09,19,19,22.5,17.7,,J. Heupel,7,13:15,N,0,0,0,0,0,2,2,3,0,5,0,0,0,0,0,Predators = Gulls
+CT,Bushy Beach,None,31-May-24,4:23,,12:30,17:03,22,21,8,14,,T.Grimm,1,12:48,C,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,
+CT,Bushy Beach,None,31-May-24,4:23,,12:30,17:03,22,21,8,14,,T.Grimm,2,1:23,C,0,1,1,0,0,1,2,1,2,0,0,0,0,0,0,Predetors = 1 HEGU
+CT,Bushy Beach,None,31-May-24,4:23,,12:30,17:03,22,21,8,14,,T.Grimm,3,2:12,C,0,2,0,0,0,2,4,1,4,3,0,0,0,0,0,Predetors = 1 AMCR
+CT,Bushy Beach,None,31-May-24,4:23,,12:30,17:03,22,21,8,14,,T.Grimm,4,3:08,N,0,5,1,0,0,4,8,1,2,0,0,0,0,0,0,Predetors = 1 HEGU
+CT,Long Beach,Walkers,31-May-24,6:19,,10:55,13:50,18,22,13,10,,J. Esposito-Halka,6,11:00,P,0,0,2,0,0,2,0,8,1,0,0,0,0,0,0,Predators: 1 GREG; canid tracks & digging observed
+CT,Long Beach,Walkers,31-May-24,6:19,,10:55,13:50,18,22,13,10,,J. Esposito-Halka,5,11:21,P,0,0,2,0,0,1,0,44,9,1,0,0,0,14,0,Canid tracks observed
+CT,Long Beach,Walkers,31-May-24,6:19,,10:55,13:50,18,22,13,10,,J. Esposito-Halka,4,12:19,P,0,0,1,0,0,1,1,3,5,0,0,0,0,2,0,"Canid tracks observed, 2 kayakers"
+CT,Long Beach,Walkers,31-May-24,6:19,,10:55,13:50,18,22,13,10,,J. Esposito-Halka,3,12:44,P,0,2,0,0,0,1,0,2,5,0,0,0,0,0,0,Canid tracks and digging observed
+CT,Long Beach,Walkers,31-May-24,6:19,,10:55,13:50,18,22,13,10,,J. Esposito-Halka,2,13:23,P,0,0,0,0,0,9,7,5,1,1,0,0,0,0,0,Predators: 2 FICR + Gull
+CT,Sandy Point,None,2-Jun-24,8:10,,9:18,12:51,20,20,4,5,,B. Inclima,4,9:21,N,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,
+CT,Sandy Point,None,2-Jun-24,8:10,,9:18,12:51,20,20,4,5,,B. Inclima,5,9:37,P,0,1,0,0,0,1,0,1,0,0,0,0,8,4,0,Predators = Gull
+CT,Sandy Point,None,2-Jun-24,8:10,,9:18,12:51,20,20,4,5,,B. Inclima,6,10:06,P,0,0,0,0,0,3,0,0,1,0,0,0,0,12,0,
+CT,Sandy Point,None,2-Jun-24,8:10,,9:18,12:51,20,20,4,5,,B. Inclima,7,10:37,P,0,0,0,0,0,2,2,0,4,2,0,0,0,6,0,
+CT,Sandy Point,None,2-Jun-24,8:10,,9:18,12:51,20,20,4,5,,B. Inclima,8,11:51,P,0,0,0,0,0,0,2,21,4,4,0,0,0,10,0,Predators = Gulls
+CT,Long Beach,Walkers,5-Jun-24,10:56,,9:39,13:18,19,22,8,8,,B. Inclima,8,12:20,P,0,0,0,0,0,0,0,13,4,3,0,0,0,4,0,Predators = Gulls
+CT,Sandy Point,None,5-Jun-24,10:56,,9:39,13:18,19,22,8,8,,B. Inclima,4,9:42,N,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+CT,Sandy Point,None,5-Jun-24,10:56,,9:39,13:18,19,22,8,8,,B. Inclima,5,9:57,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+CT,Sandy Point,None,5-Jun-24,10:56,,9:39,13:18,19,22,8,8,,B. Inclima,6,10:18,P,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,"FICR landed on excl following PC, put both PIPL on alert"
+CT,Sandy Point,None,5-Jun-24,10:56,,9:39,13:18,19,22,8,8,,B. Inclima,7,11:26,P,0,0,0,0,0,3,1,2,7,1,0,0,0,13,0,Predators = FICR
+CT,Bushy Beach,None,7-Jun-24,0:12,,12:06,13:40,20,21,9,7,,J. Horne/T. Grimm,1,12:20,C,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,
+CT,Bushy Beach,None,7-Jun-24,0:12,,12:06,13:40,20,21,9,7,,J. Horne/T. Grimm,2,12:38,C,0,1,0,0,0,3,0,0,1,0,0,0,0,0,0,
+CT,Bushy Beach,None,7-Jun-24,0:12,,12:06,13:40,20,21,9,7,,J. Horne/T. Grimm,3,12:48,C,0,0,2,0,0,0,0,0,1,2,0,0,0,0,0,"PIPL G_PKL, AMOY Y_N05"
+CT,Bushy Beach,None,7-Jun-24,0:12,,12:06,13:40,20,21,9,7,,J. Horne/T. Grimm,4,12:55,N,0,0,4,0,0,1,1,0,1,0,0,0,0,0,0,
+CT,Housatonic: Milford Point,Walkers,7-Jun-24,0:00,,9:52,11:34,22,24,8,11.3,,M. Joyce,8,9:55,N,2,0,0,0,0,2,3,0,0,0,0,0,0,0,0,Vehicles = 2 ride on lawn mowers on residential area
+CT,Housatonic: Milford Point,Walkers,7-Jun-24,0:00,,9:52,11:34,22,24,8,11.3,,M. Joyce,7,10:10,N,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,
+CT,Housatonic: Milford Point,Walkers,7-Jun-24,0:00,,9:52,11:34,22,24,8,11.3,,M. Joyce,6,10:28,P,0,0,0,0,0,2,4,0,2,0,0,0,0,48,48,
+CT,Housatonic: Milford Point,Walkers,7-Jun-24,0:00,,9:52,11:34,22,24,8,11.3,,M. Joyce,5,11:19,P,0,0,0,0,0,0,0,0,1,2,0,0,0,26,28,X2 WR Sandpiper present - will update #Peeps after clarifying somethig with Milan
+CT,Long Beach,Walkers,7-Jun-24,0:12,,12:55,15:20,24,25,9,10,,J. Esposito-Halka,2,15:03,P,24,0,0,0,0,7,20,19,2,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,7-Jun-24,0:12,,12:55,15:20,24,25,9,10,,J. Esposito-Halka,3,14:42,P,0,0,1,0,0,1,0,1,11,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,7-Jun-24,0:12,,12:55,15:20,24,25,9,10,,J. Esposito-Halka,4,13:50,P,0,0,3,0,0,0,0,3,11,5,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,7-Jun-24,0:12,,12:55,15:20,24,25,9,10,,J. Esposito-Halka,5,13:24,P,0,0,1,0,0,3,0,5,11,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,7-Jun-24,0:12,,12:55,15:20,24,25,9,10,,J. Esposito-Halka,6,13:00,P,0,0,0,0,0,1,0,7,2,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,10-Jun-24,2:27,,11:54,13:45,19,20,17,16,,B. Inclima,6,11:58,P,0,0,1,0,0,0,0,4,2,0,0,0,0,0,0,Predators = Gulls
+CT,Long Beach,Walkers,10-Jun-24,2:27,,11:54,13:45,19,20,17,16,,B. Inclima,5,12:33,P,0,0,0,0,0,2,0,3,7,0,0,0,0,0,0,Predators = Gulls
+CT,Long Beach,Walkers,10-Jun-24,2:27,,11:54,13:45,19,20,17,16,,B. Inclima,4,12:50,P,0,0,0,0,0,0,0,1,6,1,0,0,0,0,0,Predator = Gull
+CT,Long Beach,Walkers,10-Jun-24,2:27,,11:54,13:45,19,20,17,16,,B. Inclima,3,13:22,P,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,Predator = FICR
+CT,Long Beach,Walkers,10-Jun-24,2:27,,11:54,13:45,19,20,17,16,,B. Inclima,2,13:40,P,0,1,0,0,0,0,3,6,0,0,0,0,0,0,0,Predator = Gulls
+CT,Bushy Beach,None,12-Jun-24,2:31,,14:06,17:20,22,24,12.5,19,,T. Grimm,2,14:52,C,0,1,0,0,0,0,4,2,4,0,0,0,0,0,0,Predetors = 2 Gulls 
+CT,Bushy Beach,None,12-Jun-24,2:31,,14:06,17:20,22,24,12.5,19,,T. Grimm,3,15:24,C,0,0,1,0,0,2,4,5,4,4,0,0,0,0,0,"Predetors = 3 Gulls 2 GREG, PIPL G_PKL, AMOY Y_N05"
+CT,Bushy Beach,None,12-Jun-24,2:31,,14:06,17:20,22,24,12.5,19,,T. Grimm,4,16:08,N,0,2,1,0,0,3,10,4,6,0,0,0,0,0,0,Predetors = 3 Gulls 1 GREG. 2 PIPL adults 4 downy chicks 
+CT,Bushy Beach,None,13-Jun-24,2:31,,14:06,17:20,22,24,12.5,19,,T. Grimm,1,14:19,C,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,
+CT,Housatonic: Milford Point,Walkers,13-Jun-24,4:55,,12:08,14:25,24,27,14.5,19,,J. Heupel/M. Joyce,5,12:47,P,0,0,0,0,0,6,1,0,1,0,0,0,0,0,0,
+CT,Housatonic: Milford Point,Walkers,13-Jun-24,4:55,,12:08,14:25,24,27,14.5,19,,J. Heupel/M. Joyce,6,13:09,P,0,0,2,0,0,2,0,1,1,2,0,0,1,0,0,Predator: Gull
+CT,Housatonic: Milford Shoreline,Walkers,13-Jun-24,4:55,,12:08,14:25,24,27,14.5,19,,J. Heupel/M. Joyce,8,12:13,N,0,0,1,0,0,8,17,5,0,0,0,0,0,0,0,"Predators: 3 Gulls, 1 Fox, 1 Fish Crow"
+CT,Housatonic: Milford Shoreline,Walkers,13-Jun-24,4:55,,12:08,14:25,24,27,14.5,19,,J. Heupel/M. Joyce,7,12:22,N,0,0,0,0,1,4,5,3,0,1,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,14-Jun-24,5:46,,9:38,13:48,22,24,14,14,,B. Inclima,4,9:41,N,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,Predator: Gull
+CT,Sandy Point,None,14-Jun-24,5:46,,9:38,13:48,22,24,14,14,,B. Inclima,5,9:55,P,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Predator: Gull
+CT,Sandy Point,None,14-Jun-24,5:46,,9:38,13:48,22,24,14,14,,B. Inclima,6,10:09,P,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,Predator: Gull
+CT,Sandy Point,None,14-Jun-24,5:46,,9:38,13:48,22,24,14,14,,B. Inclima,7,10:53,P,0,0,0,0,0,0,0,2,4,1,0,0,0,11,0,Predator: Gull
+CT,Sandy Point,None,14-Jun-24,5:46,,9:38,13:48,22,24,14,14,,B. Inclima,8,12:12,P,0,0,0,0,0,0,0,7,5,2,0,0,0,2,0,"Predators: 6 Gulls, 1 Fish Crow"
+CT,Bushy Beach,None,19-Jun-24,8:27,,10:45,14:20,25.5,26.5,19,19,,T. Grimm,1,11:08,C,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,
+CT,Bushy Beach,None,19-Jun-24,8:27,,10:45,14:20,25.5,26.5,19,19,,T. Grimm,2,11:51,C,0,1,2,0,0,0,0,2,2,1,0,0,0,0,0,Predetor: 2 Gulls
+CT,Bushy Beach,None,19-Jun-24,8:27,,10:45,14:20,25.5,26.5,19,19,,T. Grimm,3,12:32,C,0,0,1,0,0,0,0,0,3,2,0,0,0,0,0,
+CT,Bushy Beach,None,19-Jun-24,8:27,,10:45,14:20,25.5,26.5,19,19,,T. Grimm,4,13:07,N,0,2,0,0,0,0,5,2,9,0,0,0,0,0,0,"4 older chicks, 5 adult PIPLs, Predetor 2 Gulls"
+CT,Sandy Point,None,19-Jun-24,10:06,,9:11,13:05,23,24,11,13,,B. Inclima,4,9:15,N,0,1,0,0,0,5,1,0,0,0,0,0,0,0,0,
+CT,Sandy Point,None,19-Jun-24,10:06,,9:11,13:05,23,24,11,13,,B. Inclima,5,9:32,P,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,Fishermen
+CT,Sandy Point,None,19-Jun-24,10:06,,9:11,13:05,23,24,11,13,,B. Inclima,6,9:46,P,0,0,0,0,0,0,7,0,0,6,0,0,0,0,0,
+CT,Sandy Point,None,19-Jun-24,10:06,,9:11,13:05,23,24,11,13,,B. Inclima,7,10:12,P,0,0,0,0,0,1,0,3,7,4,0,0,0,0,0,"Predators = Gulls, Person moving = biker"
+CT,Sandy Point,None,19-Jun-24,10:06,,9:11,13:05,23,24,11,13,,B. Inclima,8,11:16,P,0,0,0,0,0,0,0,11,6,2,0,0,6,2,0,Predators = Gulls
+CT,Housatonic: Milford Point,Walkers,20-Jun-24,10:53,,8:06,11:58,23,30.5,9.7,17.7,,J. Heupel,5,8:48,P,0,0,0,0,0,1,2,3,2,1,0,0,0,0,0,3 FICR
+CT,Housatonic: Milford Point,Walkers,20-Jun-24,10:53,,8:06,11:58,23,30.5,9.7,17.7,,J. Heupel,6,9:37,P,0,0,0,0,0,3,0,0,9,7,0,0,0,0,0,
+CT,Housatonic: Milford Shoreline,Walkers,20-Jun-24,10:53,,8:06,11:58,23,30.5,9.7,17.7,,J. Heupel,8,8:27,N,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,1 FICR
+CT,Housatonic: Milford Shoreline,Walkers,20-Jun-24,10:53,,8:06,11:58,23,30.5,9.7,17.7,,J. Heupel,7,8:35,N,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
+CT,Long Beach,Walkers,20-Jun-24,10:55,,9:00,13:00,28,30,14,16,,J. Esposito-Halka,6,11:56,P,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,1 fisherman
+CT,Long Beach,Walkers,20-Jun-24,10:55,,9:00,13:00,28,30,14,16,,J. Esposito-Halka,5,12:19,P,0,0,1,0,0,0,0,5,11,0,0,0,0,0,0,Predator: Gull
+CT,Long Beach,Walkers,20-Jun-24,10:55,,9:00,13:00,28,30,14,16,,J. Esposito-Halka,4,12:50,P,0,0,1,0,0,1,0,3,10,2,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,20-Jun-24,10:55,,9:00,13:00,28,30,14,16,,J. Esposito-Halka,3,13:21,P,0,0,2,0,0,1,1,1,10,0,0,0,0,0,0,"1 fisherman, Predators: Gull"
+CT,Long Beach,Walkers,20-Jun-24,10:55,,9:00,13:00,28,30,14,16,,J. Esposito-Halka,2,13:44,P,0,1,2,0,0,13,12,6,5,1,0,0,0,0,0,1 jetski riding towards B0 - lifeguards alerted them to stay away
+CT,Sandy Point,None,26-Jun-24,2:54,,13:23,16:03,29,29,16,18,,B. Inclima,4,13:26,N,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,
+CT,Sandy Point,None,26-Jun-24,2:54,,13:23,16:03,29,29,16,18,,B. Inclima,5,13:39,P,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,Predators = FICR
+CT,Sandy Point,None,26-Jun-24,2:54,,13:23,16:03,29,29,16,18,,B. Inclima,6,13:54,P,0,0,1,0,0,4,3,0,4,0,0,0,0,0,0,P14 and chicks
+CT,Sandy Point,None,26-Jun-24,2:54,,13:23,16:03,29,29,16,18,,B. Inclima,7,14:13,P,0,2,0,0,0,4,0,0,10,0,0,0,0,0,0,
+CT,Sandy Point,None,26-Jun-24,2:54,,13:23,16:03,29,29,16,18,,B. Inclima,8,14:53,P,0,0,0,0,0,0,0,10,3,4,0,0,0,0,0,Predators = Gulls
+CT,Housatonic: Milford Point,Walkers,27-Jun-24,3:51,,9:49,12:44,22,27,13,16,,J. Heupel / M. Joyce,5,9:49,P,0,0,1,0,0,8,0,0,1,0,0,0,0,0,0,
+CT,Housatonic: Milford Point,Walkers,27-Jun-24,3:51,,9:49,12:44,22,27,13,16,,J. Heupel / M. Joyce,56,10:52,P,0,0,0,0,0,3,2,2,1,1,0,0,0,0,0,Predators: GBHE
+CT,Housatonic: Milford Shoreline,Walkers,27-Jun-24,3:51,,9:49,12:44,22,27,13,16,,J. Heupel / M. Joyce,8,12:23,N,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,Predators: GREG & HEGU
+CT,Housatonic: Milford Shoreline,Walkers,27-Jun-24,3:51,,9:49,12:44,22,27,13,16,,J. Heupel / M. Joyce,7,12:34,N,1,0,0,0,0,5,4,0,0,0,0,0,0,0,0,
+CT,Bushy Beach,None,28-Jun-24,3:19,,13:45,16:00,22,22,1.5,12,,T.Grimm,1,14:03,C,0,0,1,0,0,6,2,1,3,0,0,0,0,0,0,Predetors = Gulls
+CT,Bushy Beach,None,28-Jun-24,3:19,,13:45,16:00,22,22,1.5,12,,T.Grimm,2,15:42,C,0,0,1,0,0,0,0,1,5,0,0,0,0,0,0,Predetors = Gulls
+CT,Bushy Beach,None,28-Jun-24,3:19,,13:45,16:00,22,22,1.5,12,,T.Grimm,3,14:48,C,0,5,0,0,0,0,2,3,3,2,0,0,0,0,0,Predetors = Gulls and GREG
+CT,Bushy Beach,None,28-Jun-24,3:19,,13:45,16:00,22,22,1.5,12,,T.Grimm,4,15:04,N,0,5,2,0,0,1,6,4,6,0,0,0,0,0,0,"Predetors = Gulls, 4 adult, 2 chick PIPL"
+CT,Long Beach,Walkers,29-Jun-24,5:59,,13:00,16:45,25,26,23,24,,J.Esposito-Halka,6,14:25,P,0,0,0,0,0,2,0,29,4,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,29-Jun-24,5:59,,13:00,16:45,25,26,23,24,,J.Esposito-Halka,5,14:51,P,0,0,0,0,0,3,2,3,7,0,0,0,0,0,0,"2 ppl resting = fishermen, Predators: Gull"
+CT,Long Beach,Walkers,29-Jun-24,5:59,,13:00,16:45,25,26,23,24,,J.Esposito-Halka,4,15:16,P,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,
+CT,Long Beach,Walkers,29-Jun-24,5:59,,13:00,16:45,25,26,23,24,,J.Esposito-Halka,3,15:35,P,0,0,0,0,0,2,0,2,7,0,0,0,0,0,0,"Predators: GREG, HEGU; 3 kitesurfers offshore"
+CT,Long Beach,Walkers,29-Jun-24,5:59,,13:00,16:45,25,26,23,24,,J.Esposito-Halka,2,16:15,P,0,0,0,0,0,9,9,3,4,0,0,0,0,0,0,6 ppl resting = fisherman; ATV tracks through nesting area.
+CT,Housatonic: Milford Point,Walkers,4-Jul-24,10:43,,9:55,11:06,23,24,13,14,,J. Heupel / M. Joyce,5,10:39,P,0,0,2,0,0,2,0,4,2,1,0,0,0,0,0,(Plus 4 PIPL Chicks); Predators = RBGU
+CT,Housatonic: Milford Point,Walkers,4-Jul-24,10:43,,9:55,11:06,23,24,13,14,,J. Heupel / M. Joyce,6,10:58,P,0,0,1,0,0,6,0,0,4,8,0,0,0,25,25,
+CT,Housatonic: Milford Shoreline,Walkers,4-Jul-24,10:43,,9:55,11:06,23,24,13,14,,J. Heupel / M. Joyce,8,10:17,N,1,4,0,0,0,20,4,0,0,0,0,0,0,0,0,
+CT,Housatonic: Milford Shoreline,Walkers,4-Jul-24,10:43,,9:55,11:06,23,24,13,14,,J. Heupel / M. Joyce,7,10:26,N,2,1,1,0,0,9,2,1,0,0,0,0,0,0,0,
+CT,Bushy Beach,None,6-Jul-24,11:28,,15:02,16:30,22,21,9,8,,J. Horne/T. Grimm,1,15:24,N,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,
+CT,Bushy Beach,None,6-Jul-24,11:38,,15:02,16:30,22,21,9,8,,J. Horne/T. Grimm,2,15:47,P,0,2,0,0,0,0,0,0,4,0,0,0,0,0,0,
+CT,Bushy Beach,None,6-Jul-24,11:38,,15:02,16:30,22,21,9,8,,J. Horne/T. Grimm,3,15:58,P,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,"PIPL G_PKL, "
+CT,Bushy Beach,None,6-Jul-24,11:38,,15:02,16:30,22,21,9,8,,J. Horne/T. Grimm,4,16:21,C,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,AMOY Y_N05
+CT,Long Beach,Walkers,6-Jul-24,12:32,,12:30,15:45,26,28,10,12,,J. Esposito-Halka,2,12:32,P,0,0,0,0,0,4,8,0,0,0,0,0,0,0,0,
+CT,Long Beach,Walkers,6-Jul-24,12:32,,12:30,15:45,26,28,10,12,,J. Esposito-Halka,3,12:54,P,0,0,0,0,0,2,3,1,8,2,0,0,0,0,0,Predators: HEGU
+CT,Long Beach,Walkers,6-Jul-24,12:32,,12:30,15:45,26,28,10,12,,J. Esposito-Halka,4,13:26,P,0,1,0,0,0,3,10,0,7,4,0,0,0,0,0,
+CT,Long Beach,Walkers,6-Jul-24,12:32,,12:30,15:45,26,28,10,12,,J. Esposito-Halka,5,14:25,P,0,0,0,0,0,3,1,8,7,0,0,0,0,0,0,Predators: HEGU
+CT,Long Beach,Walkers,6-Jul-24,12:32,,12:30,15:45,26,28,10,12,,J. Esposito-Halka,6,14:39,P,0,0,0,0,0,0,4,39,4,0,0,0,0,0,0,Predators: HEGU & RBGU
+CT,Sandy Point,None,7-Jul-24,0:28,,12:01,15:04,28,28,6,9,,B. Inclima,4,12:04,N,0,1,0,0,0,6,1,0,0,0,0,0,0,0,0,Low visibility
+CT,Sandy Point,None,7-Jul-24,0:28,,12:01,15:04,28,28,6,9,,B. Inclima,5,12:19,P,0,0,0,0,2,6,2,0,0,0,0,0,0,0,0,Low visibility
+CT,Sandy Point,None,7-Jul-24,0:28,,12:01,15:04,28,28,6,9,,B. Inclima,6,12:32,P,0,0,0,0,0,10,0,0,4,0,0,0,0,0,0,"Low visibility, fishermen"
+CT,Sandy Point,None,7-Jul-24,0:28,,12:01,15:04,28,28,6,9,,B. Inclima,7,1:13,P,0,2,0,0,0,5,0,1,5,0,0,0,0,8,0,"Low visibility, Predators = gulls"
+CT,Sandy Point,None,7-Jul-24,0:28,,12:01,15:04,28,28,6,9,,B. Inclima,8,1:55,P,0,1,0,0,0,0,3,3,2,4,0,0,0,0,0,Predators = Gulls
+CT,Bushy Beach,None,10-Jul-24,0:30,,12:45,15:45,24,27,13,21,,T. Grimm,1,12:53,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,Predators = Gulls
+CT,Bushy Beach,None,10-Jul-24,0:30,,12:45,15:45,24,27,13,21,,T. Grimm,2,13:15,C,0,1,1,0,0,0,1,2,2,0,0,0,0,0,0,Predators = Gulls
+CT,Bushy Beach,None,10-Jul-24,0:30,,12:45,15:45,24,27,13,21,,T. Grimm,3,13:49,C,0,0,0,0,0,0,0,4,4,2,0,0,0,0,0,"Predetors = 2 Gulls 1 GREG  1 FICR, PIPL G_PKL, AMOY Y_N05"
+CT,Bushy Beach,None,10-Jul-24,0:30,,12:45,15:45,24,27,13,21,,T. Grimm,4,14:11,N,0,6,0,0,0,1,4,6,6,0,0,0,0,0,0,"Predetor= 3 Gulls 1 GREGS 2 FICR, 4 Adult PIPL, 2 fledges"
+CT,Housatonic: Milford Point,Walkers,12-Jul-24,4:15,,10:49,12:27,25,23,16,21,,M. Joyce / J. Heupel,5,11:20,N,0,0,1,0,0,49,0,8,0,2,0,0,0,0,0,"Predators: X8 HERG, also many children from MP center summer camp in vicinity"
+CT,Housatonic: Milford Point,Walkers,12-Jul-24,4:15,,10:49,12:27,25,23,16,21,,M. Joyce / J. Heupel,6,12:00,N,0,0,0,0,0,1,0,2,5,2,0,0,0,0,0,"Predators: X1 YCNH, X1 HERG"
+CT,Housatonic: Milford Shoreline,Walkers,12-Jul-24,4:15,,10:49,12:27,25,23,16,21,,M. Joyce / J. Heupel,8,10:54,P,0,0,0,0,0,5,3,4,0,0,0,0,0,0,0,"Predators: X3 HERG, X1 FICR"
+CT,Housatonic: Milford Shoreline,Walkers,12-Jul-24,4:15,,10:49,12:27,25,23,16,21,,M. Joyce / J. Heupel,7,11:06,P,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,"Predators: X1 HERG, X2 FICR"
+CT,Long Beach,Walkers,12-Jul-24,4:27,,10:45,13:45,25,27,6,11,,J. Esposito-Halka,2,10:47,P,0,0,2,0,0,6,4,36,0,0,0,0,0,0,0,Predators: Gull & 2 FICR
+CT,Long Beach,Walkers,12-Jul-24,4:27,,10:45,13:45,25,27,6,11,,J. Esposito-Halka,3,11:20,P,0,0,6,0,0,0,0,8,7,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,12-Jul-24,4:27,,10:45,13:45,25,27,6,11,,J. Esposito-Halka,4,11:44,P,0,0,2,0,0,0,0,21,5,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,12-Jul-24,4:27,,10:45,13:45,25,27,6,11,,J. Esposito-Halka,5,12:01,P,0,0,1,0,0,0,0,59,11,0,0,0,0,9,0,Predators: Gull
+CT,Long Beach,Walkers,12-Jul-24,4:27,,10:45,13:45,25,27,6,11,,J. Esposito-Halka,6,12:33,P,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,15-Jul-24,5:48,,11:29,14:48,28,30,12,13,,B. Inclima,4,11:32,N,0,0,0,0,0,2,5,7,0,1,0,0,0,0,0,Predators = Gulls
+CT,Sandy Point,None,15-Jul-24,5:48,,11:29,14:48,28,30,12,13,,B. Inclima,5,11:51,P,0,0,0,0,0,0,0,3,4,0,0,0,0,0,1,Predators = Gulls
+CT,Sandy Point,None,15-Jul-24,5:48,,11:29,14:48,28,30,12,13,,B. Inclima,6,12:11,P,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,Predators = Gulls
+CT,Sandy Point,None,15-Jul-24,5:48,,11:29,14:48,28,30,12,13,,B. Inclima,7,12:43,P,0,0,0,0,0,1,0,3,5,0,0,0,0,0,0,Predators = Gulls
+CT,Sandy Point,None,15-Jul-24,5:48,,11:29,14:48,28,30,12,13,,B. Inclima,8,1:31,P,0,0,0,0,0,3,0,36,4,2,0,0,7,6,1,Predators = Gulls
+CT,Housatonic: Milford Point,Walkers,18-Jul-24,9:34,,14:32,15:51,29,31,18,13,,M. Joyce / J. Heupel,5,15:07,P,0,0,0,0,0,0,0,13,5,2,0,0,0,0,0,Predators: All gulls
+CT,Housatonic: Milford Point,Walkers,18-Jul-24,9:34,,14:32,15:51,29,31,18,13,,M. Joyce / J. Heupel,6,15:34,P,0,0,0,0,0,0,0,11,22,0,0,0,0,0,0,Predators: All gulls
+CT,Housatonic: Milford Shoreline,Walkers,18-Jul-24,9:34,,14:32,15:51,29,31,18,13,,M. Joyce / J. Heupel,8,14:37,N,0,0,0,0,0,8,5,5,0,0,0,0,0,0,0,Predators: All gulls
+CT,Housatonic: Milford Shoreline,Walkers,18-Jul-24,9:34,,14:32,15:51,29,31,18,13,,M. Joyce / J. Heupel,7,14:51,N,0,0,0,0,0,0,4,14,0,0,0,0,0,0,0,Predators: All gulls
+CT,Bushy Beach,None,19-Jul-24,8:39,,12:50,15:00,26,26,11,19,,T. Grimm,1,12:58,C,0,2,0,1,0,4,11,1,0,0,0,0,0,0,0,Predetors = 1 Gull
+CT,Bushy Beach,None,19-Jul-24,8:39,,12:50,15:00,26,26,11,19,,T. Grimm,2,1:29,C,0,1,1,0,0,2,1,10,2,0,0,0,0,0,0,Predetors = 10 Gull
+CT,Bushy Beach,None,19-Jul-24,8:39,,12:50,15:00,26,26,11,19,,T. Grimm,3,1:55,C,0,2,1,0,0,0,2,1,4,2,0,0,0,0,0,"PIPL GF_PKL, AMOY Y_N05"
+CT,Bushy Beach,None,19-Jul-24,8:39,,12:50,15:00,26,26,11,19,,T. Grimm,4,2:20,N,0,4,1,0,0,5,3,4,2,0,0,0,0,0,0,
+CT,Long Beach,Walkers,19-Jul-24,10:48,,10:00,14:45,24,26,7,7,,J. Esposito-Halka,2,14:01,P,0,0,6,0,0,9,18,33,0,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,19-Jul-24,10:48,,10:00,14:45,24,26,7,7,,J. Esposito-Halka,3,13:08,P,0,0,6,0,0,4,0,3,2,0,0,0,1,2,0,Predators: Gull
+CT,Long Beach,Walkers,19-Jul-24,10:48,,10:00,14:45,24,26,7,7,,J. Esposito-Halka,4,12:11,P,0,2,0,0,0,0,2,7,3,0,0,0,0,2,0,Predators: Gull
+CT,Long Beach,Walkers,19-Jul-24,10:48,,10:00,14:45,24,26,7,7,,J. Esposito-Halka,5,11:37,P,0,0,1,0,0,0,0,14,3,1,0,0,0,7,0,Predators: Gull
+CT,Long Beach,Walkers,19-Jul-24,10:48,,10:00,14:45,24,26,7,7,,J. Esposito-Halka,6,10:55,P,0,0,1,0,0,0,0,31,3,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,21-Jul-24,11:54,,11:07,13:54,26,28,5,9,,B. Inclima,4,11:11,N,0,0,0,0,0,14,5,1,0,0,0,0,3,0,0,Predators: Gull
+CT,Sandy Point,None,21-Jul-24,11:54,,11:07,13:54,26,28,5,9,,B. Inclima,5,11:25,N,0,1,1,0,0,9,0,0,0,0,0,0,0,0,0,"Boat: Jetski, not on beach but close S of channel"
+CT,Sandy Point,None,21-Jul-24,11:54,,11:07,13:54,26,28,5,9,,B. Inclima,6,11:39,N,0,0,0,0,0,16,6,0,0,0,0,0,4,0,0,Flushed by walkers
+CT,Sandy Point,None,21-Jul-24,11:54,,11:07,13:54,26,28,5,9,,B. Inclima,7,12:02,P,0,0,1,0,0,2,0,3,8,0,0,0,1,0,0,Predators: Gull
+CT,Sandy Point,None,21-Jul-24,11:54,,11:07,13:54,26,28,5,9,,B. Inclima,8,12:41,P,0,0,0,0,0,8,2,68,3,3,0,0,0,6,0,Predators: Gull
+CT,Housatonic: Milford Point,Walkers,25-Jul-24,2:39,,9:11,10:37,25,26,8,10,,M. Joyce / J. Heupel,5,9:50,P,0,0,0,0,0,0,0,10,6,0,0,0,0,0,0,"Predators: HERG X9, RBGU X1"
+CT,Housatonic: Milford Point,Walkers,25-Jul-24,2:39,,9:11,10:37,25,26,8,10,,M. Joyce / J. Heupel,6,10:18,P,0,0,0,0,0,0,0,5,5,0,0,0,4,0,0,"Predators: HERG X3, RBGU X2"
+CT,Housatonic: Milford Shoreline,Walkers,25-Jul-24,2:39,,9:11,10:37,25,26,8,10,,M. Joyce / J. Heupel,8,9:16,N,0,0,0,0,0,3,0,6,0,0,0,0,0,0,0,"Predators: FICR X1, GREG X2, HERG X3"
+CT,Housatonic: Milford Shoreline,Walkers,25-Jul-24,2:39,,9:11,10:37,25,26,8,10,,M. Joyce / J. Heupel,7,9:33,N,0,0,0,0,0,2,0,5,9,0,0,0,0,13,0,Predators: RBGU X5
+CT,Sandy Point,None,25-Jul-24,2:37,,10:46,13:42,25,28,8,11,,B. Inclima,4,10:52,N,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,
+CT,Sandy Point,None,25-Jul-24,2:37,,10:46,13:42,25,28,8,11,,B. Inclima,5,11:11,N,0,0,0,0,0,1,0,0,8,0,0,0,0,0,1,"SPSA, AD/FL: P2, P4, P10, P14"
+CT,Sandy Point,None,25-Jul-24,2:37,,10:46,13:42,25,28,8,11,,B. Inclima,6,11:28,N,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,25-Jul-24,2:37,,10:46,13:42,25,28,8,11,,B. Inclima,7,12:00,P,0,0,0,0,0,1,1,1,5,0,0,0,3,0,1,"Predators: Gull, SPSA"
+CT,Sandy Point,None,25-Jul-24,2:37,,10:46,13:42,25,28,8,11,,B. Inclima,8,12:44,P,0,0,0,0,0,1,0,82,4,2,0,0,13,6,0,Predators: Gull
+CT,Bushy Beach,None,28-Jul-24,3:37,,12:30,14:20,26,25,0,10,,T. Grimm,1,12:40,C,0,0,0,0,0,3,23,0,0,0,0,0,0,0,1,1 KIDE
+CT,Bushy Beach,None,28-Jul-24,3:37,,12:30,14:20,26,25,0,10,,T. Grimm,2,13:17,C,0,2,1,0,1,2,8,1,1,0,0,0,0,0,0,Predetors = 1 Gull
+CT,Bushy Beach,None,28-Jul-24,3:37,,12:30,14:20,26,25,0,10,,T. Grimm,3,13:39,C,0,2,1,0,0,4,7,2,0,0,0,0,0,0,0,Predetors = 2 Gull
+CT,Bushy Beach,None,28-Jul-24,3:37,,12:30,14:20,26,25,0,10,,T. Grimm,4,14:02,N,0,6,1,3,0,10,26,2,0,0,0,0,0,0,0,Predetors = 2 Gull
+CT,Long Beach,Walkers,28-Jul-24,5:52,,9:30,13:05,25,28,6,12,,J.Esposito-Halka,2,9:45,P,0,1,2,0,0,7,11,20,0,0,0,0,0,2,0,Predators: Gull
+CT,Long Beach,Walkers,28-Jul-24,5:52,,9:30,13:05,25,28,6,12,,J.Esposito-Halka,3,10:26,P,0,0,1,0,0,8,6,2,0,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,28-Jul-24,5:52,,9:30,13:05,25,28,6,12,,J.Esposito-Halka,4,10:49,P,0,1,1,0,0,4,2,11,6,2,0,0,0,0,0,Predators: Gull; AMOY = flyover
+CT,Long Beach,Walkers,28-Jul-24,5:52,,9:30,13:05,25,28,6,12,,J.Esposito-Halka,5,11:55,P,0,0,0,0,0,4,0,88,4,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,28-Jul-24,5:52,,9:30,13:05,25,28,6,12,,J.Esposito-Halka,6,12:48,P,0,1,0,0,0,6,0,8,0,0,0,0,0,0,0,Predators: Gull
+CT,Housatonic: Milford Point,Walkers,31-Jul-24,8:51,,10:51,12:46,26,29,15,16,,B. Inclima,5,11:38,P,0,0,1,0,0,2,3,8,4,5,0,0,46,55,80,Predators: Gull
+CT,Housatonic: Milford Point,Walkers,31-Jul-24,8:51,,10:51,12:46,26,29,15,16,,B. Inclima,6,12:19,P,0,0,0,0,0,2,0,4,5,2,0,0,12,43,17,Predators: Gull
+CT,Housatonic: Milford Shoreline,Walkers,31-Jul-24,8:51,,10:51,12:46,26,29,15,16,,B. Inclima,8,10:55,N,0,0,0,0,0,2,3,17,0,0,0,0,4,0,2,Predators: Gull
+CT,Housatonic: Milford Shoreline,Walkers,31-Jul-24,8:51,,10:51,12:46,26,29,15,16,,B. Inclima,7,11:16,N,2,0,0,0,0,9,2,36,0,0,0,0,0,1,2,Predators: Gull
+CT,Long Beach,Walkers,4-Aug-24,12:02,,11:15,16:30,26,27,14,16,,J.Esposito-Halka,2,13:21,P,0,1,0,0,0,6,7,23,0,0,0,0,0,0,500,"Predators: Gull; PEEP = flyover, count estimate"
+CT,Long Beach,Walkers,4-Aug-24,12:02,,11:15,16:30,26,27,14,16,,J.Esposito-Halka,3,12:47,P,0,0,1,0,0,10,2,11,0,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,4-Aug-24,12:02,,11:15,16:30,26,27,14,16,,J.Esposito-Halka,4,12:18,P,0,0,0,0,0,3,2,6,6,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,4-Aug-24,12:02,,11:15,16:30,26,27,14,16,,J.Esposito-Halka,5,11:49,P,0,0,2,0,0,1,1,4,4,0,0,0,5,10,0,Predators: Gull
+CT,Long Beach,Walkers,4-Aug-24,12:02,,11:15,16:30,26,27,14,16,,J.Esposito-Halka,6,11:20,P,0,0,1,0,0,1,3,3,0,0,0,0,0,142,0,Predators: Gull
+CT,Sandy Point,None,4-Aug-24,11:58,,11:36,14:27,26,27,14,16,,B. Inclima,4,11:39,N,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,4-Aug-24,11:58,,11:36,14:27,26,27,14,16,,B. Inclima,5,11:52,N,0,0,2,0,0,8,0,2,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,4-Aug-24,11:58,,11:36,14:27,26,27,14,16,,B. Inclima,6,12:16,N,0,0,0,0,0,4,0,2,1,0,0,0,2,0,1,"Predators: Gull, RUTU"
+CT,Sandy Point,None,4-Aug-24,11:58,,11:36,14:27,26,27,14,16,,B. Inclima,7,12:41,P,0,0,0,0,0,5,0,1,3,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,4-Aug-24,11:58,,11:36,14:27,26,27,14,16,,B. Inclima,8,1:21,P,0,1,0,1,0,2,0,48,0,4,0,0,11,0,0,Predators: Gull
+CT,Bushy Beach,None,7-Aug-24,1:10,,14:40,16:15,24,22,10,8,,J. Horne/ T. Grimm,1,14:50,C,0,0,2,0,0,4,1,0,0,0,0,0,0,0,0,
+CT,Bushy Beach,None,7-Aug-24,1:10,,14:40,16:15,24,22,10,8,,J. Horne/ T. Grimm,2,15:01,C,0,2,1,0,0,5,5,0,1,0,0,0,0,0,3,3 LESA
+CT,Bushy Beach,None,7-Aug-24,1:10,,14:40,16:15,24,22,10,8,,J. Horne/ T. Grimm,3,15:40,C,0,0,0,0,0,1,0,0,0,2,0,0,0,0,5,3 LESA 2 SEPL
+CT,Bushy Beach,None,7-Aug-24,1:10,,14:40,16:15,24,22,10,8,,J. Horne/ T. Grimm,4,16:20,P,0,1,0,0,0,0,3,0,0,0,0,0,3,0,12,9 LESA 3 SEPL
+CT,Housatonic: Milford Point,Walkers,8-Aug-24,2:13,,9:41,10:25,19,20,18,22,,J. Heupel,5,10:06,P,0,0,0,0,0,0,0,6,0,3,0,0,0,0,8,Predators: Gull
+CT,Housatonic: Milford Point,Walkers,8-Aug-24,2:13,,9:41,10:25,19,20,18,22,,J. Heupel,6,10:13,P,0,0,0,0,0,0,0,2,3,0,0,0,0,0,4,Predators: Gull
+CT,Housatonic: Milford Shoreline,Walkers,8-Aug-24,2:13,,9:41,10:25,19,20,18,22,,J. Heupel,8,9:47,N,0,0,0,0,1,2,2,10,0,0,0,0,0,0,0,Predators: Gull
+CT,Housatonic: Milford Shoreline,Walkers,8-Aug-24,2:13,,9:41,10:25,19,20,18,22,,J. Heupel,7,9:55,N,0,0,0,0,1,3,0,2,0,3,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,8-Aug-24,2:11,,12:00,14:23,22,22,17,20,,B. Inclima,4,12:05,N,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,8-Aug-24,2:11,,12:00,14:23,22,22,17,20,,B. Inclima,5,12:15,N,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,8-Aug-24,2:11,,12:00,14:23,22,22,17,20,,B. Inclima,6,12:26,N,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"Predators: Gull, 2 PIPL and 1 SAND left during 3 minutes"
+CT,Sandy Point,None,8-Aug-24,2:11,,12:00,14:23,22,22,17,20,,B. Inclima,7,12:48,N,0,0,0,0,0,0,0,2,0,0,0,0,2,0,4,"Predators: Gull, SEPL"
+CT,Sandy Point,None,8-Aug-24,2:11,,12:00,14:23,22,22,17,20,,B. Inclima,8,13:30,N,0,0,0,0,0,0,0,108,0,2,0,0,0,7,3,"Predators: Gull, SEPL"
+CT,Long Beach,Walkers,10-Aug-24,4:02,,10:30,14:30,26,28,10,16,,J. Esposito-Halka,2,10:40,P,0,0,1,0,0,3,12,102,0,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,10-Aug-24,4:02,,10:30,14:30,26,28,10,16,,J. Esposito-Halka,3,11:17,P,0,0,3,0,0,0,0,11,0,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,10-Aug-24,4:02,,10:30,14:30,26,28,10,16,,J. Esposito-Halka,4,12:33,P,0,0,1,0,0,1,2,13,2,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,10-Aug-24,4:02,,10:30,14:30,26,28,10,16,,J. Esposito-Halka,5,13:21,P,0,1,0,0,0,3,0,51,0,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,10-Aug-24,4:02,,10:30,14:30,26,28,10,16,,J. Esposito-Halka,6,14:04,P,0,1,0,0,0,0,0,76,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,14-Aug-24,7:03,,16:44,19:21,27,25,6,6,,B. Inclima,4,16:48,N,0,0,0,0,0,3,3,5,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,14-Aug-24,7:03,,16:44,19:21,27,25,6,6,,B. Inclima,5,17:01,N,0,0,0,0,0,8,1,2,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,14-Aug-24,7:03,,16:44,19:21,27,25,6,6,,B. Inclima,6,17:15,N,0,0,0,0,0,7,0,2,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,14-Aug-24,7:03,,16:44,19:21,27,25,6,6,,B. Inclima,7,17:43,P,0,0,0,0,0,4,0,5,2,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,14-Aug-24,7:03,,16:44,19:21,27,25,6,6,,B. Inclima,8,18:18,P,0,0,0,0,0,0,0,37,1,0,0,0,0,0,0,Predators: Gull
+CT,Bushy Beach,None,15-Aug-24,8:04,,13:00,13:10,25,26,12,11,,J. Horne/ T. Grimm,1,11:41,C,0,2,3,0,0,8,22,0,0,0,0,0,0,0,0,
+CT,Bushy Beach,None,15-Aug-24,8:04,,13:00,14:10,25,26,12,11,,J. Horne/ T. Grimm,2,11:48,C,0,0,1,0,0,2,0,2,0,0,0,0,0,0,1,"Predetors = 2 gulls, 1 SEPL"
+CT,Bushy Beach,None,15-Aug-24,8:04,,13:00,15:10,25,26,12,11,,J. Horne/ T. Grimm,3,12:19,C,0,0,0,0,0,4,0,6,0,0,0,0,3,0,3,"Predetors = 6 Gulls, 3 LESA"
+CT,Bushy Beach,None,15-Aug-24,8:04,,13:00,16:10,25,26,12,11,,J. Horne/ T. Grimm,4,13:10,P,1,1,1,0,0,3,0,14,0,2,0,0,0,0,0,Predetors 10 Gulls 4 GREG
+CT,Housatonic: Milford Point,Walkers,15-Aug-24,8:04,,13:00,14:58,28,29,10,11,,M. Joyce / J. Heupel,5,13:47,P,0,0,0,0,0,13,0,22,0,4,0,0,0,0,0,Predators: Gulls
+CT,Housatonic: Milford Point,Walkers,15-Aug-24,8:04,,13:00,14:58,28,29,10,11,,M. Joyce / J. Heupel,6,14:03,P,0,0,1,0,0,1,0,49,1,0,0,0,0,0,0,"Predators: 48 Gulls, 1 GREG"
+CT,Housatonic: Milford Shoreline,Walkers,15-Aug-24,8:04,,13:00,14:58,28,29,10,11,,M. Joyce / J. Heupel,8,13:05,N,0,0,0,0,0,0,4,30,0,8,0,0,0,0,3,"Predators: 26 Gulls, 3 Crows, 1 SNEG"
+CT,Housatonic: Milford Shoreline,Walkers,15-Aug-24,8:04,,13:00,14:58,28,29,10,11,,M. Joyce / J. Heupel,7,13:24,N,0,0,0,0,0,2,0,7,0,7,0,0,0,0,0,Predators: Gulls
+CT,Long Beach,Walkers,17-Aug-24,10:18,,12:00,14:00,26,25,13,18,,J. Esposito-Halka,6,12:10,N,0,0,0,0,0,2,0,103,0,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,17-Aug-24,10:18,,12:00,14:00,26,25,13,18,,J. Esposito-Halka,5,12:31,P,0,0,0,0,0,0,1,128,11,0,0,0,0,17,0,*flyover; Predators: Gull
+CT,Long Beach,Walkers,17-Aug-24,10:18,,12:00,14:00,26,25,13,18,,J. Esposito-Halka,4,13:07,P,0,1,1,0,0,1,2,25,0,0,0,0,0,5,0,Predators: Gull
+CT,Long Beach,Walkers,17-Aug-24,10:18,,12:00,14:00,26,25,13,18,,J. Esposito-Halka,3,13:29,P,0,0,2,0,0,1,1,6,0,0,0,0,0,0,0,*flyover; Predators: Gull
+CT,Long Beach,Walkers,17-Aug-24,10:18,,12:00,14:00,26,25,13,18,,J. Esposito-Halka,2,13:43,P,0,1,0,0,0,7,6,92,0,0,0,0,0,2,0,Predators: Gull; SESA flew off before behavior survey started
+CT,Housatonic: Milford Point,Walkers,19-Aug-24,11:42,,12:31,14:10,25,27,8,7,,B. Inclima,5,13:11,P,0,0,0,0,0,1,0,4,0,5,0,0,4,117,35,Predators: Gull
+CT,Housatonic: Milford Point,Walkers,19-Aug-24,11:42,,12:31,14:10,25,27,8,7,,B. Inclima,6,14:00,P,0,0,1,0,0,0,0,18,0,14,0,0,0,48,70,"Predators: Gull, SEPL"
+CT,Housatonic: Milford Shoreline,Walkers,19-Aug-24,11:42,,12:31,14:10,25,27,8,7,,B. Inclima,8,12:34,N,0,1,0,0,0,0,0,19,0,0,0,0,0,0,0,Predators: Gull
+CT,Housatonic: Milford Shoreline,Walkers,19-Aug-24,11:42,,12:31,14:10,25,27,8,7,,B. Inclima,7,12:46,N,0,1,0,0,0,5,2,33,0,0,0,0,9,0,1,"Predators: Gull, SEPL"
+CT,Bushy Beach,None,23-Aug-24,4:39,,14:40,17:00,26,23,14,9,,T.Grimm,1,14:57,C,0,0,0,1,0,4,10,0,0,0,0,0,0,0,0,
+CT,Bushy Beach,None,23-Aug-24,4:39,,14:40,17:00,26,23,14,9,,T.Grimm,2,15:22,C,0,1,1,0,0,1,2,2,0,0,0,0,0,0,0,Predetors: Seagul
+CT,Bushy Beach,None,23-Aug-24,4:39,,14:40,17:00,26,23,14,9,,T.Grimm,3,15:53,C,0,0,0,0,1,1,4,2,0,0,0,0,3,0,0,Predetors: Seagul
+CT,Bushy Beach,None,23-Aug-24,4:39,,14:40,17:00,26,23,14,9,,T.Grimm,4,16:12,P,0,4,1,2,1,3,14,5,0,0,0,0,0,0,0,Predetors: Seagul
+CT,Long Beach,Walkers,23-Aug-24,2:33,,9:30,12:00,21,23,5,7,,J. Esposito-Halka,2,10:00,P,0,0,4,0,0,5,4,126,0,0,0,0,3,0,0,"Predators: Gull, 1 FICR"
+CT,Long Beach,Walkers,23-Aug-24,2:33,,9:30,12:00,21,23,5,7,,J. Esposito-Halka,3,10:31,P,0,0,3,0,0,1,0,14,0,0,0,0,0,0,0,*flyover; Predators: Gull
+CT,Long Beach,Walkers,23-Aug-24,2:33,,9:30,12:00,21,23,5,7,,J. Esposito-Halka,4,10:46,P,0,0,2,0,0,1,0,51,1,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,23-Aug-24,2:33,,9:30,12:00,21,23,5,7,,J. Esposito-Halka,5,11:01,N,0,0,3,0,0,0,0,64,0,0,0,0,13,0,0,Predators: Gull
+CT,Long Beach,Walkers,23-Aug-24,2:33,,9:30,12:00,21,23,5,7,,J. Esposito-Halka,6,11:26,N,0,0,1,0,0,0,0,34,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,25-Aug-24,4:06,,13:48,15:45,26,26,9,9,,B. Inclima,4,13:51,N,0,0,0,0,0,15,22,22,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,25-Aug-24,4:06,,13:48,15:45,26,26,9,9,,B. Inclima,5,14:03,N,0,0,0,0,0,16,7,2,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,25-Aug-24,4:06,,13:48,15:45,26,26,9,9,,B. Inclima,6,14:17,N,0,0,1,0,0,9,2,5,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,25-Aug-24,4:06,,13:48,15:45,26,26,9,9,,B. Inclima,7,14:34,P,0,3,0,0,0,3,1,2,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,25-Aug-24,4:06,,13:48,15:45,26,26,9,9,,B. Inclima,8,14:56,P,0,0,0,0,0,0,0,23,4,0,0,0,0,8,0,Predators: Gull
+CT,Long Beach,Walkers,29-Aug-24,8:36,,10:45,14:00,21,23,16,15,,J.Esposito-Halka,2,10:52,N,0,0,4,0,1,5,0,94,0,0,0,0,4,63,50,*vehicle tracks
+CT,Long Beach,Walkers,29-Aug-24,8:36,,10:45,14:00,21,23,16,15,,J.Esposito-Halka,3,11:41,N,0,0,2,0,0,3,0,11,0,0,0,0,0,1,0,
+CT,Long Beach,Walkers,29-Aug-24,8:36,,10:45,14:00,21,23,16,15,,J.Esposito-Halka,4,12:10,N,0,0,2,0,0,0,0,49,0,0,0,0,0,1,0,
+CT,Long Beach,Walkers,29-Aug-24,8:36,,10:45,14:00,21,23,16,15,,J.Esposito-Halka,5,12:29,N,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,
+CT,Long Beach,Walkers,29-Aug-24,8:36,,10:45,14:00,21,23,16,15,,J.Esposito-Halka,6,12:40,N,0,0,1,0,0,0,0,32,0,0,0,0,0,0,0,
+CT,Bushy Beach,None,30-Aug-24,1:10,,11:08,13:50,24,22,8,7,,T.Grimm,1,11:40,C,0,0,0,0,0,2,7,1,0,0,0,0,0,0,0,Predators: Gull
+CT,Bushy Beach,None,30-Aug-24,1:10,,11:08,13:50,24,22,8,7,,T.Grimm,2,11:40,C,0,1,0,0,0,0,4,2,0,0,0,0,2,0,0,Predators: Gull
+CT,Bushy Beach,None,30-Aug-24,1:10,,11:08,13:50,24,22,8,7,,T.Grimm,3,11:40,C,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,Predators: Gull
+CT,Bushy Beach,None,30-Aug-24,1:10,,11:08,13:50,24,22,8,7,,T.Grimm ,4,11:40,P,0,3,1,0,0,3,8,1,0,0,0,0,0,0,0,Predators: Gull
+CT,Housatonic: Milford Point,Walkers,31-Aug-24,10:12,,13:19,14:40,24,24,13,14,,M. Joyce,5,14:03,P,0,0,1,0,0,9,0,43,0,17,0,0,25,1,7,"Predators: 42 Gulls, 1 SNEG; Peeps: SEPL"
+CT,Housatonic: Milford Point,Walkers,31-Aug-24,10:12,,13:19,14:40,24,24,13,14,,M. Joyce,6,14:40,P,0,0,1,0,0,1,0,20,0,2,0,0,13,0,0,Predators: Gull
+CT,Housatonic: Milford Shoreline,Walkers,31-Aug-24,10:12,,13:19,14:40,24,24,13,14,,M. Joyce,8,13:24,N,0,0,1,0,0,10,15,30,0,5,0,0,1,0,12,Predators: Gull; Peeps: SEPL
+CT,Housatonic: Milford Shoreline,Walkers,31-Aug-24,10:12,,13:19,14:40,24,24,13,14,,M. Joyce,7,13:51,N,0,0,1,1,0,7,9,3,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,1-Sep-24,10:54,,13:19,15:03,25,26,15,14,,B. Inclima,4,13:22,N,0,0,0,0,1,14,0,6,0,0,0,0,5,0,0,Predators: Gull
+CT,Sandy Point,None,1-Sep-24,10:54,,13:19,15:03,25,26,15,14,,B. Inclima,5,13:36,N,0,0,0,0,0,5,0,1,0,0,0,0,3,0,0,Predators: Gull
+CT,Sandy Point,None,1-Sep-24,10:54,,13:19,15:03,25,26,15,14,,B. Inclima,6,13:50,N,0,0,0,0,0,9,1,8,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,1-Sep-24,10:54,,13:19,15:03,25,26,15,14,,B. Inclima,7,14:03,P,0,0,2,0,0,0,0,9,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,1-Sep-24,10:54,,13:19,15:03,25,26,15,14,,B. Inclima,8,14:30,P,0,2,1,0,0,0,0,72,0,0,0,0,0,0,0,Predators: Gull
+CT,Bushy Beach,None,2-Sep-24,2:22,,14:10,16:40,25,23,8,6,,T. Grimm,1,14:45,C,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,Predators: Gull
+CT,Bushy Beach,None,2-Sep-24,2:22,,14:10,16:40,25,23,8,6,,T. Grimm,2,15:05,C,0,1,1,0,0,0,2,1,0,0,0,0,0,0,0,Predators: Gull
+CT,Bushy Beach,None,2-Sep-24,2:22,,14:10,16:40,25,23,8,6,,T. Grimm,3,15:56,C,0,0,1,0,0,0,2,2,0,0,0,0,3,0,0,Predators: Gull
+CT,Bushy Beach,None,2-Sep-24,2:22,,14:10,16:40,25,23,8,6,,T. Grimm,4,16:10,P,0,3,1,1,0,2,7,1,0,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,2-Sep-24,11:48,,15:30,18:30,25,25,7,6,,J.Esposito-Halka,2,16:10,N,0,1,3,2,0,10,39,44,0,0,0,0,0,0,0,*vehicle tracks
+CT,Long Beach,Walkers,2-Sep-24,11:48,,15:30,18:30,25,25,7,6,,J.Esposito-Halka,3,16:23,N,0,0,0,0,0,3,4,13,0,0,0,0,0,0,0,*vehicle & canid tracks
+CT,Long Beach,Walkers,2-Sep-24,11:48,,15:30,18:30,25,25,7,6,,J.Esposito-Halka,4,16:38,N,0,0,0,0,0,0,5,17,0,0,0,0,0,0,0,*vehicle & canid tracks
+CT,Long Beach,Walkers,2-Sep-24,11:48,,15:30,18:30,25,25,7,6,,J.Esposito-Halka,5,16:51,N,0,2,2,0,0,2,4,98,0,0,0,0,0,0,0,*vehicle tracks
+CT,Long Beach,Walkers,2-Sep-24,11:48,,15:30,18:30,25,25,7,6,,J.Esposito-Halka,6,17:09,N,0,1,1,0,0,2,0,27,0,0,0,0,0,0,0,
+CT,Sandy Point,None,4-Sep-24,10:26,,10:30,12:01,21,22,5,5,,B. Inclima,4,10:34,N,0,0,1,0,0,1,0,2,0,0,0,0,0,0,0,"Predators: Gull, Guy on bike"
+CT,Sandy Point,None,4-Sep-24,10:26,,10:30,12:01,21,22,5,5,,B. Inclima,5,10:46,N,0,0,0,0,0,6,0,2,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,4-Sep-24,10:26,,10:30,12:01,21,22,5,5,,B. Inclima,6,10:57,N,0,0,2,0,0,0,1,2,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,4-Sep-24,10:26,,10:30,12:01,21,22,5,5,,B. Inclima,7,11:10,P,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,4-Sep-24,10:26,,10:30,12:01,21,22,5,5,,B. Inclima,8,11:31,P,0,1,0,0,0,1,0,52,0,0,0,0,0,0,0,Predators: Gull
+CT,Housatonic: Milford Shoreline,Walkers,6-Sep-24,1:42,,8:13,12:05,16,25,14,7,,J. Heupel,8,8:13,N,0,0,0,0,0,3,0,23,0,0,0,0,0,0,0,Predators: Gull
+CT,Housatonic: Milford Shoreline,Walkers,6-Sep-24,1:42,,8:13,12:05,16,25,14,7,,J. Heupel,7,8:31,N,0,0,0,0,0,2,0,18,0,11,0,0,0,0,0,Predators: Gull
+CT,Housatonic: Milford Point,Walkers,6-Sep-24,1:42,,8:13,12:05,16,25,14,7,,J. Heupel,5,8:52,P,0,0,0,0,0,1,0,14,0,2,0,0,0,0,0,Predators: Gull
+CT,Housatonic: Milford Point,Walkers,6-Sep-24,1:42,,8:13,12:05,16,25,14,7,,J. Heupel,6,9:17,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,10-Sep-24,4:32,,13:10,14:49,24,24,11,12,,B. Inclima,4,13:14,N,0,0,0,0,0,1,2,8,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,10-Sep-24,4:32,,13:10,14:49,24,24,11,12,,B. Inclima,5,13:26,N,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,10-Sep-24,4:32,,13:10,14:49,24,24,11,12,,B. Inclima,6,13:41,N,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,10-Sep-24,4:32,,13:10,14:49,24,24,11,12,,B. Inclima,7,13:54,P,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0,Predators: Gull
+CT,Sandy Point,None,10-Sep-24,4:32,,13:10,14:49,24,24,11,12,,B. Inclima,8,14:18,P,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,"Predators: Gull, CATE?"
+CT,Long Beach,Walkers,11-Sep-24,5:34,,12:52,15:29,21,24,7,6,,B. Inclima,2,12:57,N,8,0,0,0,0,1,3,44,0,0,0,0,0,0,0,Predators: Gull
+CT,Long Beach,Walkers,11-Sep-24,5:34,,12:52,15:29,21,24,7,6,,B. Inclima,3,13:11,N,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,"Predators: Gull, SAND X1 left during 3 minutes"
+CT,Long Beach,Walkers,11-Sep-24,5:34,,12:52,15:29,21,24,7,6,,B. Inclima,4,13:29,N,0,0,1,0,0,1,0,2,0,0,0,0,11,0,0,Predators: Gull
+CT,Long Beach,Walkers,11-Sep-24,5:34,,12:52,15:29,21,24,7,6,,B. Inclima,5,14:07,N,0,0,0,0,0,0,0,116,0,0,0,0,1,0,0,Predators: Gull
+CT,Long Beach,Walkers,11-Sep-24,5:34,,12:52,15:29,21,24,7,6,,B. Inclima,6,14:35,N,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,Predators: Gull
+CT,Housatonic: Milford Shoreline,Walkers,13-Sep-24,7:31,,11:51,12:51,24,24,11,13,,B. Inclima,8,11:51,N,0,0,0,0,0,2,2,43,0,6,0,0,2,0,0,Predators: Gull
+CT,Housatonic: Milford Shoreline,Walkers,13-Sep-24,7:31,,11:51,12:51,24,24,11,13,,B. Inclima,7,12:08,N,0,0,0,0,0,0,3,14,0,6,0,0,0,0,0,"Predators: Gull, FICR"
+CT,Housatonic: Milford Point,Walkers,13-Sep-24,7:31,,11:51,12:51,24,24,11,13,,B. Inclima,5,12:24,P,0,0,1,0,0,3,0,38,0,3,0,0,0,0,0,Predators: Gull
+CT,Housatonic: Milford Point,Walkers,13-Sep-24,7:31,,11:51,12:51,24,24,11,13,,B. Inclima,6,12:51,N,0,0,1,0,0,0,0,48,0,0,0,0,0,0,0,"Predators: Gull, GREG X3"
+NY,Sunken,None,9-May-24,0:33,Y,10:45,12:56,17.8,17.2,12.9,16.1,D,"AE, MC, SC, VM",1,11:05,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bike tracks on path
+NY,Sunken,None,9-May-24,0:33,Y,10:45,12:56,17.8,17.2,12.9,16.1,D,"AE, MC, SC, VM",2,11:24,P,0,0,0,0,0,3,0,2,2,0,0,0,0,0,0,"1 Cormorant, 4 Swan, 11 Brant, Swallows"
+NY,Sunken,None,9-May-24,0:33,Y,10:45,12:56,17.8,17.2,12.9,16.1,D,"AE, MC, SC, VM",3,12:03,N,0,0,0,0,0,4,2,7,0,0,0,0,0,0,0,"4 crow, 3 gull"
+NY,Sunken,None,9-May-24,0:33,Y,10:45,12:56,17.8,17.2,12.9,16.1,D,"AE, MC, SC, VM",4,12:18,P,0,0,1,0,0,17,0,38,1,0,0,0,0,0,0,"7 LETE, 1 crow, 37 gull, 1 helicopter"
+NY,Sunken,None,9-May-24,0:33,Y,10:45,12:56,17.8,17.2,12.9,16.1,D,"AE, MC, SC, VM",5,12:41,N,0,0,0,0,0,25,5,25,0,0,0,0,0,0,0,
+NY,TOH,Dog_free,14-May-24,13:54,Y,9:16,14:48,13.9,16.7,12.9,19.3,C,"AE, VM",1,13:53,N,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3 sets of dogprints
+NY,TOH,Dog_free,14-May-24,13:54,Y,9:16,14:48,13.9,16.7,12.9,19.3,C,"AE, VM",2,13:40,N,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,"1 Osprey, dog prints, 1 plane, 1 helicopter"
+NY,TOH,Dog_free,14-May-24,13:54,Y,9:16,14:48,13.9,16.7,12.9,19.3,C,"AE, VM",3,13:21,P,0,0,3,0,0,0,2,2,0,7,0,0,19,0,0,"PIPL Exclosure present but birds not present, 2 plane, 1 helicopter"
+NY,TOH,Dog_free,14-May-24,13:54,Y,9:16,14:48,13.9,16.7,12.9,19.3,C,"AE, VM",4,12:59,P,0,0,1,0,0,5,0,2,0,8,0,0,74,0,0,"1 Osprey, 15 COTE and 7 LETE flying. PIPL exclosure present but can't see Plover because of vegetation."
+NY,TOH,Dog_free,14-May-24,13:54,Y,9:16,14:48,13.9,16.7,12.9,19.3,D,"AE, VM",5,12:26,P,1,0,4,0,0,1,0,2,0,9,0,0,52,0,0,"2 Osprey, 6 Black Skimmers, 3 PIPL exclosures present but cannot see plovers due to vegetation, 4 planes"
+NY,TOH,Dog_free,14-May-24,13:54,Y,9:16,14:48,13.9,16.7,12.9,19.3,D,"AE, VM",6,11:39,P,2,0,0,0,0,3,0,11,0,10,0,0,77,0,0,"~500 COTE, ~250 Black Skimmers"
+NY,TOH,Dog_free,14-May-24,13:54,Y,9:16,14:48,13.9,16.7,12.9,19.3,D,"AE, VM",7,11:02,P,3,0,0,0,0,3,0,7,0,4,0,0,10,0,0,"~1000 COTE, ~200 Black Skimmers, 1 Osprey, lots of tern courtship and copulation, 1 dead COTE half buried in sand"
+NY,TOH,Dog_free,14-May-24,13:54,Y,9:16,14:48,13.9,16.7,12.9,19.3,D,"AE, VM",8,10:39,P,3,0,0,0,0,0,0,3,0,5,0,0,0,0,0,"1 Black Skimmer, 16 COTE, 3 LETE"
+NY,TOH,Dog_free,14-May-24,13:54,Y,9:16,14:48,13.9,16.7,12.9,19.3,D,"AE, VM",9,10:07,P,1,0,0,0,0,2,0,4,1,5,0,0,0,0,0,"2 Osprey, 15 LETE, 3 Black Skimmers"
+NY,TOH,Dog_free,14-May-24,13:54,Y,9:16,14:48,13.9,16.7,12.9,19.3,D,"AE, VM",10,9:37,P,1,0,1,0,0,0,1,2,5,9,0,0,0,0,0,"2 LETE, 1 helicopter"
+NY,Sunken,None,14-May-24,4:47,Y,9:03,12:00,15.5,21.7,17.7,16.1,D,MC,1,9:38,C,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,
+NY,Sunken,None,14-May-24,4:47,Y,9:03,12:00,15.5,21.7,17.7,16.1,D,MC,2,10:02,C,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,"3 osprey,2 LETE"
+NY,Sunken,None,14-May-24,4:47,Y,9:03,12:00,15.5,21.7,17.7,16.1,D,MC,3,10:41,N,0,0,0,0,0,0,2,8,0,0,0,0,0,0,0,3 LETE
+NY,Sunken,None,14-May-24,4:47,Y,9:03,12:00,15.5,21.7,17.7,16.1,D,MC,4,11:00,P,1,0,0,0,0,43,0,3,0,0,0,0,0,0,0,beach raker 
+NY,Sunken,None,14-May-24,4:47,Y,9:03,12:00,15.5,21.7,17.7,16.1,D,MC,5,11:28,N,0,0,0,0,0,40,8,5,1,0,0,0,0,0,0,"1 osprey, 1 pigeon"
+NY,Sunken,None,19-May-24,9:29,Y,12:20,15:25,19.4,20,20.9,16.1,D,MC,1,13:07,C,0,0,0,0,1,12,0,1,0,0,0,0,0,0,0,1 egret
+NY,Sunken,None,19-May-24,9:29,Y,12:20,15:25,19.4,20,20.9,16.1,D,MC,2,13:31,C,0,1,0,0,1,4,1,0,2,0,0,0,0,0,0,"3 lete, 7 swans, man taking pictures of pipl"
+NY,Sunken,None,19-May-24,9:29,Y,12:20,15:25,19.4,20,20.9,16.1,D,MC,3,14:00,N,0,0,0,0,0,0,11,2,0,0,0,0,0,0,0,2 lete
+NY,Sunken,None,19-May-24,9:29,Y,12:20,15:25,19.4,20,20.9,16.1,D,MC,4,14:12,P,0,0,0,0,1,28,15,7,1,0,0,0,0,0,0,5 lete
+NY,Sunken,None,19-May-24,9:29,Y,12:20,15:25,19.4,20,20.9,16.1,D,MC,5,14:30,P,0,0,0,0,0,58,4,2,1,0,0,0,0,0,0,32 lete
+NY,Jones,Walkers,18-May-24,4:00,Y,9:30,15:00,15.6,16.1,11.12,11.12,B,"MC, VM",1,10:15,P,1,0,1,0,0,5,0,32,2,4,0,0,0,0,0,parks doing pipl exclosure
+NY,Jones,Walkers,18-May-24,4:00,Y,9:30,15:00,15.6,16.1,11.12,11.12,B,"MC, VM",2,10:37,P,1,0,0,0,0,9,0,1,0,1,0,0,0,0,0,
+NY,Jones,Walkers,18-May-24,4:00,Y,9:30,15:00,15.6,16.1,11.12,11.12,B,"MC, VM",3,11:39,P,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,
+NY,Jones,Walkers,18-May-24,4:00,Y,9:30,15:00,15.6,16.1,11.12,11.12,B,"MC, VM",4,12:01,P,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,
+NY,Jones,Walkers,18-May-24,4:00,Y,9:30,15:00,15.6,16.1,11.12,11.12,B,"MC, VM",5,12:16,P,0,0,0,0,0,2,0,1,0,4,0,0,0,23,0,1 osprey 
+NY,Jones,Walkers,18-May-24,4:00,Y,9:30,15:00,15.6,16.1,11.12,11.12,C,"MC, VM",6,12:40,P,0,0,1,0,0,2,0,34,1,0,0,0,0,34,0,
+NY,Jones,Walkers,18-May-24,4:00,Y,9:30,15:00,15.6,16.1,11.12,11.12,C,"MC, VM",7,13:06,P,0,0,0,0,0,0,0,5,0,0,0,0,0,234,0,dog prints
+NY,Jones,Walkers,18-May-24,4:00,Y,9:30,15:00,15.6,16.1,11.12,11.12,C,"MC, VM",8,13:26,P,0,0,0,0,0,0,0,0,1,0,0,0,0,56,0,
+NY,Jones,Walkers,18-May-24,4:00,Y,9:30,15:00,15.6,16.1,11.12,11.12,C,"MC, VM",9,13:50,P,0,0,0,0,0,2,1,2,0,0,0,0,0,91,0,plover flew through
+NY,Jones,Walkers,18-May-24,4:00,Y,9:30,15:00,15.6,16.1,11.12,11.12,C,"MC, VM",10,14:09,P,0,0,0,0,0,7,0,8,0,1,0,0,0,0,0,1cormorant 
+NY,Jones,Walkers,18-May-24,4:00,Y,9:30,15:00,15.6,16.1,11.12,11.12,C,"MC, VM",11,9:50,P,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,
+NY,TOH,Dog_free,21-May-24,11:43,Y,10:20,16:34,15.6,16.7,12.9,19.3,C,AE,1,15:01,N,1,0,0,0,0,2,11,2,0,0,0,0,0,0,0,Dog prints
+NY,TOH,Dog_free,21-May-24,11:43,Y,10:20,16:34,15.6,16.7,12.9,19.3,C,AE,2,14:45,N,1,0,1,0,0,0,0,3,0,4,0,0,0,9,0,"Osprey, dog prints, 1 plane"
+NY,TOH,Dog_free,21-May-24,11:43,Y,10:20,16:34,15.6,16.7,12.9,19.3,C,AE,3,14:19,P,1,0,2,0,0,10,0,8,0,3,0,0,0,5,0,"12 LETE, Osprey, dog prints, 2 plane"
+NY,TOH,Dog_free,21-May-24,11:43,Y,10:20,16:34,15.6,16.7,12.9,19.3,C,AE,4,13:43,P,1,0,1,1,0,4,4,7,1,3,0,0,0,24,0,"3 Cormorants, 1 plane"
+NY,TOH,Dog_free,21-May-24,11:43,Y,10:20,16:34,15.6,16.7,12.9,19.3,D,AE,5,13:17,P,0,0,5,0,0,12,0,5,0,1,0,0,0,36,0,"2 Osprey, ~ 100 COTE, ~60 Skimmers, 1 Cormorant, 2 Plane, 3 Helicopter"
+NY,TOH,Dog_free,21-May-24,11:43,Y,10:20,16:34,15.6,16.7,12.9,19.3,D,AE,6,12:40,P,0,0,5,0,0,4,10,67,2,9,0,0,0,0,1,5 plane
+NY,TOH,Dog_free,21-May-24,11:43,Y,10:20,16:34,15.6,16.7,12.9,19.3,D,AE,7,12:13,P,0,0,1,0,0,4,0,56,0,3,0,0,0,0,0,1 helicopter
+NY,TOH,Dog_free,21-May-24,11:43,Y,10:20,16:34,15.6,16.7,12.9,19.3,D,AE,8,11:53,P,0,0,0,0,0,0,4,1,1,7,0,0,0,0,0,"32 COTE, 1 Cormorant"
+NY,TOH,Dog_free,21-May-24,11:43,Y,10:20,16:34,15.6,16.7,12.9,19.3,D,AE,9,11:25,P,0,0,1,0,0,5,22,2,2,7,0,0,0,0,0,"7 LETE, Dog prints, 1 plane"
+NY,TOH,Dog_free,21-May-24,11:43,Y,10:20,16:34,15.6,16.7,12.9,19.3,D,AE,10,10:39,P,0,0,4,0,0,3,5,3,1,9,0,0,0,0,0,"3 plane, 1 helicopter"
+NY,Jones,Walkers,23-May-24,8:21,Y,14:00,17:41,19.4,19.4,11.3,8,B,MC ,11,14:16,P,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,bad weather on and off thunderstorms
+NY,Jones,Walkers,23-May-24,8:21,Y,14:00,17:41,19.4,19.4,11.3,8,B,MC ,1,14:38,P,0,0,3,0,0,0,0,2,2,1,0,0,0,5,0,"plane practicing for airshow, 3 planes"
+NY,Jones,Walkers,23-May-24,8:21,Y,14:00,17:41,19.4,19.4,11.3,8,B,MC ,2,15:05,P,0,0,0,0,0,0,0,1,0,3,0,0,0,26,0,
+NY,Jones,Walkers,23-May-24,8:21,Y,14:00,17:41,19.4,19.4,11.3,8,B,MC ,3,15:28,P,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,dog paw prints
+NY,Jones,Walkers,23-May-24,8:21,Y,14:00,17:41,19.4,19.4,11.3,8,B,MC ,4,15:43,P,0,0,5,0,0,1,4,6,0,0,0,0,0,0,0,"airshow planes, lighlty raining, 5 Planes"
+NY,Jones,Walkers,23-May-24,8:21,Y,14:00,17:41,19.4,19.4,11.3,8,B,MC ,5,16:04,P,0,0,2,0,0,0,3,0,0,2,0,0,0,0,0,"airshow planes, couldn't finish survey due to weather , 2 planes"
+NY,Sunken,None,25-May-24,1:20,Y,13:04,16:00,23.9,25,11.3,4.8,D,MC,1,13:51,P,0,1,1,0,0,4,0,0,0,0,0,0,0,0,0,1 plane
+NY,Sunken,None,25-May-24,1:20,Y,13:04,16:00,23.9,25,11.3,4.8,D,MC,2,14:01,P,0,1,0,0,0,0,12,1,1,0,0,0,0,0,0,pipl incubating nest with exclosure
+NY,Sunken,None,25-May-24,1:20,Y,13:04,16:00,23.9,25,11.3,4.8,D,MC,3,14:42,N,0,1,0,0,0,2,32,2,0,0,0,0,0,0,0,
+NY,Sunken,None,25-May-24,1:20,Y,13:04,16:00,23.9,25,11.3,4.8,D,MC,4,15:02,P,0,0,0,0,0,35,63,0,0,0,0,0,0,0,0,
+NY,Sunken,None,25-May-24,1:20,Y,13:04,16:00,23.9,25,11.3,4.8,D,MC,5,15:17,P,0,0,0,0,0,42,102,22,1,0,0,0,0,0,0,"36 terns, pipl incubating exclosed nest"
+NY,TOH,Dog_free,26-May-24,10:14,Y,8:43,15:22,17.2,20.6,8,12.9,C,AE,1,10:37,N,1,0,1,0,0,12,20,3,0,4,0,0,0,0,0,"Fat tire bike, 2 skimmers, 2 song sparrow, 1 cormorant, 1 grackle, 1 plane"
+NY,TOH,Dog_free,26-May-24,10:14,Y,8:43,15:22,17.2,20.6,8,12.9,C,AE,2,10:59,N,0,0,3,0,0,6,8,4,0,0,0,0,0,0,0,"5 barn swallows, 2 COTE, 4 LETE, 3 plane"
+NY,TOH,Dog_free,26-May-24,10:14,Y,8:43,15:22,17.2,20.6,8,12.9,C,AE,3,11:24,P,1,0,0,0,0,11,32,9,0,5,0,0,0,0,0,"Lifeguard ATV, 1 surfer, 1 COTE"
+NY,TOH,Dog_free,26-May-24,10:14,Y,8:43,15:22,17.2,20.6,8,12.9,C,AE,4,11:46,P,1,0,1,0,0,22,24,41,3,9,0,0,12,0,0,"Lifeguard  ATV, 4 Skimmers, 9 COTE, 3 LETE, 1 plane"
+NY,TOH,Dog_free,26-May-24,10:14,Y,8:43,15:22,17.2,20.6,8,12.9,D,AE,5,12:18,P,3,0,0,0,0,53,95,5,0,4,0,0,3,0,0,"1 public saftey vehicle, 2 maintenance vehicles~200 skimmers, ~500 COTE, talked to 2 ladys about terrapin turtle and 2 ladys about AMOY. Very foggy"
+NY,TOH,Dog_free,26-May-24,10:14,Y,8:43,15:22,17.2,20.6,8,12.9,D,AE,6,12:42,P,4,0,1,0,0,28,19,24,1,9,0,0,44,0,0,"~50 skimmers, ~200 COTE, talked to 2 ladys about birds and their nesting area- gave them literature, 1 plane"
+NY,TOH,Dog_free,26-May-24,10:14,Y,8:43,15:22,17.2,20.6,8,12.9,D,AE,7,13:37,P,0,0,0,0,1,20,31,0,0,5,0,0,0,0,0,"~400 skimmers, ~600 COTE"
+NY,TOH,Dog_free,26-May-24,10:14,Y,8:43,15:22,17.2,20.6,8,12.9,D,AE,8,13:52,P,1,0,2,0,0,71,152,1,1,5,0,0,0,0,0,"25 skimmers, Public saftey truck, talked to public saftey guy (Allen). 2 plane"
+NY,TOH,Dog_free,26-May-24,10:14,Y,8:43,15:22,17.2,20.6,8,12.9,D,AE,9,14:17,P,2,0,0,0,0,55,102,3,2,9,0,0,0,0,0,"1 police truck and 1 police golf cart, 5 COTE, 3 LETE, 2 skimmers."
+NY,TOH,Dog_free,26-May-24,10:14,Y,8:43,15:22,17.2,20.6,8,12.9,D,AE,10,14:45,P,2,0,3,0,0,21,70,18,5,11,0,0,0,0,0,"Police ATV, Conservation ATV, 2 skimmers, 12 LETE, 3 planes"
+NY,Sunken,None,29-May-24,4:15,Y,13:00,16:05,22,21.7,13,8,D,MC,1,13:20,P,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1 Helicopter
+NY,Sunken,None,29-May-24,4:15,Y,13:00,16:05,22,21.7,13,8,D,MC,2,13:42,P,0,0,0,1,0,3,4,15,1,0,0,0,0,0,0,dog on kings park side
+NY,Sunken,None,29-May-24,4:15,Y,13:00,16:05,22,21.7,13,8,D,MC,3,14:10,N,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,
+NY,Sunken,None,29-May-24,4:15,Y,13:00,16:05,22,21.7,13,8,D,MC,4,14:36,P,0,0,0,0,0,0,7,3,1,0,0,0,0,0,0,6 lete
+NY,Sunken,None,29-May-24,4:15,Y,13:00,16:05,22,21.7,13,8,D,MC,5,15:13,P,0,0,0,0,0,1,2,12,1,0,0,0,0,0,0,38 lete
+NY,Jones,Walkers,28-May-24,9:56,Y,11:00,15:40,22,18,16,35,B,MC,11,11:22,P,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,
+NY,Jones,Walkers,28-May-24,9:56,Y,11:00,15:40,22,18,16,35,B,MC,1,11:58,P,1,1,0,0,0,0,0,8,1,3,0,0,0,0,0,2 adult amoy + 1 chick
+NY,Jones,Walkers,28-May-24,9:56,Y,11:00,15:40,22,18,16,35,B,MC,2,12:28,P,1,0,0,0,0,2,0,12,4,0,0,0,0,0,0,2 pipl exclosures
+NY,Jones,Walkers,28-May-24,9:56,Y,11:00,15:40,22,18,16,35,B,MC,3,13:01,P,0,0,1,0,0,0,10,6,1,0,0,0,0,0,0,"1 pipl exclosure, incubating, 1 Helicopter"
+NY,Jones,Walkers,28-May-24,9:56,Y,11:00,15:40,22,18,16,35,B,MC,4,13:46,P,0,0,1,0,0,0,2,4,0,0,0,0,0,0,0,1 plane
+NY,Jones,Walkers,28-May-24,9:56,Y,11:00,15:40,22,18,16,35,B,MC,5,14:21,P,0,0,0,0,0,2,0,12,0,0,0,0,0,96,0,wind getting very strong
+NY,Jones,Walkers,28-May-24,9:56,Y,11:00,15:40,22,18,16,35,C,MC,6,16:50,P,0,0,1,0,0,1,2,6,0,1,0,0,0,0,0,1 plane
+NY,Jones,Walkers,28-May-24,9:56,Y,11:00,15:40,22,18,16,35,C,MC,7,16:20,P,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0,1 plane
+NY,Jones,Walkers,28-May-24,9:56,Y,11:00,15:40,22,18,16,35,C,MC,8,15:53,P,0,0,0,0,0,0,0,13,0,2,0,0,0,0,0,found urn
+NY,Jones,Walkers,28-May-24,9:56,Y,11:00,15:40,22,18,16,35,C,MC,9,15:30,P,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,
+NY,Jones,Walkers,28-May-24,9:56,Y,11:00,15:40,22,18,16,35,C,MC,10,15:19,P,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,
+NY,TOH,Dog_free,29-May-24,1:06,Y,9:05,14:25,18.3,21.1,9.7,11.2,C,AE,1,10:04,N,0,0,2,0,0,5,4,3,0,0,0,0,0,0,0,"fat bike tire tracks, dog prints, 1 plane, 1 helicopter"
+NY,TOH,Dog_free,29-May-24,1:06,Y,9:05,14:25,18.3,21.1,9.7,11.2,C,AE,2,10:24,N,1,0,1,0,0,3,0,0,0,0,0,0,0,0,0,"Dog prints, 1 Cormorant, 1 Lifeguard ATV,  1 plane"
+NY,TOH,Dog_free,29-May-24,1:06,Y,9:05,14:25,18.3,21.1,9.7,11.2,C,AE,3,10:38,P,1,0,1,0,0,2,5,0,0,6,0,0,0,0,0,"1 Cormorant, 1 Osprey, 12 COTE, 1 Lifeguard ATV, 1 plane"
+NY,TOH,Dog_free,29-May-24,1:06,Y,9:05,14:25,18.3,21.1,9.7,11.2,C,AE,4,10:56,P,1,0,2,0,0,3,8,26,0,4,0,0,0,0,0,"1 Cormorant, 3 Skimmers, 23 COTE, Bay Constable Truck, 2 planes"
+NY,TOH,Dog_free,29-May-24,1:06,Y,9:05,14:25,18.3,21.1,9.7,11.2,D,AE,5,11:21,P,0,0,0,0,0,13,8,2,1,7,0,0,8,0,0,"~150 COTE, ~40 Skimmers, 1 Cormorant"
+NY,TOH,Dog_free,29-May-24,1:06,Y,9:05,14:25,18.3,21.1,9.7,11.2,D,AE,6,11:54,P,0,1,2,0,0,2,11,62,1,14,0,0,232,0,0,"~300 COTE, 30 Skimmers, 1 Osprey, 2 Cormorant, AMOY (11 Adult, 3 chicks), 1 plane, 1 helicopter"
+NY,TOH,Dog_free,29-May-24,1:06,Y,9:05,14:25,18.3,21.1,9.7,11.2,D,AE,7,12:43,P,0,0,0,0,0,3,12,0,0,5,0,0,0,0,0,"~300 skimmers, ~1000 COTE"
+NY,TOH,Dog_free,29-May-24,1:06,Y,9:05,14:25,18.3,21.1,9.7,11.2,D,AE,8,13:08,P,0,0,0,0,0,19,21,7,2,2,0,0,0,0,0,"6 Skimmers, 1 Osprey"
+NY,TOH,Dog_free,29-May-24,1:06,Y,9:05,14:25,18.3,21.1,9.7,11.2,D,AE,9,13:27,P,2,0,0,0,0,10,87,10,0,9,0,0,0,0,0,"15 LETE, 2 skimmers"
+NY,TOH,Dog_free,29-May-24,1:06,Y,9:05,14:25,18.3,21.1,9.7,11.2,D,AE,10,13:44,P,1,0,1,0,0,11,42,9,3,7,0,0,0,0,0,"15 LETE, 8 gull, 1 crow, 1 plane"
+NY,Sunken,None,2-Jun-24,8:19,Y,13:24,16:20,26,24,8,8,D,MC,1,13:53,P,0,0,0,1,0,6,0,2,0,0,0,0,0,0,0,
+NY,Sunken,None,2-Jun-24,8:19,Y,13:24,16:20,26,24,8,8,D,MC,2,14:06,P,0,2,0,0,1,5,38,3,1,0,0,0,0,0,0,pipl exclosure 
+NY,Sunken,None,2-Jun-24,8:19,Y,13:24,16:20,26,24,8,8,D,MC,3,14:30,N,0,2,0,0,0,4,56,0,0,0,0,0,0,0,0,
+NY,Sunken,None,2-Jun-24,8:19,Y,13:24,16:20,26,24,8,8,D,MC,4,14:45,P,0,0,0,0,0,19,178,1,0,0,0,0,0,0,0,
+NY,Sunken,None,2-Jun-24,8:19,Y,13:24,16:20,26,24,8,8,D,MC,5,15:02,P,0,0,0,0,0,25,102,0,2,0,0,0,0,0,0,pipl exclosure 
+NY,Sunken,None,4-Jun-24,10:18,Y,15:00,18:00,23,22,16,11,D,MC,1,15:44,P,0,0,0,1,0,1,1,2,0,0,0,0,0,0,0,
+NY,Sunken,None,4-Jun-24,10:18,Y,15:00,18:00,23,22,16,11,D,MC,2,16:00,P,0,3,0,1,0,8,0,18,1,0,0,0,0,0,0,1 snowy egret
+NY,Sunken,None,4-Jun-24,10:18,Y,15:00,18:00,23,22,16,11,D,MC,3,16:30,N,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,3 lete
+NY,Sunken,None,4-Jun-24,10:18,Y,15:00,18:00,23,22,16,11,D,MC,4,16:50,P,1,0,0,0,0,15,23,0,0,0,0,0,0,0,0,parks truck
+NY,Sunken,None,4-Jun-24,10:18,Y,15:00,18:00,23,22,16,11,D,MC,5,17:26,P,0,0,0,0,0,26,45,5,1,0,0,0,0,0,0,36 lete
+NY,TOH,Dog_free,4-Jun-24,6:52,Y,13:50,18:05,26.1,23.9,9.7,16.1,C,AE,1,14:25,N,0,0,0,0,0,4,19,0,0,0,0,0,0,0,0,"12 COTE, 2 Cormorant"
+NY,TOH,Dog_free,4-Jun-24,6:52,Y,13:50,18:05,26.1,23.9,9.7,16.1,C,AE,2,14:59,N,1,0,2,0,0,10,6,7,0,3,0,0,0,0,0,"6 COTE, 1 Cormorant, Public Safety ATV, 1 plane, 1 helicopter"
+NY,TOH,Dog_free,4-Jun-24,6:52,Y,13:50,18:05,26.1,23.9,9.7,16.1,C,AE,3,15:15,P,0,0,0,1,0,4,5,0,1,5,0,0,0,0,0,4 COTE
+NY,TOH,Dog_free,4-Jun-24,6:52,Y,13:50,18:05,26.1,23.9,9.7,16.1,C,AE,4,15:32,P,1,0,1,0,0,26,7,21,0,7,0,0,0,0,0,"1 Cormorant, 1 Skimmer, 1 Conservation ATV, 1 helicopter"
+NY,TOH,Dog_free,4-Jun-24,6:52,Y,13:50,18:05,26.1,23.9,9.7,16.1,D,AE,5,15:53,P,0,0,1,0,0,5,14,9,0,10,0,0,0,0,0,"1 Cormorant, ~400 Skimmers, ~500 COTE, 1 helicopter"
+NY,TOH,Dog_free,4-Jun-24,6:52,Y,13:50,18:05,26.1,23.9,9.7,16.1,D,AE,6,16:18,P,0,0,2,0,0,5,4,44,0,31,0,0,0,0,0,"Tern and Skimmer colonies, 2 planes"
+NY,TOH,Dog_free,4-Jun-24,6:52,Y,13:50,18:05,26.1,23.9,9.7,16.1,D,AE,7,16:38,P,2,0,4,0,0,8,5,4,0,6,0,0,0,0,0,"~800 skimmers, ~1200 COTE, Conservation ATV, Public Saftey ATV, 4 planes"
+NY,TOH,Dog_free,4-Jun-24,6:52,Y,13:50,18:05,26.1,23.9,9.7,16.1,D,AE,8,17:05,P,2,0,2,0,0,4,5,5,0,5,0,0,0,0,0,"13 COTE, 1 Dunlin, Conservation truck guiding payloader, 2 planes"
+NY,TOH,Dog_free,4-Jun-24,6:52,Y,13:50,18:05,26.1,23.9,9.7,16.1,D,AE,9,17:27,P,3,0,1,0,0,6,11,17,0,11,0,0,0,0,0,1 plane
+NY,TOH,Dog_free,4-Jun-24,6:52,Y,13:50,18:05,26.1,23.9,9.7,16.1,D,AE,10,17:43,P,2,0,0,0,0,1,5,2,0,8,0,0,0,0,0,"2 COTE, 2 Lifeguard ATV"
+NY,Jones,Walkers,5-Jun-24,8:34,Y,11:00,18:30,19.4,21.1,11.2,19.3,B,AE,1,11:57,P,0,1,0,0,0,0,1,9,6,6,0,0,0,0,0,"1 Osprey, Ghost Crabs, Ruddy turnstone"
+NY,Jones,Walkers,5-Jun-24,8:34,Y,11:00,18:30,19.4,21.1,11.2,19.3,B,AE,2,12:39,P,0,0,2,0,0,0,3,5,3,2,0,0,0,0,0,"2 LETE, 5 COTE"
+NY,Jones,Walkers,5-Jun-24,8:34,Y,11:00,18:30,19.4,21.1,11.2,19.3,B,AE,3,13:13,P,0,0,0,0,0,2,0,0,7,0,0,0,0,0,0,4 LETE
+NY,Jones,Walkers,5-Jun-24,8:34,Y,11:00,18:30,19.4,21.1,11.2,19.3,B,AE,4,13:40,P,0,0,1,0,0,3,0,2,2,0,0,0,0,0,0,"4 COTE, 2 LETE, dog prints, 2 balloons"
+NY,Jones,Walkers,5-Jun-24,8:34,Y,11:00,18:30,19.4,21.1,11.2,19.3,B,AE,5,14:02,P,0,0,1,0,0,0,1,13,0,3,0,0,9,0,0,"6 LETE, 17 COTE, 4 balloons"
+NY,Jones,Walkers,5-Jun-24,8:34,Y,11:00,18:30,19.4,21.1,11.2,19.3,C,AE,6,14:32,P,0,0,1,0,0,1,1,46,0,0,0,0,0,0,0,"Had a two hour long conversation with Tim- asking lots of questions about birds but he went on lots of tangents, ghost crabs, 1 Osprey, 2 balloons"
+NY,Jones,Walkers,5-Jun-24,8:34,Y,11:00,18:30,19.4,21.1,11.2,19.3,C,AE,7,16:34,P,0,0,4,0,0,0,0,29,0,3,0,0,0,0,0,"1 Osprey, 4 balloons"
+NY,Jones,Walkers,5-Jun-24,8:34,Y,11:00,18:30,19.4,21.1,11.2,19.3,C,AE,8,16:53,P,0,0,2,0,0,1,0,14,0,2,0,0,0,0,0,"2 Osprey, 3 balloons"
+NY,Jones,Walkers,5-Jun-24,8:34,Y,11:00,18:30,19.4,21.1,11.2,19.3,C,AE,9,17:11,P,0,0,4,0,0,0,0,10,1,2,0,0,0,0,0,"PIPL tracks, 9 gull, 1 crow"
+NY,Jones,Walkers,5-Jun-24,8:34,Y,11:00,18:30,19.4,21.1,11.2,19.3,C,AE,10,17:27,P,0,0,3,0,0,4,0,31,0,0,0,0,0,0,0,1 Osprey
+NY,Jones,Walkers,5-Jun-24,8:34,Y,11:00,18:30,19.4,21.1,11.2,19.3,B,AE,11,11:33,P,0,0,0,0,0,2,3,3,0,2,0,0,0,0,0,"3 COTE, 1 Cormorant, 2 Dunlin"
+NY,Sunken,None,8-Jun-24,1:01,Y,11:00,13:30,21,21,8,8,D,MC,1,11:15,P,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,dog prints
+NY,Sunken,None,8-Jun-24,1:01,Y,11:00,13:30,21,21,8,8,D,MC,2,11:38,P,1,0,1,0,0,0,4,0,2,0,0,0,0,0,0,"park staff parked right in front of exclosure in atv, scarring plover off nest, not moving "
+NY,Sunken,None,8-Jun-24,1:01,Y,11:00,13:30,21,21,8,8,D,MC,3,12:06,N,0,1,1,0,0,6,23,1,0,0,0,0,0,0,0,
+NY,Sunken,None,8-Jun-24,1:01,Y,11:00,13:30,21,21,8,8,D,MC,4,12:35,P,0,1,0,0,0,23,60,0,1,0,0,0,0,0,0,
+NY,Sunken,None,8-Jun-24,1:01,Y,11:00,13:30,21,21,8,8,D,MC,5,12:53,P,0,0,0,0,0,16,56,2,1,0,0,0,0,0,0,39 lete
+NY,TOH,Dog_free,13-Jun-24,0:57,Y,9:40,15:35,20,22.8,11.3,25.7,C,AE,1,10:46,N,0,0,2,0,0,5,9,4,0,4,0,0,0,0,0,"2 COTE, 1 Cormorant"
+NY,TOH,Dog_free,13-Jun-24,0:57,Y,9:40,15:35,20,22.8,11.3,25.7,C,AE,2,11:06,N,0,0,1,0,0,8,0,10,0,3,0,0,0,0,0,"2 dead dogfish, plane"
+NY,TOH,Dog_free,13-Jun-24, 0:57,Y,9:40,15:35,20,22.8,11.3,25.7,C,AE,3,11:25,P,1,0,1,0,0,6,5,1,0,7,0,0,0,0,0,"1 Osprey, 3 Cormorant, 8 COTE, Public safety truck, talked to Paul, helicopter"
+NY,TOH,Dog_free,13-Jun-24, 0:57,Y,9:40,15:35,20,22.8,11.3,25.7,C,AE,4,11:52,P,0,0,4,0,0,8,23,4,5,7,0,0,0,0,0,"7 COTE, 3 plane, 1 helicopter"
+NY,TOH,Dog_free,13-Jun-24, 0:57,Y,9:40,15:35,20,22.8,11.3,25.7,D,AE,5,12:25,P,0,0,1,0,0,9,32,2,2,6,0,0,0,0,0,"1 Osprey, 50 COTE, 200 Skimmers, 3 Jetski, talked to 2 ppl- they were asking questions about the scope and the AMOY, 1 plane"
+NY,TOH,Dog_free,13-Jun-24, 0:57,Y,9:40,15:35,20,22.8,11.3,25.7,D,AE,6,12:59,P,1,0,1,0,0,17,45,55,0,17,0,0,0,0,0,"COTE (20), talked to 2 ppl who were watching a group of AMOY- asking questions about how many birds are at Lido, helicopter"
+NY,TOH,Dog_free,13-Jun-24, 0:57,Y,9:40,15:35,20,22.8,11.3,25.7,D,AE,7,13:31,P,2,0,3,0,0,24,10,2,0,9,0,0,0,0,0,"~2000 COTE, ~700 Skimmers, 1 police car and 1 police ATV, 2 plane, 1 helicopter"
+NY,TOH,Dog_free,13-Jun-24, 0:57,Y,9:40,15:35,20,22.8,11.3,25.7,D,AE,8,14:09,P,0,0,5,0,0,11,34,5,1,5,0,0,0,0,0,"1 Cormorant, 3 plane, 2 helicopter"
+NY,TOH,Dog_free,13-Jun-24, 0:57,Y,9:40,15:35,20,22.8,11.3,25.7,D,AE,9,14:27,P,2,0,3,0,0,28,197,4,5,7,0,0,0,0,0,"15 LETE, 3 plane"
+NY,TOH,Dog_free,13-Jun-24, 0:57,Y,9:40,15:35,20,22.8,11.3,25.7,D,AE,10,15:05,P,0,0,2,0,0,5,65,13,0,2,0,0,0,0,0,"4 LETE, 2 plane"
+NY,Sunken,None,13-Jun-24,5:08,Y,9:50,11:40,22.8,22.8,9.7,9.7,D,"MC, VM",1,10:00,P,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,
+NY,Sunken,None,13-Jun-24,5:08,Y,9:50,11:40,22.8,22.8,9.7,9.7,D,"MC, VM",2,10:16,P,1,0,0,0,0,0,2,102,2,0,0,0,0,0,0,"parks atv parked in front of nest, pipl got off nest alert"
+NY,Sunken,None,13-Jun-24,5:08,Y,9:50,11:40,22.8,22.8,9.7,9.7,D,"MC, VM",3,10:45,N,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,
+NY,Sunken,None,13-Jun-24,5:08,Y,9:50,11:40,22.8,22.8,9.7,9.7,D,"MC, VM",4,11:01,P,0,0,0,0,0,11,48,0,0,0,0,0,0,0,0,46 terns
+NY,Sunken,None,13-Jun-24,5:08,Y,9:50,11:40,22.8,22.8,9.7,9.7,D,"MC, VM",5,11:15,P,0,0,0,0,0,27,32,0,0,0,0,0,0,0,0,
+NY,Jones,Walkers,14-Jun-24,1:43,Y,10:48,19:10,21.7,21.1,19.3,16.1,B,AE,1,11:46,P,0,0,4,0,0,1,3,3,8,5,0,0,0,0,0,"Ghost crabs, dog prints, 4 jetski, 2 plane, 2 helicopter"
+NY,Jones,Walkers,14-Jun-24,1:43,Y,10:48,19:10,21.7,21.1,19.3,16.1,B,AE,2,12:32,P,0,0,3,0,0,0,7,21,5,5,0,0,0,0,0,"3 balloons, 1 plane, 2 helicopter"
+NY,Jones,Walkers,14-Jun-24,1:43,Y,10:48,19:10,21.7,21.1,19.3,16.1,B,AE,3,13:05,P,0,0,1,0,0,0,4,17,5,0,0,0,0,0,0,"4 balloons, 1 helicopter"
+NY,Jones,Walkers,14-Jun-24,1:43,Y,10:48,19:10,21.7,21.1,19.3,16.1,B,AE,4,13:37,P,0,0,8,0,0,5,7,7,4,4,0,0,0,0,0,"2 balloons, 2 Osprey, 3 plane, 5 helicopter"
+NY,Jones,Walkers,14-Jun-24,1:43,Y,10:48,19:10,21.7,21.1,19.3,16.1,B,AE,5,15:34,P,0,0,4,0,0,0,0,4,5,0,0,0,1,0,0,"1 Osprey, 2 plane, 2 helicopter"
+NY,Jones,Walkers,14-Jun-24,1:43,Y,10:48,19:10,21.7,21.1,19.3,16.1,C,AE,6,16:07,P,0,0,6,0,0,1,0,48,4,1,0,0,0,0,0,"2 plane, 4 helicopter"
+NY,Jones,Walkers,14-Jun-24,1:43,Y,10:48,19:10,21.7,21.1,19.3,16.1,C,AE,7,16:28,P,0,0,4,0,0,0,0,61,0,2,0,0,0,0,0,"2 plane, 2 helicopter"
+NY,Jones,Walkers,14-Jun-24,1:43,Y,10:48,19:10,21.7,21.1,19.3,16.1,C,AE,8,16:51,P,0,0,1,0,0,3,0,73,2,2,0,0,0,0,0,"1 balloon, 70 gull, 3 crow, 1 plane"
+NY,Jones,Walkers,14-Jun-24,1:43,Y,10:48,19:10,21.7,21.1,19.3,16.1,C,AE,9,17:17,P,0,0,6,0,0,7,0,12,0,5,0,0,0,0,0,"Fox prints, 2 Osprey, 1 Cormorant, 4 balloons, 5 AMOY (3 Adult, 2 chicks), 5 plane, 1 helicopter"
+NY,Jones,Walkers,14-Jun-24,1:43,Y,10:48,19:10,21.7,21.1,19.3,16.1,C,AE,10,17:41,P,0,0,0,0,0,2,0,19,0,0,0,0,0,0,0,"14 gull, 5 crow"
+NY,Jones,Walkers,14-Jun-24,1:43,Y,10:48,19:10,21.7,21.1,19.3,16.1,D,AE,11,11:14,P,0,1,3,0,0,0,0,0,0,2,0,0,0,0,0,"Ghost crab holes, 1 jetski, 1 Osprey, 4 COTE, 1 plane, 2 helicopters"
+NY,Sunken,None,16-Jun-24,4:50,Y,13:00,15:45,22.8,22.8,8,8,D,MC,1,13:32,P,0,0,0,0,2,14,0,2,0,0,0,0,0,0,0,"6 egrets, 7 swans"
+NY,Sunken,None,16-Jun-24,4:50,Y,13:00,15:45,22.8,22.8,8,8,D,MC,2,13:54,P,0,2,0,2,0,25,6,2,4,0,0,0,0,0,0,"2 pipl chicks , dogs on kings park side"
+NY,Sunken,None,16-Jun-24,4:50,Y,13:00,15:45,22.8,22.8,8,8,D,MC,3,14:16,N,0,1,1,3,0,12,43,0,0,0,0,0,0,0,0,"talked to people with dogs, and told parks"
+NY,Sunken,None,16-Jun-24,4:50,Y,13:00,15:45,22.8,22.8,8,8,D,MC,4,14:26,P,0,0,0,0,0,34,216,6,0,0,0,0,0,0,0,
+NY,Sunken,None,16-Jun-24,4:50,Y,13:00,15:45,22.8,22.8,8,8,D,MC,5,15:10,P,0,0,0,0,0,29,98,5,2,0,0,0,0,0,0,plover still on nest
+NY,TOH,Dog_free,17-Jun-24,4:59,Y,11:00,17:50,22.2,23.3,16.1,35.4,C,AE,1,12:02,N,0,0,2,0,0,14,48,9,0,0,0,0,0,0,0,"1 Cormorant, 10 COTE, 2 planes"
+NY,TOH,Dog_free,17-Jun-24,4:59,Y,11:00,17:50,22.2,23.3,16.1,35.4,C,AE,2,12:20,N,0,0,0,0,0,5,23,5,0,0,0,0,0,0,0,"1 Cormorant, 13 COTE"
+NY,TOH,Dog_free,17-Jun-24,4:59,Y,11:00,17:50,22.2,23.3,16.1,35.4,C,AE,3,12:32,P,0,0,2,0,0,12,30,47,0,0,0,0,0,0,0,"3 Cormorant, 5 COTE, 2 Osprey, 1 Balloon, Talked to 2 people, 1 plane, 1 helicopter"
+NY,TOH,Dog_free,17-Jun-24,4:59,Y,11:00,17:50,22.2,23.3,16.1,35.4,C,AE,4,13:05,P,0,0,4,0,0,17,69,39,0,7,0,0,0,0,0,"2 Balloons, 4 planes"
+NY,TOH,Dog_free,17-Jun-24,4:59,Y,11:00,17:50,22.2,23.3,16.1,35.4,D,AE,5,13:32,P,2,0,7,0,0,9,49,8,2,15,0,0,0,0,0,"Life Guard golf card, Conservation ATV, talked to photographer, 6 plane, 1 helicopter"
+NY,TOH,Dog_free,17-Jun-24,4:59,Y,11:00,17:50,22.2,23.3,16.1,35.4,D,AE,6,14:36,P,3,0,6,0,0,32,64,16,0,22,0,0,0,0,0,"Conservation ATV, Life Guard golf cart, talked to Kasey from TOH conservation, 1 kite, 1 helicopter, 4 plane"
+NY,TOH,Dog_free,17-Jun-24,4:59,Y,11:00,17:50,22.2,23.3,16.1,35.4,D,AE,7,15:46,P,2,0,0,0,0,6,19,14,1,6,0,0,0,0,0,"Life Guard Truck, Police Golf cart"
+NY,TOH,Dog_free,17-Jun-24,4:59,Y,11:00,17:50,22.2,23.3,16.1,35.4,D,AE,8,16:13,P,1,0,0,0,0,28,9,24,1,6,0,0,0,0,0,Life Guard golf cart
+NY,TOH,Dog_free,17-Jun-24,4:59,Y,11:00,17:50,22.2,23.3,16.1,35.4,D,AE,9,16:39,P,1,0,5,0,0,7,27,18,0,14,0,0,0,0,0,"Police Car, 1 helicopter, 4 plane"
+NY,TOH,Dog_free,17-Jun-24,4:59,Y,11:00,17:50,22.2,23.3,16.1,35.4,D,AE,10,17:01,P,4,0,4,0,0,12,11,6,3,14,0,0,0,0,0,"TOH Truck, Conservation Truck, Conservation ATV, Garbage truck, talked to 4 people, 4 plane"
+NY,Sunken,None,20-Jun-24,11:10,Y,10:28,12:20,27.2,28.3,16,19,D,"MC, VM",1,10:43,P,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2 egrets
+NY,Sunken,None,20-Jun-24,11:10,Y,10:28,12:20,27.2,28.3,16,19,D,"MC, VM",2,10:57,P,0,0,0,0,0,0,5,11,0,0,0,0,0,0,0,11 LAGU
+NY,Sunken,None,20-Jun-24,11:10,Y,10:28,12:20,27.2,28.3,16,19,D,"MC, VM",3,11:20,N,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1 tern
+NY,Sunken,None,20-Jun-24,11:10,Y,10:28,12:20,27.2,28.3,16,19,D,"MC, VM",4,11:30,P,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,
+NY,Sunken,None,20-Jun-24,11:10,Y,10:28,12:20,27.2,28.3,16,19,D,"MC, VM",5,11:50,P,0,0,0,0,0,2,63,51,2,0,0,0,0,0,0,36 lete
+NY,Jones,Walkers,21-Jun-24,5:25,Y,11:00,18:23,23.3,25.5,19,14.4,B,MC,11,12:04,P,0,7,0,0,0,2,0,0,3,5,0,0,0,0,0,"amoy on nest, 2 pipl chicks, dog paw prints, 3 amoy sitting on rocks"
+NY,Jones,Walkers,21-Jun-24,5:25,Y,11:00,18:23,23.3,25.5,19,14.4,B,MC,1,12:20,P,0,3,1,0,0,1,0,0,0,3,0,0,0,0,0,low flying plane
+NY,Jones,Walkers,21-Jun-24,5:25,Y,11:00,18:23,23.3,25.5,19,14.4,B,MC,2,12:45,P,0,0,0,0,0,1,1,3,8,0,0,0,0,0,0,"2 adult pipl pair, 4 pipl chicks, 3 cote"
+NY,Jones,Walkers,21-Jun-24,5:25,Y,11:00,18:23,23.3,25.5,19,14.4,B,MC,3,13:08,P,0,0,1,0,0,1,0,1,3,2,0,0,0,0,0,4 cote
+NY,Jones,Walkers,21-Jun-24,5:25,Y,11:00,18:23,23.3,25.5,19,14.4,B,MC,4,13:22,P,0,0,1,0,0,2,14,3,2,0,0,0,0,0,0,
+NY,Jones,Walkers,21-Jun-24,5:25,Y,11:00,18:23,23.3,25.5,19,14.4,B,MC,5,13:45,P,0,0,0,0,0,2,6,7,0,0,0,0,0,0,0,
+NY,Jones,Walkers,21-Jun-24,5:25,Y,11:00,18:23,23.3,25.5,19,14.4,C,MC,6,15:44,P,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,exclosure nearby
+NY,Jones,Walkers,21-Jun-24,5:25,Y,11:00,18:23,23.3,25.5,19,14.4,C,MC,7,15:57,P,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,exclosure
+NY,Jones,Walkers,21-Jun-24,5:25,Y,11:00,18:23,23.3,25.5,19,14.4,C,MC,8,16:18,P,0,0,0,0,0,1,0,16,0,1,0,0,0,0,0,
+NY,Jones,Walkers,21-Jun-24,5:25,Y,11:00,18:23,23.3,25.5,19,14.4,C,MC,9,16:39,P,0,0,0,0,0,2,0,23,0,0,0,0,0,0,0,
+NY,Jones,Walkers,21-Jun-24,5:25,Y,11:00,18:23,23.3,25.5,19,14.4,C,MC,10,17:15,P,0,0,0,0,0,7,43,6,0,0,0,0,0,0,0,
+NY,Sunken,None,23-Jun-24,0:42,Y,15:53,18:35,30.6,26.7,29,27,D,MC,1,16:10,P,0,0,0,2,1,16,5,3,0,0,0,0,0,0,0,dogs on other side
+NY,Sunken,None,23-Jun-24,0:42,Y,15:53,18:35,30.6,26.7,29,27,D,MC,2,16:36,P,0,2,0,0,0,2,6,16,5,0,0,0,0,0,0,"2 adult pipl, 3 chicks"
+NY,Sunken,None,23-Jun-24,0:42,Y,15:53,18:35,30.6,26.7,29,27,D,MC,3,16:52,N,0,3,0,0,0,4,25,0,0,0,0,0,0,0,0,
+NY,Sunken,None,23-Jun-24,0:42,Y,15:53,18:35,30.6,26.7,29,27,D,MC,4,17:25,P,0,0,1,0,0,32,68,6,0,0,0,0,0,0,0,
+NY,Sunken,None,23-Jun-24,0:42,Y,15:53,18:35,30.6,26.7,29,27,D,MC,5,17:58,P,2,0,0,0,0,43,193,12,2,0,0,0,0,0,0,parks atv and truck
+NY,TOH,Dog_free,27-Jun-24,0:54,Y,9:35,15:45,21.1,25,12.9,14.5,C,AE,1,14:46,N,0,0,5,0,0,29,82,4,0,0,0,0,0,0,0,"24 COTE, 1 Cormorant, 5 planes"
+NY,TOH,Dog_free,27-Jun-24,0:54,Y,9:35,15:45,21.1,25,12.9,14.5,C,AE,2,14:28,N,0,0,6,0,0,19,17,4,0,2,0,0,0,0,0,"20 COTE, 3 Cormorant, 6 plane"
+NY,TOH,Dog_free,27-Jun-24,0:54,Y,9:35,15:45,21.1,25,12.9,14.5,C,AE,3,14:09,P,0,0,5,0,0,6,11,10,0,5,0,0,0,0,0,5 plane
+NY,TOH,Dog_free,27-Jun-24,0:54,Y,9:35,15:45,21.1,25,12.9,14.5,C,AE,4,13:38,P,1,0,7,0,0,15,62,15,1,14,0,0,0,0,0,"Lifeguard ATV, 1 Osprey, 1 Cormorant , 6 plane, 1 helicopter"
+NY,TOH,Dog_free,27-Jun-24,0:54,Y,9:35,15:45,21.1,25,12.9,14.5,D,AE,5,12:56,P,1,0,6,0,0,13,49,29,0,22,0,0,0,0,0,"Public safety car, 5 planes, 1 helicopter"
+NY,TOH,Dog_free,27-Jun-24,0:54,Y,9:35,15:45,21.1,25,12.9,14.5,D,AE,6,12:05,P,1,0,6,0,0,20,52,3,2,36,0,0,0,0,0,"Public safety ATV, 1 Cormorant, 6 planes"
+NY,TOH,Dog_free,27-Jun-24,0:54,Y,9:35,15:45,21.1,25,12.9,14.5,D,AE,7,11:28,P,4,0,0,0,0,20,6,15,0,15,0,0,0,0,0,"2 TOH conservation ATVs, 1 Lifeguard truck, 1 lifeguard ATV"
+NY,TOH,Dog_free,27-Jun-24,0:54,Y,9:35,15:45,21.1,25,12.9,14.5,D,AE,8,10:59,P,0,0,4,0,0,10,13,7,9,8,0,0,0,0,0,"3 planes, 1 helicopter"
+NY,TOH,Dog_free,27-Jun-24,0:54,Y,9:35,15:45,21.1,25,12.9,14.5,D,AE,9,10:32,P,0,0,4,0,0,12,48,19,0,6,0,0,0,0,0,"3 planes, 1 helicopter"
+NY,TOH,Dog_free,27-Jun-24,0:54,Y,9:35,15:45,21.1,25,12.9,14.5,D,AE,10,9:50,P,3,0,3,0,0,14,23,9,6,22,0,0,0,0,0,"2 Lifeguard ATVs - 1 going over 5mph and scattered PIPL family, first aid ATV, 3 planes"
+NY,Jones,Walkers,27-Jun-24,0:00,Y,12:00,19:15,21.7,22.2,19.3,24,B,MC,11,15:44,P,0,3,3,0,0,2,5,5,0,5,0,0,0,0,0,"1 amoy chick, 2 amoy pairs, one egg burried in sand no amoy foot prints around it, looks abandoned  "
+NY,Jones,Walkers,27-Jun-24,0:00,Y,12:00,19:15,21.7,22.2,19.3,24,B,MC,1,16:19,P,0,1,2,0,0,2,0,2,3,2,0,0,0,0,0,"amoy pair foraging, 3 lete, 1 male pipl, 2 female piple"
+NY,Jones,Walkers,27-Jun-24,0:00,Y,12:00,19:15,21.7,22.2,19.3,24,B,MC,2,16:37,P,0,0,1,0,0,0,6,13,0,0,0,0,0,0,0,6 lete
+NY,Jones,Walkers,27-Jun-24,0:00,Y,12:00,19:15,21.7,22.2,19.3,24,B,MC,3,16:56,P,0,0,0,0,0,3,2,4,1,2,0,0,0,0,0,"10 lete, female pipl"
+NY,Jones,Walkers,27-Jun-24,0:00,Y,12:00,19:15,21.7,22.2,19.3,24,B,MC,4,17:28,P,0,0,1,0,0,2,7,3,2,1,0,0,0,0,0,"21 lete, 1 fledge pipl, 1 osprey"
+NY,Jones,Walkers,27-Jun-24,0:00,Y,12:00,19:15,21.7,22.2,19.3,24,B,MC,5,17:54,P,0,1,0,0,0,0,2,4,0,0,0,0,0,0,0,13 lete
+NY,Jones,Walkers,27-Jun-24,0:00,Y,12:00,19:15,21.7,22.2,19.3,24,C,MC,6,12:26,P,0,0,0,0,0,6,58,6,0,0,0,0,0,0,0,
+NY,Jones,Walkers,27-Jun-24,0:00,Y,12:00,19:15,21.7,22.2,19.3,24,C,MC,7,12:43,P,1,0,1,0,0,2,16,2,1,1,0,0,0,0,0,park atv
+NY,Jones,Walkers,27-Jun-24,0:00,Y,12:00,19:15,21.7,22.2,19.3,24,C,MC,8,13:12,P,0,1,0,0,0,1,0,16,0,0,0,0,0,0,0,roosting behind fencing
+NY,Jones,Walkers,27-Jun-24,0:00,Y,12:00,19:15,21.7,22.2,19.3,24,C,MC,9,13:34,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+NY,Jones,Walkers,27-Jun-24,0:00,Y,12:00,19:15,21.7,22.2,19.3,24,C,MC,10,13:53,P,0,0,0,0,0,3,0,4,2,2,0,0,0,0,0,
+NY,Sunken,None,2-Jul-24,9:04,Y,9:10,11:15,20.5,22.8,11.3,11.3,D,"MC, VM",1,9:29,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+NY,Sunken,None,2-Jul-24,9:04,Y,9:10,11:15,20.5,22.8,11.3,11.3,D,"MC, VM",2,9:44,P,0,0,0,0,0,0,7,33,0,0,0,0,0,0,0,"2 egret, 7 swan, 2 cormorants, trash overflowing- all over beach"
+NY,Sunken,None,2-Jul-24,9:04,Y,9:10,11:15,20.5,22.8,11.3,11.3,D,"MC, VM",3,10:03,N,0,0,0,0,0,0,2,32,0,0,0,0,0,0,0,"trash overflowing onto beach, 1 cormorant"
+NY,Sunken,None,2-Jul-24,9:04,Y,9:10,11:15,20.5,22.8,11.3,11.3,D,"MC, VM",4,10:20,P,0,0,2,0,1,27,19,28,0,0,0,0,0,0,0,1 cormorant
+NY,Sunken,None,2-Jul-24,9:04,Y,9:10,11:15,20.5,22.8,11.3,11.3,D,"MC, VM",5,10:43,P,0,0,0,0,0,31,61,48,2,0,0,0,0,0,0,"62 cote, 2 cote fledglings, 98 lete, 15 lete chicks, tire tracks "
+NY,TOH,Dog_free,6-Jul-24,8:56,Y,10:00,15:44,23.3,25,19.3,20.9,C,AE,1,11:33,N,2,0,1,0,0,35,27,4,0,2,0,0,0,0,0,"Public safety car, TOH Conservation ATV, met up with Kim, Cassidy, and Stella from TOH conservation and talked for a bit. Kim then drove me down to the first point, we stopped along the way to talk to Paul who was asking questions about the AMOY families. Talked to 3 other ppl asking about my camera (spotting scope) and then about the birds and how they're doing. 1 plane"
+NY,TOH,Dog_free,6-Jul-24,8:56,Y,10:00,15:44,23.3,25,19.3,20.9,C,AE,2,12:10,N,0,0,1,0,0,7,23,11,0,3,0,0,0,0,0,"1 Cormorant, 5 COTE, 5 Barn swallows, 1 plane"
+NY,TOH,Dog_free,6-Jul-24,8:56,Y,10:00,15:44,23.3,25,19.3,20.9,C,AE,3,12:29,P,2,0,1,0,0,11,5,7,0,11,0,0,0,0,0,"1 Public safety car - talked to Allen who was asking if I had seen any dogs, 1 lifeguard truck, 1 plane"
+NY,TOH,Dog_free,6-Jul-24,8:56,Y,10:00,15:44,23.3,25,19.3,20.9,C,AE,4,12:57,P,2,0,3,0,0,17,46,83,1,14,0,0,0,0,0,"Lifeguard truck and lifeguard ATV, 3 planes"
+NY,TOH,Dog_free,6-Jul-24,8:56,Y,10:00,15:44,23.3,25,19.3,20.9,D,AE,5,13:23,P,2,0,1,0,0,64,61,17,9,12,0,0,0,0,0,"1 Public saftey car and 1 TOH conservation ATV, 1 plane"
+NY,TOH,Dog_free,6-Jul-24,8:56,Y,10:00,15:44,23.3,25,19.3,20.9,D,AE,6,13:58,P,1,0,1,0,0,62,67,21,2,11,0,0,0,0,0,"1 TOH conservation vehicle, 1 helicopter"
+NY,TOH,Dog_free,6-Jul-24,8:56,Y,10:00,15:44,23.3,25,19.3,20.9,D,AE,7,14:20,P,1,0,0,0,0,17,16,3,0,16,0,0,0,0,0,1 TOH conservation vehicle
+NY,TOH,Dog_free,6-Jul-24,8:56,Y,10:00,15:44,23.3,25,19.3,20.9,D,AE,8,14:41,P,0,0,3,0,0,29,116,8,0,3,0,0,0,0,0,"1 Osprey, 2 plane, 1 helicopter"
+NY,TOH,Dog_free,6-Jul-24,8:56,Y,10:00,15:44,23.3,25,19.3,20.9,D,AE,9,15:01,P,1,0,2,0,0,62,68,33,1,14,0,0,0,0,0,"1 TOH conservation ATV, 2 planes"
+NY,TOH,Dog_free,6-Jul-24,8:56,Y,10:00,15:44,23.3,25,19.3,20.9,D,AE,10,15:27,P,1,0,2,0,0,24,52,14,0,3,0,0,0,0,0,"1 skimmer, 21 LETE, 2 planes"
+NY,Sunken,None,6-Jul-24,0:42,Y,13:47,16:00,28.3,27.8,12.9,8,D,MC,1,2:00,P,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,
+NY,Sunken,None,6-Jul-24,0:42,Y,13:47,16:00,28.3,27.8,12.9,8,D,MC,2,2:25,P,0,3,0,0,0,2,33,0,1,0,0,0,0,0,0,pipl flying and chirping
+NY,Sunken,None,6-Jul-24,0:42,Y,13:47,16:00,28.3,27.8,12.9,8,D,MC,3,2:48,N,1,2,1,0,0,6,67,0,0,0,0,0,0,0,0,
+NY,Sunken,None,6-Jul-24,0:42,Y,13:47,16:00,28.3,27.8,12.9,8,D,MC,4,3:12,P,2,0,0,0,0,47,159,0,0,0,0,0,0,0,0,78 lete 
+NY,Sunken,None,6-Jul-24,0:42,Y,13:47,16:00,28.3,27.8,12.9,8,D,MC,5,3:39,P,1,0,0,0,0,56,182,2,1,0,0,0,0,0,0,pipl incubating nest- most likley failed.
+NY,Jones,Walkers,7-Jul-24,11:01,Y,9:55,16:20,25,24.4,6.4,9.7,B,AE,1,10:36,P,0,0,2,0,0,4,0,0,2,2,0,0,0,0,0,"1 PIPL has string stuck on leg and is not putting weight on that leg- notified Sam from Jones Beach Shorebird Team, 2 planes"
+NY,Jones,Walkers,7-Jul-24,11:01,Y,9:55,16:20,25,24.4,6.4,9.7,B,AE,2,11:15,P,0,0,2,0,0,9,16,2,5,0,0,0,0,0,0,"11 COTE, 2 Ghost crabs, a man waved me over and asked what I've seen so far today and was saying how much he loves watching the plovers, 2 planes"
+NY,Jones,Walkers,7-Jul-24,11:01,Y,9:55,16:20,25,24.4,6.4,9.7,B,AE,3,11:36,P,0,0,1,0,0,2,2,0,8,2,0,0,0,0,0,"1 fat tire bike, 1 balloon, talked to lifeguard (Jones)- he asked about the scope and about the job and then said that a small tornado had touched down the night before, one of the lifeguard shelters was totally destroyed and debries were found just over 1 mile away. 1 plane"
+NY,Jones,Walkers,7-Jul-24,11:01,Y,9:55,16:20,25,24.4,6.4,9.7,B,AE,4,12:01,P,1,2,2,0,2,8,29,0,9,1,0,0,0,0,0,"1 Motorized bike, 5 jetski, 2 planes"
+NY,Jones,Walkers,7-Jul-24,11:01,Y,9:55,16:20,25,24.4,6.4,9.7,B,AE,5,13:02,P,0,0,2,0,0,5,0,35,2,1,0,0,0,0,0,"1 plane, 1 helicopter"
+NY,Jones,Walkers,7-Jul-24,11:01,Y,9:55,16:20,25,24.4,6.4,9.7,C,AE,6,13:38,P,0,0,1,0,0,2,3,26,3,0,0,0,0,0,0,1 plane
+NY,Jones,Walkers,7-Jul-24,11:01,Y,9:55,16:20,25,24.4,6.4,9.7,C,AE,7,13:56,P,0,0,2,0,0,5,5,22,0,1,0,0,0,0,0,"2 Osprey, 23 COTE, 1 plane, 1 helicopter"
+NY,Jones,Walkers,7-Jul-24,11:01,Y,9:55,16:20,25,24.4,6.4,9.7,C,AE,8,14:15,P,0,1,3,0,0,24,89,4,0,1,0,0,0,0,0,"3 balloons, 3 planes"
+NY,Jones,Walkers,7-Jul-24,11:01,Y,9:55,16:20,25,24.4,6.4,9.7,C,AE,9,14:33,P,0,0,0,0,0,33,29,5,4,0,0,0,0,0,0,
+NY,Jones,Walkers,7-Jul-24,11:01,Y,9:55,16:20,25,24.4,6.4,9.7,C,AE,10,14:56,P,0,0,3,0,0,72,142,22,0,0,0,0,0,0,0,"talked to 2 ppl asking about the birds- they said how much they love the nature center at Jones Beach and also said thank you for the work that you're doing. 2 planes, 1 helicopter"
+NY,Jones,Walkers,7-Jul-24,11:01,Y,9:55,16:20,25,24.4,6.4,9.7,B,AE,11,10:18,P,0,0,2,0,0,4,0,5,0,3,0,0,0,0,0,"4 COTE, 2 planes"
+NY,Sunken,None,9-Jul-24,2:15,Y,10:24,12:30,27.8,28.9,8,8,D,"MC, VM",1,10:42,P,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,"4 osprey, 1 egret, 1 cote"
+NY,Sunken,None,9-Jul-24,2:15,Y,10:24,12:30,27.8,28.9,8,8,D,"MC, VM",2,11:06,P,0,2,0,0,3,4,15,54,0,0,0,0,0,0,0,"2 egret, 3 swan, 241 cote, 3 corm"
+NY,Sunken,None,9-Jul-24,2:15,Y,10:24,12:30,27.8,28.9,8,8,D,"MC, VM",3,11:31,N,0,0,0,0,0,2,32,0,0,0,0,0,0,0,0,
+NY,Sunken,None,9-Jul-24,2:15,Y,10:24,12:30,27.8,28.9,8,8,D,"MC, VM",4,11:49,P,0,0,0,0,0,5,29,83,0,0,0,0,0,0,2,100 cote
+NY,Sunken,None,9-Jul-24,2:15,Y,10:24,12:30,27.8,28.9,8,8,D,"MC, VM",5,12:10,P,0,0,0,0,0,1,44,36,2,0,0,0,0,0,0,"2 corm, 104 lete"
+NY,TOH,Dog_free,10-Jul-24,12:19,Y,6:47,12:05,22.8,25,16,27.4,C,AE,1,10:31,N,1,0,0,4,0,11,14,8,0,1,0,0,0,0,0,"Talked to Paul again about an AMOY family and beach regulations, talked to a woman who asked if I was looking for anything in particular with the scope- her son works for NYS Ornithological Association, Surf School and Anchor program started on 7/8"
+NY,TOH,Dog_free,10-Jul-24,12:19,Y,6:47,12:05,22.8,25,16,27.4,C,AE,2,10:12,N,0,0,0,0,0,8,4,4,0,2,0,0,0,0,0,"Talked to Paul again, 12 COTE, dog tracks"
+NY,TOH,Dog_free,10-Jul-24,12:19,Y,6:47,12:05,22.8,25,16,27.4,C,AE,3,9:52,P,0,0,1,0,0,7,8,4,0,11,0,0,0,0,0,"Talked to Paul- the day before (7/9) he had found a live, very waterlogged, Shearwater- he notified Rob from TOH Conservation about it, 1 plane"
+NY,TOH,Dog_free,10-Jul-24,12:19,Y,6:47,12:05,22.8,25,16,27.4,C,AE,4,9:32,P,0,0,0,0,0,11,3,104,2,6,0,0,0,0,0,
+NY,TOH,Dog_free,10-Jul-24,12:19,Y,6:47,12:05,22.8,25,16,27.4,D,AE,5,8:59,P,0,0,1,0,0,9,0,71,0,10,0,0,0,0,0,Approached by a resident of the Lido town houses (Jeff)- We talked about the AMOY and their chicks and he said that he comes and checks the closest nests/families everyday to see how they're doing. 1 plane
+NY,TOH,Dog_free,10-Jul-24,12:19,Y,6:47,12:05,22.8,25,16,27.4,D,AE,6,8:22,P,0,0,4,0,0,15,0,82,7,34,0,0,0,0,0,4 plane
+NY,TOH,Dog_free,10-Jul-24,12:19,Y,6:47,12:05,22.8,25,16,27.4,D,AE,7,7:58,P,0,0,1,0,0,1,0,0,1,12,0,0,0,0,0,"Skimmer and Tern colonies, 1 plane"
+NY,TOH,Dog_free,10-Jul-24,12:19,Y,6:47,12:05,22.8,25,16,27.4,D,AE,8,7:36,P,1,0,2,0,0,3,0,2,0,12,0,0,0,0,0,"Vehical raking beach, 10 COTE, 3 skimmers, man on bicycle, big pile of litter- mostly beverage cans, 2 planes"
+NY,TOH,Dog_free,10-Jul-24,12:19,Y,6:47,12:05,22.8,25,16,27.4,D,AE,9,7:16,P,0,0,0,0,0,1,0,11,6,11,0,0,0,0,0,"Ghost crab holes, 5 skimmers, 18 LETE"
+NY,TOH,Dog_free,10-Jul-24,12:19,Y,6:47,12:05,22.8,25,16,27.4,D,AE,10,6:56,P,0,0,0,1,0,4,0,1,2,7,0,0,0,0,0,
+NY,Jones,Walkers,12-Jul-24,1:04,Y,13:00,19:00,22.8,21,19,32,B,MC,11,14:20,P,0,0,1,0,0,2,0,0,0,2,0,0,0,0,0,
+NY,Jones,Walkers,12-Jul-24,1:04,Y,13:00,19:00,22.8,21,19,32,B,MC,1,14:42,P,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,
+NY,Jones,Walkers,12-Jul-24,1:04,Y,13:00,19:00,22.8,21,19,32,B,MC,2,14:53,P,0,0,0,0,0,0,0,11,1,1,0,0,1,12,0,
+NY,Jones,Walkers,12-Jul-24,1:04,Y,13:00,19:00,22.8,21,19,32,B,MC,3,15:29,P,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,6 cote
+NY,Jones,Walkers,12-Jul-24,1:04,Y,13:00,19:00,22.8,21,19,32,B,MC,4,15:42,P,0,0,0,0,0,0,0,9,2,0,0,0,0,0,0,"pipl pair near exclosure, 5 cote"
+NY,Jones,Walkers,12-Jul-24,1:04,Y,13:00,19:00,22.8,21,19,32,B,MC,5,16:10,P,0,0,0,0,0,0,0,2,0,1,0,0,2,0,0,beginning to drizzle 
+NY,Jones,Walkers,12-Jul-24,1:04,Y,13:00,19:00,22.8,21,19,32,C,MC,10,16:48,P,1,0,0,0,0,3,5,13,0,0,0,0,0,0,0,
+NY,Jones,Walkers,12-Jul-24,1:04,Y,13:00,19:00,22.8,21,19,32,C,MC,9,17:27,P,0,0,1,0,0,4,12,5,0,0,0,0,0,0,0,raining on and off
+NY,Jones,Walkers,12-Jul-24,1:04,Y,13:00,19:00,22.8,21,19,32,C,MC,8,17:49,P,0,0,2,0,0,2,6,2,0,0,0,0,0,0,0,
+NY,Jones,Walkers,12-Jul-24,1:04,Y,13:00,19:00,22.8,21,19,32,C,MC,7,18:18,P,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,
+NY,Jones,Walkers,12-Jul-24,1:04,Y,13:00,19:00,22.8,21,19,32,C,MC,6,18:45,P,0,0,0,0,0,0,0,10,1,2,0,0,0,0,0,
+NY,Sunken,None,15-Jul-24,7:04,Y,10:40,12:45,30,31,18,18,D,"MC, VM",1,11:09,P,0,0,0,0,2,4,2,1,0,0,0,0,0,0,0,"dogs on other side , 9 cote, 1 osprey, 1 egret"
+NY,Sunken,None,15-Jul-24,7:04,Y,10:40,12:45,30,31,18,18,D,"MC, VM",2,11:26,P,0,1,0,0,0,0,1,86,0,0,0,0,0,0,0,"pipl chicks fledged, heard from park staff"
+NY,Sunken,None,15-Jul-24,7:04,Y,10:40,12:45,30,31,18,18,D,"MC, VM",3,11:55,N,0,0,0,0,0,1,6,0,0,0,0,0,0,0,0,14 cote
+NY,Sunken,None,15-Jul-24,7:04,Y,10:40,12:45,30,31,18,18,D,"MC, VM",4,12:09,P,0,0,0,0,0,11,53,17,0,0,0,0,0,0,0,"11 lete, 72 cote"
+NY,Sunken,None,15-Jul-24,7:04,Y,10:40,12:45,30,31,18,18,D,"MC, VM",5,12:20,P,0,0,0,0,0,4,13,13,1,0,0,0,0,0,0,"8 lete, 9 inc lete"
+NY,Jones,Walkers,16-Jul-24,4:57,Y,13:00,20:15,25.6,22.8,17.7,24.1,B,MC,11,13:36,P,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0,
+NY,Jones,Walkers,16-Jul-24,4:57,Y,13:00,20:15,25.6,22.8,17.7,24.1,B,MC,1,14:02,P,0,1,0,0,0,0,2,7,0,2,0,0,0,0,0,
+NY,Jones,Walkers,16-Jul-24,4:57,Y,13:00,20:15,25.6,22.8,17.7,24.1,B,MC,2,14:33,P,0,0,0,0,0,0,1,16,0,2,0,0,0,16,0,
+NY,Jones,Walkers,16-Jul-24,4:57,Y,13:00,20:15,25.6,22.8,17.7,24.1,B,MC,3,15:20,P,0,0,1,0,0,1,6,2,1,3,0,0,0,1,0,"3 cote, amoy standing in fencing"
+NY,Jones,Walkers,16-Jul-24,4:57,Y,13:00,20:15,25.6,22.8,17.7,24.1,B,MC,4,15:46,P,0,0,0,0,0,0,17,4,2,2,0,0,0,0,0,"pipl and 1 fledge, 15 cote, 10 lete"
+NY,Jones,Walkers,16-Jul-24,4:57,Y,13:00,20:15,25.6,22.8,17.7,24.1,B,MC,5,16:15,P,0,0,1,0,0,1,5,7,0,0,0,0,0,0,0,
+NY,Jones,Walkers,16-Jul-24,4:57,Y,13:00,20:15,25.6,22.8,17.7,24.1,C,MC,10,17:11,P,0,0,0,0,0,16,123,78,0,0,0,0,0,0,0,very windy and crowded 
+NY,Jones,Walkers,16-Jul-24,4:57,Y,13:00,20:15,25.6,22.8,17.7,24.1,C,MC,9,17:36,P,0,0,0,0,0,2,6,0,0,2,0,0,0,0,0,"amoy very vocal, dead seagull, 1 osprey"
+NY,Jones,Walkers,16-Jul-24,4:57,Y,13:00,20:15,25.6,22.8,17.7,24.1,C,MC,8,18:05,P,0,0,0,0,0,3,4,12,0,0,0,0,0,0,0,
+NY,Jones,Walkers,16-Jul-24,4:57,Y,13:00,20:15,25.6,22.8,17.7,24.1,C,MC,7,18:39,P,0,0,0,0,0,0,0,14,0,2,0,0,0,0,0,"5 cote, amoy pair"
+NY,Jones,Walkers,16-Jul-24,4:57,Y,13:00,20:15,25.6,22.8,17.7,24.1,C,MC,6,19:11,P,0,0,1,0,0,0,0,6,1,0,0,0,0,12,0,12 cote
+NY,TOH,Dog_free,19-Jul-24,6:23,Y,10:50,16:18,25,25,11.26,19.31,C,SC,4,11:01,P,2,0,2,0,0,39,32,2,0,2,0,0,0,0,0,"LETE, COTE and BLASK colony foraging nearby"
+NY,TOH,Dog_free,19-Jul-24,6:23,Y,10:50,16:18,25,25,11.26,19.31,D,SC,5,11:23,P,1,0,1,0,0,20,20,0,0,7,0,0,0,0,0,COTE and BLSK colony nearby
+NY,TOH,Dog_free,19-Jul-24,6:23,Y,10:50,16:18,25,25,11.26,19.31,D,SC,6,11:55,P,3,0,3,0,0,26,69,5,0,3,0,0,0,0,0,COTE and BLSK colony nearby and very aggressive. AMOY moved out of line of sight before behavior survey
+NY,TOH,Dog_free,19-Jul-24,6:23,Y,10:50,16:18,25,25,11.26,19.31,D,SC,7,12:18,P,0,0,0,0,0,55,38,4,0,9,0,0,0,0,0,COTE and BLSK at point. Very narrow section . Survey done 20m off point due to colonies.
+NY,TOH,Dog_free,19-Jul-24,6:23,Y,10:50,16:18,25,25,11.26,19.31,D,SC,8,12:35,P,1,0,1,0,0,42,74,24,0,2,0,0,0,0,0,COTE and LETE colony foraging
+NY,TOH,Dog_free,19-Jul-24,6:23,Y,10:50,16:18,25,25,11.26,19.31,D,SC,9,12:58,P,2,0,0,0,0,70,205,10,0,1,0,0,0,0,0,AMOY Flew to water's edge before during survey and out of line of sight. LETE foraging 
+NY,TOH,Dog_free,19-Jul-24,6:23,Y,10:50,16:18,25,25,11.26,19.31,D,SC,10,13:24,P,0,0,0,0,0,58,132,15,0,3,0,0,0,0,0,
+NY,TOH,Dog_free,19-Jul-24,6:23,Y,10:50,16:18,25,25,11.26,19.31,C,SC,3,14:47,P,0,0,0,0,0,14,20,22,0,5,0,0,0,0,0,
+NY,TOH,Dog_free,19-Jul-24,6:23,Y,10:50,16:18,25,25,11.26,19.31,C,SC,2,15:15,N,0,0,0,0,0,16,64,17,0,0,0,0,0,0,0,COTE Foraging
+NY,TOH,Dog_free,19-Jul-24,6:23,Y,10:50,16:18,25,25,11.26,19.31,C,SC,1,15:31,N,0,0,0,0,0,46,64,19,0,0,0,0,0,0,0,COTE Foraging. More people but covered by umbrellas
+NY,Jones,Walkers,22-Jul-24,8:46,Y,10:30,17:30,24.4,25.6,11.3,16.1,B,AE,1,11:31,P,0,0,3,0,0,1,0,84,2,8,0,0,0,32,0,"87 Bank swallows roosting in fencing then flying, Talked to Sam from parks- lost their last two PIPL eggs of the season, 2 plane, 1 helicopter"
+NY,Jones,Walkers,22-Jul-24,8:46,Y,10:30,17:30,24.4,25.6,11.3,16.1,B,AE,2,12:20,P,0,0,0,0,0,3,0,42,0,0,0,0,0,33,0,OTE Foragipg
+NY,Jones,Walkers,22-Jul-24,8:46,Y,10:30,17:30,24.4,25.6,11.3,16.1,B,AE,3,12:39,P,0,0,2,0,0,1,0,19,4,5,0,0,0,65,0,"Lots of ghost crab holes and saw 1 ghost crab about 2 inches wide, 2 helicopter"
+NY,Jones,Walkers,22-Jul-24,8:46,Y,10:30,17:30,24.4,25.6,11.3,16.1,B,AE,4,13:17,P,0,0,1,0,0,2,3,72,0,2,0,0,0,133,0,"1 Cormorant, 1 helicopter"
+NY,Jones,Walkers,22-Jul-24,8:46,Y,10:30,17:30,24.4,25.6,11.3,16.1,B,AE,5,13:39,P,0,0,1,0,0,0,0,16,0,2,0,0,0,119,0,"13 COTE, 1 helicopter"
+NY,Jones,Walkers,22-Jul-24,8:46,Y,10:30,17:30,24.4,25.6,11.3,16.1,C,AE,6,14:10,P,0,0,1,0,0,2,0,28,0,0,0,0,0,148,0,"Stranded Horseshoe crab, 1 plane"
+NY,Jones,Walkers,22-Jul-24,8:46,Y,10:30,17:30,24.4,25.6,11.3,16.1,C,AE,7,14:27,P,0,0,2,0,0,1,0,5,0,1,0,0,0,46,0,"37 COTE, 2 helicopters"
+NY,Jones,Walkers,22-Jul-24,8:46,Y,10:30,17:30,24.4,25.6,11.3,16.1,C,AE,8,14:56,P,0,0,0,0,0,0,2,91,0,0,0,0,0,157,0,OTE Foragipg
+NY,Jones,Walkers,22-Jul-24,8:46,Y,10:30,17:30,24.4,25.6,11.3,16.1,C,AE,9,15:17,P,0,0,1,0,0,9,11,34,0,0,0,0,0,142,0,"12 COTE, 1 plane"
+NY,Jones,Walkers,22-Jul-24,8:46,Y,10:30,17:30,24.4,25.6,11.3,16.1,C,AE,10,15:35,P,1,0,4,0,0,52,46,48,0,1,0,0,0,19,0,"Lifeguard ATV, Kite, 3 Planes, 1 Helicopter"
+NY,Jones,Walkers,22-Jul-24,8:46,Y,10:30,17:30,24.4,25.6,11.3,16.1,B,AE,11,11:11,P,0,3,2,0,0,0,2,0,0,6,0,0,0,0,0,2 helicopter
+NY,TOH,Dog_free,25-Jul-24,12:21,Y,9:45,15:52,25,27.2,11.3,12.9,C,AE,1,11:02,N,0,0,5,0,0,6,10,0,0,0,0,0,0,0,0,"Dog prints, 15 COTE, 5 planes"
+NY,TOH,Dog_free,25-Jul-24,12:21,Y,9:45,15:52,25,27.2,11.3,12.9,C,AE,2,11:20,N,0,0,2,0,0,1,9,2,0,8,0,0,0,0,0,"Dog prints, 11 COTE, 1 Osprey, 2 Cormorant, 2 planes"
+NY,TOH,Dog_free,25-Jul-24,12:21,Y,9:45,15:52,25,27.2,11.3,12.9,C,AE,3,11:38,P,0,0,4,0,0,11,7,6,0,6,0,0,0,7,0,"1 Ruddy Turnstone, 3 Barn swallows, 15 COTE, AMOY (5 unbanded adults, 1 unbanded Juvenile, 1 banded adult: Orange- NRU) 1 unbanded ault has string wrapped around leg and stuck to other foot (TOH conservation is aware and trying to capture it to take off the string). 4 planes"
+NY,TOH,Dog_free,25-Jul-24,12:21,Y,9:45,15:52,25,27.2,11.3,12.9,C,AE,4,11:59,P,0,1,6,0,0,67,36,108,0,16,0,0,0,24,0,"AMOY (12 Adult- 2 banded: Orange-YJ7 and YJT, 4 Juvenile, 4 Planes, 2 helicopters"
+NY,TOH,Dog_free,25-Jul-24,12:21,Y,9:45,15:52,25,27.2,11.3,12.9,D,AE,5,12:13,P,2,0,3,0,0,20,16,5,0,15,0,0,0,175,0,"Talked to public saftey officer- she loves watching all of the shorebirds, 5 Ruddy turnstone, COTE Colony, Skimmer Colony. AMOY (10 adults total, 3 Juvenile, 2 chicks, 3 banded adults: orange- YNU, Pair with 2 chicks: Orange- Y3L and YFO), 3 planes"
+NY,TOH,Dog_free,25-Jul-24,12:21,Y,9:45,15:52,25,27.2,11.3,12.9,D,AE,6,13:11,P,2,0,8,0,0,16,18,51,0,108,0,0,0,19,0,"COTE and Skimmers, Large group of 86 AMOY roosting together, one man walked next to a group of 2 adult and 2 juvenile AMOY and slapped a newspaper to his hand a couple of times to try to scare the AMOY away from his chair. 5 Planes, 3 helicopters"
+NY,TOH,Dog_free,25-Jul-24,12:21,Y,9:45,15:52,25,27.2,11.3,12.9,D,AE,7,14:03,P,0,0,2,0,0,6,0,5,0,14,0,0,3,26,0,"1 Cormorant, Skimmers, COTE, AMOY (12 adult: 2 banded Orange- YF2 and YLE, 2 juvenile), 2 planes"
+NY,TOH,Dog_free,25-Jul-24,12:21,Y,9:45,15:52,25,27.2,11.3,12.9,D,AE,8,14:31,P,2,0,3,0,0,24,29,15,2,8,0,0,0,0,0,"5 Skimmers, 14 COTE, AMOY (5 Adult: 1 banded Orange- YKN, 3 Juvenile), 3 planes"
+NY,TOH,Dog_free,25-Jul-24,12:21,Y,9:45,15:52,25,27.2,11.3,12.9,D,AE,9,14:52,P,0,0,3,0,0,18,24,53,0,18,0,0,7,0,0,"Small LETE colony, 3 Pigeon, AMOY (15 adult: 1 banded Orange- YKP, 3 juvenile), Talked to a group of 6 elderly ppl who were all very nice and asked lots of questions about the birds and the job- handed out literature. 3 planes"
+NY,TOH,Dog_free,25-Jul-24,12:21,Y,9:45,15:52,25,27.2,11.3,12.9,D,AE,10,15:26,P,0,2,7,0,0,10,14,6,0,3,0,0,0,0,0,"LETE, COTE, 1 Pigeon, Breifly talked to man with camera about the birds, 3 Planes, 4 black hawk helicopters"
+NY,Sunken,None,25-Jul-24,2:51,Y,10:47,12:56,25.6,27.8,11.3,8,D,"MC, VM",1,11:03,N,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,OTE Foraging
+NY,Sunken,None,25-Jul-24,2:51,Y,10:47,12:56,25.6,27.8,11.3,8,D,"MC, VM",2,11:21,N,1,0,0,0,0,1,3,33,0,0,0,0,0,0,0,"2 egret, 4 corm, 2 swan, parks is taking fencing down"
+NY,Sunken,None,25-Jul-24,2:51,Y,10:47,12:56,25.6,27.8,11.3,8,D,"MC, VM",3,11:42,N,1,0,0,0,0,1,6,1,0,0,0,0,0,0,0,"106 cote, 1 egret"
+NY,Sunken,None,25-Jul-24,2:51,Y,10:47,12:56,25.6,27.8,11.3,8,D,"MC, VM",4,12:08,P,0,0,0,0,0,7,97,85,0,0,0,0,0,0,0,110 cote
+NY,Sunken,None,25-Jul-24,2:51,Y,10:47,12:56,25.6,27.8,11.3,8,D,"MC, VM",5,12:20,P,1,0,0,0,0,28,92,11,0,0,0,0,0,0,0,"30 lete, 1 corm"
+NY,Sunken,None,28-Jul-24,5:39,Y,17:20,19:30,26.7,25.6,14.5,8,D,MC,1,17:35,N,0,0,0,1,2,17,14,0,0,0,0,0,0,0,0,"1 osprey, 1 egret, 4 semi-palmated plovers"
+NY,Sunken,None,28-Jul-24,5:39,Y,17:20,19:30,26.7,25.6,14.5,8,D,MC,2,17:52,N,0,5,0,0,1,2,54,16,0,0,0,0,0,0,0,"3 lete, 63 cote flying by boats"
+NY,Sunken,None,28-Jul-24,5:39,Y,17:20,19:30,26.7,25.6,14.5,8,D,MC,3,18:28,N,0,2,0,1,0,0,68,0,0,0,0,0,0,0,0,people mostly fishing
+NY,Sunken,None,28-Jul-24,5:39,Y,17:20,19:30,26.7,25.6,14.5,8,D,MC,4,18:43,P,1,2,0,0,0,32,160,32,0,0,0,0,0,0,0,OTE Foragipg
+NY,Sunken,None,28-Jul-24,5:39,Y,17:20,19:30,26.7,25.6,14.5,8,D,MC,5,19:14,P,1,0,0,0,0,33,237,31,0,0,0,0,0,0,0,15 lete
+NY,Sunken,None,31-Jul-24,8:51,Y,15:50,17:30,29.4,27.8,22.5,14.4,D,"MC,VM,AE",1,15:52,N,0,0,0,2,0,3,2,3,0,0,0,0,0,0,0,"atv tracks, raccoon tracks"
+NY,Sunken,None,31-Jul-24,8:51,Y,15:50,17:30,29.4,27.8,22.5,14.4,D,"MC,VM,AE",2,16:04,N,0,0,0,2,0,7,0,33,1,0,0,0,0,0,0,"249 cote, 2 rudy turnstones, 15 corm, 1 osprey"
+NY,Sunken,None,31-Jul-24,8:51,Y,15:50,17:30,29.4,27.8,22.5,14.4,D,"MC,VM,AE",3,16:34,N,0,0,0,0,0,2,17,8,0,0,0,0,0,0,0,"3 lete, 28 cote"
+NY,Sunken,None,31-Jul-24,8:51,Y,15:50,17:30,29.4,27.8,22.5,14.4,D,"MC,VM,AE",4,16:57,P,0,1,0,0,0,17,7,13,0,0,0,0,0,0,0,5 cote
+NY,Sunken,None,31-Jul-24,8:51,Y,15:50,17:30,29.4,27.8,22.5,14.4,D,"MC,VM,AE",5,17:05,P,0,0,0,0,0,19,84,118,0,0,0,0,0,0,0,"17 lete, 21 cote"
+NY,TOH,Dog_free,1-Aug-24,5:38,Y,6:56,12:43,23.9,28.3,6.4,11.3,C,AE,1,11:24,N,0,0,4,0,0,47,57,11,0,0,0,0,98,0,0,"Dog prints, bike tracks, 8 COTE, 4 plane"
+NY,TOH,Dog_free,1-Aug-24,5:38,Y,6:56,12:43,23.9,28.3,6.4,11.3,C,AE,2,11:03,N,1,0,4,0,0,19,19,8,0,2,0,0,72,0,0,"Bike tracks, Banded AMOY: Orange- NA3, 4 plane"
+NY,TOH,Dog_free,1-Aug-24,5:38,Y,6:56,12:43,23.9,28.3,6.4,11.3,C,AE,3,10:32,P,3,0,3,0,0,36,6,0,1,5,0,0,215,0,0,"2 Public safety ATV, 1 Lifeguard ATV, 1 Cormorant, 10 Ruddy Turnstone, 7 Semipalmated Plover, talked to Paul again, AMOY (3 unbanded adult, 1 banded adult: Orange-NKU, 1 banded juvenile: Orange-NMC), 3 plane"
+NY,TOH,Dog_free,1-Aug-24,5:38,Y,6:56,12:43,23.9,28.3,6.4,11.3,C,AE,4,10:03,P,1,0,2,0,0,75,71,62,0,7,0,0,42,0,0,"1 Conservation ATV, 7 Ruddy Turnstone, 2 Semipalmated Plover, 2 planes"
+NY,TOH,Dog_free,1-Aug-24,5:38,Y,6:56,12:43,23.9,28.3,6.4,11.3,D,AE,5,9:37,P,1,0,3,0,0,15,0,53,0,13,0,0,183,0,0,"1 Conservation ATV, Talked to Paul- ""Do I count as a disturbance..."", AMOY (6 Unbanded adult, 4 banded adults: Orange- YN3, YNU, YFO, YL3, 1 unbanded juvenile, 1 banded juvenile: Orange- NMH, 1 chick), 3 planes"
+NY,TOH,Dog_free,1-Aug-24,5:38,Y,6:56,12:43,23.9,28.3,6.4,11.3,D,AE,6,8:56,P,1,0,4,0,0,12,1,44,0,49,0,0,54,0,0,"Vehicle actively raking beach, bad shelfing almost 2 feet in height, 125 COTE, 150 Skimmers, 4 Cormorant, AMOY (44 Adults, 5 Juveniles), 4 planes"
+NY,TOH,Dog_free,1-Aug-24,5:38,Y,6:56,12:43,23.9,28.3,6.4,11.3,D,AE,7,8:29,P,0,0,0,0,0,5,0,8,0,19,0,0,21,0,0,"~1500 skimmers, ~200 COTE, AMOY (12 Adult, 7 Juvenile)"
+NY,TOH,Dog_free,1-Aug-24,5:38,Y,6:56,12:43,23.9,28.3,6.4,11.3,D,AE,8,8:01,P,1,0,0,0,0,2,0,7,0,13,0,0,62,0,0,"Public safety ATV, 24 COTE, 2 skimmers, 11 Ruddy Turnstone, AMOY (10 adult, 2 juvenile, 1 chick)"
+NY,TOH,Dog_free,1-Aug-24,5:38,Y,6:56,12:43,23.9,28.3,6.4,11.3,D,AE,9,7:31,P,0,0,2,0,0,7,6,35,2,8,0,0,39,0,0,"1 Osprey, 7 Ruddy Turnstone, AMOY (5 unbanded adults, 2 banded adults: Orange- YKK and YKL, 1 unbanded juvenile), 2 planes"
+NY,TOH,Dog_free,1-Aug-24,5:38,Y,6:56,12:43,23.9,28.3,6.4,11.3,D,AE,10,7:12,P,0,0,0,0,0,7,0,3,0,5,0,0,3,0,0,"5 COTE, 1 Skimmer, AMOY (4 unbanded adult, 1 unbanded juvenile)"
+NY,Jones,Walkers,4-Aug-24,8:30,Y,10:25,17:00,27,22,17.7,40,C,MC,10,10:34,P,1,0,1,0,0,13,56,63,0,0,0,0,0,197,0,1 osprey 
+NY,Jones,Walkers,4-Aug-24,8:30,Y,10:25,17:00,27,22,17.7,40,C,MC,9,10:56,P,0,0,1,0,0,3,5,12,0,0,0,0,0,43,0,"5 cote, light rain"
+NY,Jones,Walkers,4-Aug-24,8:30,Y,10:25,17:00,27,22,17.7,40,C,MC,8,11:20,P,0,0,0,0,0,1,2,6,0,0,0,0,0,32,0,OTE Foragipg
+NY,Jones,Walkers,4-Aug-24,8:30,Y,10:25,17:00,27,22,17.7,40,C,MC,7,11:53,P,0,0,0,0,0,0,0,16,0,2,0,0,0,156,0,12 cote
+NY,Jones,Walkers,4-Aug-24,8:30,Y,10:25,17:00,27,22,17.7,40,C,MC,6,12:19,P,0,0,0,0,0,0,0,25,0,0,0,0,0,89,0,drizzle
+NY,Jones,Walkers,4-Aug-24,8:30,Y,10:25,17:00,27,22,17.7,40,C,MC,5,12:39,P,0,0,0,0,0,0,0,3,0,0,0,0,0,142,0,6 cote
+NY,Jones,Walkers,4-Aug-24,8:30,Y,10:25,17:00,27,22,17.7,40,B,MC,11,13:42,P,0,0,1,0,0,1,1,2,0,1,0,0,0,0,0,light rain
+NY,Jones,Walkers,4-Aug-24,8:30,Y,10:25,17:00,27,22,17.7,40,B,MC,1,14:30,P,0,0,0,0,0,0,0,5,1,2,0,0,0,0,0,light rain 
+NY,Jones,Walkers,4-Aug-24,8:30,Y,10:25,17:00,27,22,17.7,40,B,MC,2,14:57,P,0,0,0,0,0,0,0,1,0,6,0,0,0,56,0,OTE Foragipg
+NY,Jones,Walkers,4-Aug-24,8:30,Y,10:25,17:00,27,22,17.7,40,B,MC,3,16:25,P,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,"wind started really picking up, stormy clouds, light drizzle"
+NY,Jones,Walkers,4-Aug-24,8:30,Y,10:25,17:00,27,22,17.7,40,B,MC,4,16:49,P,0,0,2,0,0,4,2,0,0,0,0,0,0,0,0,"started thundering in distance, strong winds, lots of rain"
+NC,NWB,None,22-Apr-24,7:06,N,13:40,14:30,13.3,14.4,19.3,24.1,N,"KJ, AN",1,13:41,N,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,
+NC,NWB,None,22-Apr-24,7:06,N,13:40,14:30,13.3,14.4,19.3,24.1,N,"KJ, AN",2,13:52,P,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,1 LAGU
+NC,NWB,None,22-Apr-24,7:06,N,13:40,14:30,13.3,14.4,19.3,24.1,N,"KJ, AN",3,14:11,P,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,
+NC,NWB,None,22-Apr-24,7:06,N,13:40,14:30,13.3,14.4,19.3,24.1,N,"KJ, AN",4,14:27,P,0,0,0,0,0,3,0,0,0,0,0,0,2,0,0,
+NC,HI,None,24-Apr-24,8:41,N,10:30,11:23,20,21,24.1,20.9,N,"KJ, AN",1,10:30,P,0,0,0,0,0,0,0,1,0,0,1,6,77,0,0,1 LAGU
+NC,HI,None,24-Apr-24,8:41,N,10:30,11:23,20,21,24.1,20.9,N,"KJ, AN",2,10:46,P,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4 HERG
+NC,HI,None,24-Apr-24,8:41,N,10:30,11:23,20,21,24.1,20.9,N,"KJ, AN",3,10:56,P,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,
+NC,HI,None,24-Apr-24,8:41,N,10:30,11:23,20,21,24.1,20.9,N,"KJ, AN",4,11:12,P,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,
+NC,NWB,None,3-May-24,3:28,N,9:50,10:40,23.9,24.4,11.3,9.7,N,"KJ, AN",1,9:51,N,2,0,0,0,0,10,11,1,0,0,0,0,1,0,0,2 BIKES. 1 BTGR.
+NC,NWB,None,3-May-24,3:28,N,9:50,10:40,23.9,24.4,11.3,9.7,N,"KJ, AN",2,10:10,P,0,0,0,0,0,9,3,0,0,0,0,0,1,0,0,
+NC,NWB,None,3-May-24,3:28,N,9:50,10:40,23.9,24.4,11.3,9.7,N,"KJ, AN",3,10:24,P,1,0,0,0,0,7,0,0,0,0,0,0,5,0,0,1 BIKE.
+NC,NWB,None,3-May-24,3:28,N,9:50,10:40,23.9,24.4,11.3,9.7,N,"KJ, AN",4,10:36,P,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,
+NC,HI,None,16-May-24,3:02,N,14:30,15:20,22.2,22.7,12.8,12.8,N,AN,5,14:30,P,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,PREDATOR= CRAB
+NC,HI,None,16-May-24,3:02,N,14:30,15:20,22.2,22.7,12.8,12.8,N,AN,4,14:43,P,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+NC,HI,None,16-May-24,3:02,N,14:30,15:20,22.2,22.7,12.8,12.8,N,AN,3,14:53,P,0,0,0,1,1,6,5,0,0,0,0,0,0,0,0,
+NC,HI,None,16-May-24,3:02,N,14:30,15:20,22.2,22.7,12.8,12.8,N,AN,2,15:09,P,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,
+NC,HI,None,16-May-24,3:02,N,14:30,15:20,22.2,22.7,12.8,12.8,N,AN,1,15:20,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+NC,NWB,None,17-May-24,3:45,N,15:21,16:16,27,26,13,13,N,LA,1,15:22,N,0,0,0,0,0,18,55,2,0,0,0,0,26,0,0,predator = BTGR
+NC,NWB,None,17-May-24,3:45,N,15:21,16:16,27,26,13,13,N,LA,2,15:57,P,0,0,0,0,0,12,7,1,0,3,0,0,2,0,0,predator = BTGR
+NC,NWB,None,17-May-24,3:45,N,15:21,16:16,27,26,13,13,N,LA,3,15:52,P,0,0,0,0,0,9,1,1,0,0,0,0,4,0,0,predator = LAGU
+NC,NWB,None,17-May-24,3:45,N,15:21,16:16,27,26,13,13,N,LA,4,16:07,P,0,2,0,0,0,2,9,2,0,0,0,1,3,122,0,predator = BTGR
+NC,NWB,None,18-May-24,4:16,N,9:30,10:05,24.4,25.6,6.4,9.6,N,KJ,1,9:30,N,0,0,0,0,0,9,0,0,0,0,0,0,5,0,0,
+NC,NWB,None,18-May-24,4:16,N,9:30,10:05,24.4,25.6,6.4,9.6,N,KJ,2,9:42,P,1,0,0,0,0,24,0,0,0,0,0,0,2,0,0,
+NC,NWB,None,18-May-24,4:16,N,9:30,10:05,24.4,25.6,6.4,9.6,N,KJ,3,9:54,P,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,
+NC,NWB,None,18-May-24,4:16,N,9:30,10:05,24.4,25.6,6.4,9.6,N,KJ,4,10:01,P,1,0,0,0,0,4,0,1,0,0,0,0,2,12,0,1 FICR
+NC,HI,None,22-May-24,7:32,N,13:10,13:40,25,26.1,16.1,14.5,N,KJ,4,13:10,P,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,
+NC,HI,None,22-May-24,7:32,N,13:10,13:40,25,26.1,16.1,14.5,N,KJ,3,13:18,P,0,0,0,0,0,0,8,0,2,0,0,0,1,0,0,
+NC,HI,None,22-May-24,7:32,N,13:10,13:40,25,26.1,16.1,14.5,N,KJ,2,13:27,P,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,
+NC,HI,None,22-May-24,7:32,N,13:10,13:40,25,26.1,16.1,14.5,N,KJ,1,13:38,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+NC,NWB,None,23-May-24,7:39,N,8:10,8:32,22.8,23.9,9.7,12.8,N,KJ,4,8:10,N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+NC,NWB,None,23-May-24,7:39,N,8:10,8:32,22.8,23.9,9.7,12.8,N,KJ,3,8:16,P,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,
+NC,NWB,None,23-May-24,7:39,N,8:10,8:32,22.8,23.9,9.7,12.8,N,KJ,2,8:24,P,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,
+NC,NWB,None,23-May-24,7:39,N,8:10,8:32,22.8,23.9,9.7,12.8,N,KJ,1,8:30,N,0,0,0,0,0,6,5,0,0,0,0,0,1,0,0,
+NC,HI,None,1-Jun-24,3:24,N,9:59,11:16,24,24,10,11,N,LA,1,11:10,P,0,12,0,3,0,7,30,0,0,0,0,2,0,0,0,One WIPL was a chick
+NC,HI,None,1-Jun-24,3:24,N,9:59,11:16,24,24,10,11,N,LA,2,10:49,P,0,0,0,1,0,3,0,2,0,3,0,0,0,0,0,Predators are LAGU and HERG
+NC,HI,None,1-Jun-24,3:24,N,9:59,11:16,24,24,10,11,N,LA,3,10:31,P,0,0,0,0,0,7,4,0,0,0,0,0,1,0,0,
+NC,HI,None,1-Jun-24,3:24,N,9:59,11:16,24,24,10,11,N,LA,4,10:12,P,0,0,0,1,0,2,0,0,2,0,2,0,2,0,0,One PIPL was a chick
+NC,HI,None,1-Jun-24,3:24,N,9:59,11:16,24,24,10,11,N,LA,5,10:02,P,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,
+NC,NWB,None,4-Jun-24,5:58,N,13:54,14:30,26.7,27.2,20.9,24.1,N,KJ,1,13:54,N,1,0,0,0,0,46,50,3,0,0,0,0,0,0,0,1 BTGR and 2 LAGU
+NC,NWB,None,4-Jun-24,5:58,N,13:54,14:30,26.7,27.2,20.9,24.1,N,KJ,2,14:03,P,0,0,0,0,0,24,18,3,0,0,0,0,0,0,0,3 LAGU
+NC,NWB,None,4-Jun-24,5:58,N,13:54,14:30,26.7,27.2,20.9,24.1,N,KJ,3,14:12,P,1,2,0,0,0,21,4,0,0,0,0,0,0,0,0,
+NC,NWB,None,4-Jun-24,5:58,N,13:54,14:30,26.7,27.2,20.9,24.1,N,KJ,4,14:19,P,1,4,0,0,0,5,5,0,0,0,0,0,0,0,0,
+NC,NWB,None,10-Jun-24,11:24,N,12:19,13:40,22,23,8,11,N,LA,1,12:22,N,0,0,0,0,0,10,34,3,0,0,0,0,0,0,0,3 LAGU
+NC,NWB,None,10-Jun-24,11:24,N,12:19,13:40,22,23,8,11,N,LA,2,12:46,P,0,0,0,0,0,9,13,1,0,0,0,0,0,0,0,1 LAGU
+NC,NWB,None,10-Jun-24,11:24,N,12:19,13:40,22,23,8,11,N,LA,3,12:55,P,0,0,0,0,0,2,0,0,0,3,0,2,0,0,0,The 2 WIPL were male and did a little aggression to each other
+NC,NWB,None,10-Jun-24,11:24,N,12:19,13:40,22,23,8,11,N,LA,4,13:27,P,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Two people and two off leash dogs left just before we arrived at the point
+NC,HI,None,12-Jun-24,0:30,N,12:25,13:30,26.1,27.2,12.8,22.5,N,AN,1,12:25,P,0,3,0,0,1,6,3,0,0,2,0,0,0,0,0,
+NC,HI,None,12-Jun-24,0:30,N,12:25,13:30,26.1,27.2,12.8,22.5,N,AN,2,12:43,P,0,0,0,0,0,2,0,3,0,4,0,0,0,0,0,3 LAGU
+NC,HI,None,12-Jun-24,0:30,N,12:25,13:30,26.1,27.2,12.8,22.5,N,AN,3,12:54,P,0,0,0,0,0,8,3,0,0,0,0,1,0,0,0,
+NC,HI,None,12-Jun-24,0:30,N,12:25,13:30,26.1,27.2,12.8,22.5,N,AN,4,13:14,P,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+NC,HI,None,12-Jun-24,0:30,N,12:25,13:30,26.1,27.2,12.8,22.5,N,AN,5,13:30,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+NC,HI,None,14-Jun-24,2:05,N,10:20,11:40,26.6,26.6,14.8,14.8,N,AN,5,10:20,P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+NC,HI,None,14-Jun-24,2:05,N,10:20,11:40,26.6,26.6,14.8,14.8,N,AN,4,10:39,P,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1 OSPR
+NC,HI,None,14-Jun-24,2:05,N,10:20,11:40,26.6,26.6,14.8,14.8,N,AN,3,10:50,P,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,
+NC,HI,None,14-Jun-24,2:05,N,10:20,11:40,26.6,26.6,14.8,14.8,N,AN,2,11:20,P,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,
+NC,HI,None,14-Jun-24,2:05,N,10:20,11:40,26.6,26.6,14.8,14.8,N,AN,1,11:36,P,0,4,0,0,0,10,2,0,0,3,0,0,0,0,0,
+NC,NWB,None,15-Jun-24,2:24,N,8:10,9:00,26.1,26.6,14.5,14.5,N,KJ,1,8:17,N,0,0,0,0,0,29,23,4,0,0,0,0,0,0,0,"2 BTGR, 1 crow and 1 LBBG"
+NC,NWB,None,15-Jun-24,2:24,N,8:10,9:00,26.1,26.6,14.5,14.5,N,KJ,2,8:23,P,0,0,0,0,0,11,5,0,0,0,0,0,0,0,0,
+NC,NWB,None,15-Jun-24,2:24,N,8:10,9:00,26.1,26.6,14.5,14.5,N,KJ,3,8:30,P,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,
+NC,NWB,None,15-Jun-24,2:24,N,8:10,9:00,26.1,26.6,14.5,14.5,N,KJ,4,8:36,P,0,0,0,0,0,14,0,3,0,0,0,0,0,0,0,3 RBGU
+NC,HI,None,18-Jun-24,5:24,N,10:45,11:30,27.2,27.2,19.3,22.5,N,KJ,5,10:49,P,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1 HERG and 1 GBBG
+NC,HI,None,18-Jun-24,5:24,N,10:45,11:30,27.2,27.2,19.3,22.5,N,KJ,4,10:57,P,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,
+NC,HI,None,18-Jun-24,5:24,N,10:45,11:30,27.2,27.2,19.3,22.5,N,KJ,3,11:07,P,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
+NC,HI,None,18-Jun-24,5:24,N,10:45,11:30,27.2,27.2,19.3,22.5,N,KJ,2,11:12,P,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1 LAGU
+NC,HI,None,18-Jun-24,5:24,N,10:45,11:30,27.2,27.2,19.3,22.5,N,KJ,1,11:23,P,0,2,0,0,0,0,2,0,0,1,0,1,0,0,0,
+NC,NWB,None,27-Jun-24,12:07,N,12:23,13:10,30,30,17.7,19.3,N,KJ,1,12:27,N,0,0,0,0,0,47,51,17,0,2,0,0,0,0,0,"10 LAGU, 1 FICR and 6 BTGR"
+NC,NWB,None,27-Jun-24,12:07,N,12:23,13:10,30,30,17.7,19.3,N,KJ,2,12:37,P,0,0,0,0,0,9,17,5,0,2,0,0,0,0,0,"2 LAGU,  2 RBGU and 1 HERG"
+NC,NWB,None,27-Jun-24,12:07,N,12:23,13:10,30,30,17.7,19.3,N,KJ,3,12:46,P,0,0,0,0,0,9,2,12,0,1,0,0,0,0,0,"3 GBBG, 8 LBBG and 1 LAGU"
+NC,NWB,None,27-Jun-24,12:07,N,12:23,13:10,30,30,17.7,19.3,N,KJ,4,12:56,P,0,4,0,0,0,2,4,52,0,0,0,0,0,0,0,52 LBBG in loafing flock
+NC,HI,None,27-Jun-24,12:09,N,14:15,14:58,30,30,19.3,22.5,N,KJ,1,14:18,P,0,1,0,0,0,0,3,0,0,1,0,0,0,0,0,
+NC,HI,None,27-Jun-24,12:09,N,14:15,14:58,30,30,19.3,22.5,N,KJ,2,14:28,P,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1 LAGU
+NC,HI,None,27-Jun-24,12:09,N,14:15,14:58,30,30,19.3,22.5,N,KJ,3,14:36,P,0,0,0,0,0,3,0,0,0,2,0,0,0,0,0,
+NC,HI,None,27-Jun-24,12:09,N,14:15,14:58,30,30,19.3,22.5,N,AN,5,14:40,P,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,
+NC,HI,None,27-Jun-24,12:09,N,14:15,14:58,30,30,19.3,22.5,N,AN,4,14:54,P,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,
+NC,NWB,None,3-Jul-24,5:40,N,9:36,10:20,26.7,27.2,16.1,16.1,N,KJ,1,9:45,N,1,0,0,0,0,42,37,3,0,0,0,0,0,0,0,1 bike. 3 BTGR
+NC,NWB,None,3-Jul-24,5:40,N,9:36,10:20,26.7,27.2,16.1,16.1,N,KJ,2,9:52,P,0,0,0,0,0,15,16,0,0,0,0,0,0,0,0,
+NC,NWB,None,3-Jul-24,5:40,N,9:36,10:20,26.7,27.2,16.1,16.1,N,KJ,3,9:57,P,0,0,0,0,0,20,6,17,0,0,0,0,0,0,0,"8 RBGU, 7 LAGU and 2 GBBG"
+NC,NWB,None,3-Jul-24,5:40,N,9:36,10:20,26.7,27.2,16.1,16.1,N,KJ,4,10:04,P,0,1,0,0,0,6,3,1,0,0,0,1,0,0,0,1 crow sp.
+NC,HI,None,3-Jul-24,6:03,N,12:05,12:45,28.3,28.3,16.1,17.7,N,KJ,5,12:10,P,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,1 HERG
+NC,HI,None,3-Jul-24,6:03,N,12:05,12:45,28.3,28.3,16.1,17.7,N,KJ,4,12:14,P,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,
+NC,HI,None,3-Jul-24,6:03,N,12:05,12:45,28.3,28.3,16.1,17.7,N,KJ,3,12:18,P,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,
+NC,HI,None,3-Jul-24,6:03,N,12:05,12:45,28.3,28.3,16.1,17.7,N,KJ,2,12:23,P,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1 AMOY was a chick.
+NC,HI,None,3-Jul-24,6:03,N,12:05,12:45,28.3,28.3,16.1,17.7,N,KJ,1,12:30,P,0,6,0,1,0,4,21,0,0,3,0,0,0,0,0,
+NC,HI,None,5-Jul-24,7:51,N,8:20,9:15,27.8,28.3,16.1,16.1,N,KJ,5,8:30,P,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,
+NC,HI,None,5-Jul-24,7:51,N,8:20,9:15,27.8,28.3,16.1,16.1,N,KJ,4,8:35,P,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,
+NC,HI,None,5-Jul-24,7:51,N,8:20,9:15,27.8,28.3,16.1,16.1,N,KJ,3,8:40,P,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,
+NC,HI,None,5-Jul-24,7:51,N,8:20,9:15,27.8,28.3,16.1,16.1,N,KJ,2,8:45,P,0,0,0,2,0,2,0,3,0,13,0,14,7,0,0,2 LAGU and 1 HERG. One AMOY was a fledgling
+NC,HI,None,5-Jul-24,7:51,N,8:20,9:15,27.8,28.3,16.1,16.1,N,KJ,1,9:00,P,0,0,0,2,0,2,0,1,0,0,0,0,0,0,0,1 LAGU
+NC,NWB,None,7-Jul-24,9:26,N,12:01,13:05,28,28,24,24,N,LA,1,12:03,N,1,0,0,0,0,35,72,19,0,0,0,0,0,0,0,"3 BTGR, 16 LAGU"
+NC,NWB,None,7-Jul-24,9:26,N,12:01,13:05,28,28,24,24,N,LA,2,12:11,P,0,0,0,0,0,27,29,1,0,2,0,0,0,0,0,1 RBGU
+NC,NWB,None,7-Jul-24,9:26,N,12:01,13:05,28,28,24,24,N,LA,3,12:22,P,0,0,0,0,0,10,6,0,0,0,0,0,0,0,0,
+NC,NWB,None,7-Jul-24,9:26,N,12:01,13:05,28,28,24,24,N,LA,4,12:34,P,0,5,0,0,0,6,8,4,0,0,0,1,0,0,0,1 BTGR and 3 LAGU
+NC,NWB,None,11-Jul-24,12:17,N,8:04,9:00,28.9,28.9,11.2,9.6,N,KJ,1,8:06,N,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,
+NC,NWB,None,11-Jul-24,12:17,N,8:04,9:00,28.9,28.9,11.2,9.6,N,KJ,2,8:12,P,1,0,0,0,0,7,0,3,0,0,0,0,0,0,0,2 LAGU and 1 HERG
+NC,NWB,None,11-Jul-24,12:17,N,8:04,9:00,28.9,28.9,11.2,9.6,N,KJ,3,8:19,P,1,0,0,0,0,4,0,4,0,0,0,0,0,0,0,"2 HERG, 1 RBGU and 1 LBBG"
+NC,NWB,None,11-Jul-24,12:17,N,8:04,9:00,28.9,28.9,11.2,9.6,N,KJ,4,8:45,P,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1 HERG
+NC,HI,None,14-Jul-24,1:56,N,10:05,11:25,29.4,30.5,11.2,12.8,N,AN,1,10:05,P,0,11,0,0,1,8,22,1,0,0,0,0,0,0,0,1 LAGU
+NC,HI,None,14-Jul-24,1:56,N,10:05,11:25,29.4,30.5,11.2,12.8,N,AN,2,10:22,P,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0,
+NC,HI,None,14-Jul-24,1:56,N,10:05,11:25,29.4,30.5,11.2,12.8,N,AN,3,10:42,P,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,
+NC,HI,None,14-Jul-24,1:56,N,10:05,11:25,29.4,30.5,11.2,12.8,N,AN,4,11:03,P,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,
+NC,HI,None,14-Jul-24,1:56,N,10:05,11:25,29.4,30.5,11.2,12.8,N,AN,5,11:24,P,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+NC,HI,None,20-Jul-24,7:17,N,14:52,15:39,30,30,19,29,N,LA,1,14:52,P,0,21,0,1,0,4,42,1,0,0,0,0,0,0,0,1 LAGU
+NC,HI,None,20-Jul-24,7:17,N,14:52,15:39,30,30,19,29,N,LA,2,15:08,P,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,1 LAGU
+NC,HI,None,20-Jul-24,7:17,N,14:52,15:39,30,30,19,29,N,LA,3,15:14,P,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,
+NC,HI,None,20-Jul-24,7:17,N,14:52,15:39,30,30,19,29,N,LA,4,15:26,P,0,0,0,0,0,14,0,1,0,0,0,0,10,0,0,1 LAGU
+NC,HI,None,20-Jul-24,7:17,N,14:52,15:39,30,30,19,29,N,LA,5,15:36,P,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,
+GA,FPCC,None,7-Apr-24,7:41,N,7:30,8:50,9.44,12.78,1.61,4.83,,PS,2,4:40,N,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,"The shorebirds were unsettled and flushed several times; a fast-flying Merlin caused one of the disturbances. Many shorebirds returned, although some shifted to locations closer to the marsh.	
+"
+GA,TBCC,Walkers,18-Apr-24,4:42,N,13:45,16:10,23.8,23.3,14.48,16.9,,ACH,1,14:53,N,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,
+GA,TBCC,Walkers,18-Apr-24,4:42,N,13:45,16:10,23.8,23.3,14.48,16.9,,ACH,2,14:40,N,0,0,0,0,0,2,8,0,0,0,0,0,4,0,0,
+GA,TBCC,Walkers,18-Apr-24,4:42,N,13:45,16:10,23.8,23.3,14.48,16.9,,ACH,3,14:10,N,0,0,0,0,0,6,5,0,0,0,0,0,26,0,0,
+GA,TBCC,Walkers,18-Apr-24,4:42,N,13:45,16:10,23.8,23.3,14.48,16.9,,ACH,4,13:55,N,0,0,0,0,0,2,5,0,0,0,0,0,2,0,0,
+GA,TBCC,Walkers,18-Apr-24,4:42,N,13:45,16:10,23.8,23.3,14.48,16.9,,ACH,5,13:45,N,0,0,0,0,0,15,50,0,0,0,0,0,1,0,0,
+GA,TBCC,Walkers,18-Apr-24,4:42,N,13:45,16:10,23.8,23.3,14.48,16.9,,ACH,6,15:05,N,0,0,0,0,0,10,23,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,18-Apr-24,4:42,N,13:45,16:10,23.8,23.3,14.48,16.9,,ACH,7,15:15,N,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,18-Apr-24,4:42,N,13:45,16:10,23.8,23.3,14.48,16.9,,ACH,8,15:25,N,0,0,0,0,0,12,13,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,18-Apr-24,4:42,N,13:45,16:10,23.8,23.3,14.48,16.9,,ACH,9,15:44,N,0,0,0,0,0,41,95,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,18-Apr-24,4:42,N,13:45,16:10,23.8,23.3,14.48,16.9,,ACH,10,16:00,N,0,0,0,0,0,10,20,0,0,0,0,0,2,0,0,
+GA,FPCC,None,22-Apr-24,7:16,N,7:30,8:45,12.78,12.78,28.97,22.53,,PS,2,7:35,N,0,0,0,0,0,0,0,0,0,1,0,1,30,0,0,"No discernable disturbances. The shorebirds were resting along the shoreline when we first arrived. However, the shorebirds were a bit unsettled later in the survey and flushed a few times without a visible disturbance. Many shorebirds returned, although some flew to the marsh."
+GA,FPCC,None,7-May-24,8:08,N,7:26,8:50,21.67,23.89,4.83,6.44,,PS,2,7:35,N,0,0,0,0,0,0,0,0,0,12,0,2,18,38,0,"No disturbances. Shorebirds were resting and feeding during the observation time. 	
+"
+GA,EBGC,Dog_leash,8-May-24,9:31,N,0:00,0:00,30,28.9,17.7,20.92,,AS/AIC,1,15:25,P,1,0,0,2,0,14,16,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,8-May-24,9:31,N,0:00,0:00,30,28.9,17.7,20.92,,AS/AIC,2,15:07,P,0,0,0,1,2,11,12,0,0,0,0,0,2,0,0,
+GA,EBGC,Dog_leash,8-May-24,9:31,N,0:00,0:00,30,28.9,17.7,20.92,,AS/AIC,3,14:47,N,0,0,0,3,2,6,12,0,0,0,0,0,6,0,0,
+GA,EBGC,Dog_leash,8-May-24,9:31,N,0:00,0:00,30,28.9,17.7,20.92,,AS/AIC,4,14:30,N,1,0,0,2,0,41,80,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,8-May-24,9:31,N,0:00,0:00,30,28.9,17.7,20.92,,AS/AIC,5,14:15,N,0,0,0,0,1,25,25,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,8-May-24,9:31,N,0:00,0:00,30,28.9,17.7,20.92,,AS/AIC,6,13:50,N,0,0,0,0,1,34,15,0,0,0,0,0,2,0,0,
+GA,EBGC,Dog_leash,17-May-24,4:23,N,0:00,0:00,26.1,25.6,12.87,14.48,,AIC,1,13:25,P,0,2,0,0,3,35,9,0,0,0,0,0,2,0,0,Bike entered field during behavior survey
+GA,EBGC,Dog_leash,17-May-24,4:23,N,0:00,0:00,26.1,25.6,12.87,14.48,,AIC,2,13:41,P,1,0,0,0,0,12,4,0,0,0,0,2,2,0,0,
+GA,EBGC,Dog_leash,17-May-24,4:23,N,0:00,0:00,26.1,25.6,12.87,14.48,,AIC,3,13:56,N,0,0,0,1,2,19,3,0,0,0,0,0,2,0,0,
+GA,EBGC,Dog_leash,17-May-24,4:23,N,0:00,0:00,26.1,25.6,12.87,14.48,,AIC,4,14:17,N,0,2,0,6,2,35,106,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,17-May-24,4:23,N,0:00,0:00,26.1,25.6,12.87,14.48,,AIC,5,14:32,N,0,0,0,0,1,27,40,0,0,0,0,2,3,0,0,
+GA,EBGC,Dog_leash,17-May-24,4:23,N,0:00,0:00,26.1,25.6,12.87,14.48,,AIC,6,14:50,N,0,0,0,2,1,15,56,0,0,0,0,0,4,0,0,Birds flew off befure behavior survey
+GA,FPCC,None,22-May-24,7:59,N,7:33,8:59,20,23.89,1.61,4.83,,PS,2,7:39,N,0,0,0,0,0,0,0,0,0,0,0,1,2,1025,0,No disturbances. Shorebirds were resting and/or feeding during the observation time.
+GA,TBCC,Walkers,29-May-24,0:48,N,18:00,20:37,32.2,27.2,11.3,0,,ACH,1,19:30,N,0,0,0,0,0,28,6,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,29-May-24,0:48,N,18:00,20:37,32.2,27.2,11.3,0,,ACH,2,19:40,N,0,0,0,0,0,4,8,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,29-May-24,0:48,N,18:00,20:37,32.2,27.2,11.3,0,,ACH,3,19:50,P,0,0,0,0,0,9,8,0,0,0,0,0,4,0,0,
+GA,TBCC,Walkers,29-May-24,0:48,N,18:00,20:37,32.2,27.2,11.3,0,,ACH,4,20:10,N,0,0,0,0,0,44,32,0,0,0,0,0,2,0,0,lots of photography sessions happening
+GA,TBCC,Walkers,29-May-24,0:48,N,18:00,20:37,32.2,27.2,11.3,0,,ACH,5,20:22,N,0,0,0,0,0,60,25,0,0,0,0,0,0,2,0,kid running through flock
+GA,TBCC,Walkers,29-May-24,0:48,N,18:00,20:37,32.2,27.2,11.3,0,,ACH,6,19:16,N,0,0,0,0,0,54,17,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,29-May-24,0:48,N,18:00,20:37,32.2,27.2,11.3,0,,ACH,7,18:52,N,0,0,0,0,0,60,26,0,0,0,0,0,0,0,0,"yoga class, also people taking pics in dunes for family photoshoot"
+GA,TBCC,Walkers,29-May-24,0:48,N,18:00,20:37,32.2,27.2,11.3,0,,ACH,8,18:39,N,0,0,0,0,0,13,9,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,29-May-24,0:48,N,18:00,20:37,32.2,27.2,11.3,0,,ACH,9,18:18,N,0,0,2,0,0,181,70,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,29-May-24,0:48,N,18:00,20:37,32.2,27.2,11.3,0,,ACH,10,18:00,N,0,0,0,0,0,35,8,0,0,0,0,0,4,0,0,
+GA,EBGC,Dog_leash,30-May-24,3:08,N,0:00,0:00,20,27,13,17,,AIC,1,10:16,P,2,0,1,0,2,30,10,0,0,0,0,1,0,0,0,
+GA,EBGC,Dog_leash,30-May-24,3:08,N,0:00,0:00,20,27,13,17,,AIC,2,9:56,P,0,0,0,0,0,9,0,0,0,0,0,4,0,0,0,WIPL out of sight beforre behavior survey could be conducted
+GA,EBGC,Dog_leash,30-May-24,3:08,N,0:00,0:00,20,27,13,17,,AIC,3,9:33,N,0,0,0,1,0,11,2,0,0,0,0,0,0,0,0,"Watched a dog climb into the tall cliff dune, owner retrived"
+GA,EBGC,Dog_leash,30-May-24,3:08,N,0:00,0:00,20,27,13,17,,AIC,4,9:18,N,0,0,0,2,0,34,6,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,30-May-24,3:08,N,0:00,0:00,20,27,13,17,,AIC,5,9:06,N,4,0,0,0,0,21,7,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,30-May-24,3:08,N,0:00,0:00,20,27,13,17,,AIC,6,8:45,N,1,0,0,4,1,43,10,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,7-Jun-24,10:00,N,0:00,0:00,33,32,15,17,,AC,1,14:11,P,0,0,0,0,0,28,64,0,0,0,0,0,0,0,0,"Multiple Least terns flying, tide extremely high, flat/calm ocean"
+GA,EBGC,Dog_leash,7-Jun-24,10:00,N,0:00,0:00,33,32,15,17,,AC,2,14:20,P,0,0,0,0,0,12,10,0,0,0,0,0,1,0,0,
+GA,EBGC,Dog_leash,7-Jun-24,10:00,N,0:00,0:00,33,32,15,17,,AC,3,14:34,N,0,0,0,0,0,10,14,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,7-Jun-24,10:00,N,0:00,0:00,33,32,15,17,,AC,4,14:48,N,0,0,0,0,0,52,206,0,0,0,0,0,0,0,0,"Saw 1 dog off leash in btwn, very busy"
+GA,EBGC,Dog_leash,7-Jun-24,10:00,N,0:00,0:00,33,32,15,17,,AC,5,15:00,N,1,0,0,0,0,49,29,0,0,0,0,0,0,0,0,Saw WIPL in between P5 and P6
+GA,EBGC,Dog_leash,7-Jun-24,10:00,N,0:00,0:00,33,32,15,17,,AC,6,15:13,N,1,0,0,0,0,62,122,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,15-Jun-24,3:03,N,0:00,0:00,30,30,15,21,,AC,1,15:00,P,0,0,0,0,1,51,88,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,15-Jun-24,3:03,N,0:00,0:00,30,30,15,21,,AC,2,14:45,P,0,0,0,1,0,50,28,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,15-Jun-24,3:03,N,0:00,0:00,30,30,15,21,,AC,3,14:34,N,0,0,1,0,0,54,12,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,15-Jun-24,3:03,N,0:00,0:00,30,30,15,21,,AC,4,14:18,N,0,0,0,0,1,120,207,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,15-Jun-24,3:03,N,0:00,0:00,30,30,15,21,,AC,5,14:01,N,0,0,0,0,0,46,68,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,15-Jun-24,3:03,N,0:00,0:00,30,30,15,21,,AC,6,13:45,N,0,0,0,0,0,90,216,0,0,0,0,0,0,0,0,"Child chasing gulls and making them fly. Very sunny day, very busy beach"
+GA,EBGC,Dog_leash,19-Jun-24,7:11,N,0:00,0:00,28,29,21,22,,AC,1,9:25,P,1,0,0,3,2,218,5,0,0,0,0,1,0,0,0,Gone before survey could be done
+GA,EBGC,Dog_leash,19-Jun-24,7:11,N,0:00,0:00,28,29,21,22,,AC,2,9:42,P,0,0,0,0,0,26,10,0,0,0,0,1,0,0,0,
+GA,EBGC,Dog_leash,19-Jun-24,7:11,N,0:00,0:00,28,29,21,22,,AC,3,10:02,N,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,19-Jun-24,7:11,N,0:00,0:00,28,29,21,22,,AC,4,10:16,N,0,0,0,1,0,74,122,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,19-Jun-24,7:11,N,0:00,0:00,28,29,21,22,,AC,5,10:30,N,1,0,0,0,0,41,46,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,19-Jun-24,7:11,N,0:00,0:00,28,29,21,22,,AC,6,10:42,N,0,0,0,0,0,42,29,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,21-Jun-24,8:09,N,12:00,16:40,23.9,28.2,19.1,25.2,,ACH,1,13:45,N,0,0,0,0,0,14,5,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,21-Jun-24,8:09,N,12:00,16:40,23.9,28.2,19.1,25.2,,ACH,2,13:15,N,0,0,0,0,0,10,6,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,21-Jun-24,8:09,N,12:00,16:40,23.9,28.2,19.1,25.2,,ACH,3,12:45,P,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,21-Jun-24,8:09,N,12:00,16:40,23.9,28.2,19.1,25.2,,ACH,4,12:20,N,1,0,0,0,0,45,25,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,21-Jun-24,8:09,N,12:00,16:40,23.9,28.2,19.1,25.2,,ACH,5,12:00,N,1,0,0,0,0,40,34,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,21-Jun-24,8:09,N,12:00,16:40,23.9,28.2,19.1,25.2,,ACH,6,16:30,N,0,0,0,0,0,45,31,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,21-Jun-24,8:09,N,12:00,16:40,23.9,28.2,19.1,25.2,,ACH,7,16:05,N,0,0,0,0,0,30,25,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,21-Jun-24,8:09,N,12:00,16:40,23.9,28.2,19.1,25.2,,ACH,8,15:30,N,0,0,0,0,0,32,25,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,21-Jun-24,8:09,N,12:00,16:40,23.9,28.2,19.1,25.2,,ACH,9,14:55,N,0,0,0,0,0,88,176,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,21-Jun-24,8:09,N,12:00,16:40,23.9,28.2,19.1,25.2,,ACH,10,14:20,N,0,0,0,0,0,8,12,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,30-Jun-24,4:43,N,0:00,0:00,32,29,17,17,,AC,1,17:11,P,0,0,0,0,0,48,21,0,0,0,0,1,0,0,0,"I heard the call, did not see the bird"
+GA,EBGC,Dog_leash,30-Jun-24,4:43,N,0:00,0:00,32,29,17,17,,AC,2,17:03,P,0,1,0,0,0,15,22,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,30-Jun-24,4:43,N,0:00,0:00,32,29,17,17,,AC,3,16:45,N,0,0,1,0,0,16,26,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,30-Jun-24,4:43,N,0:00,0:00,32,29,17,17,,AC,4,16:18,N,0,0,0,1,0,142,84,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,30-Jun-24,4:43,N,0:00,0:00,32,29,17,17,,AC,5,16:04,N,0,0,0,0,0,80,91,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,30-Jun-24,4:43,N,0:00,0:00,32,29,17,17,,AC,6,15:49,N,0,0,0,0,4,193,102,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,7-Jul-24,10:59,N,0:00,0:00,28,29,9,20,,AC,1,8:20,P,0,0,0,7,2,23,2,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,7-Jul-24,10:59,N,0:00,0:00,28,29,9,20,,AC,2,8:28,P,0,0,0,3,1,12,0,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,7-Jul-24,10:59,N,0:00,0:00,28,29,9,20,,AC,3,8:38,N,0,0,0,5,2,20,1,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,7-Jul-24,10:59,N,0:00,0:00,28,29,9,20,,AC,4,8:51,N,0,0,2,2,5,45,8,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,7-Jul-24,10:59,N,0:00,0:00,28,29,9,20,,AC,5,9:02,N,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,7-Jul-24,10:59,N,0:00,0:00,28,29,9,20,,AC,6,9:14,N,0,0,0,3,0,41,6,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,11-Jul-24,0:07,N,10:00,13:30,28.89,32.22,11.27,8.05,,ACH,1,13:10,N,0,0,0,0,0,22,8,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,11-Jul-24,0:07,N,10:00,13:30,28.89,32.22,11.27,8.05,,ACH,2,12:50,N,0,0,0,0,0,35,20,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,11-Jul-24,0:07,N,10:00,13:30,28.89,32.22,11.27,8.05,,ACH,3,12:32,P,0,0,0,0,0,10,7,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,11-Jul-24,0:07,N,10:00,13:30,28.89,32.22,11.27,8.05,,ACH,4,12:10,N,1,0,0,0,0,57,35,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,11-Jul-24,0:07,N,10:00,13:30,28.89,32.22,11.27,8.05,,ACH,5,11:40,N,0,0,0,0,0,167,295,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,11-Jul-24,0:07,N,10:00,13:30,28.89,32.22,11.27,8.05,,ACH,6,11:14,N,0,0,0,0,0,41,72,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,11-Jul-24,0:07,N,10:00,13:30,28.89,32.22,11.27,8.05,,ACH,7,11:00,N,0,0,0,0,0,38,77,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,11-Jul-24,0:07,N,10:00,13:30,28.89,32.22,11.27,8.05,,ACH,8,10:45,N,0,0,0,0,0,80,95,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,11-Jul-24,0:07,N,10:00,13:30,28.89,32.22,11.27,8.05,,ACH,9,10:20,N,1,0,1,0,0,280,255,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,11-Jul-24,0:07,N,10:00,13:30,28.89,32.22,11.27,8.05,,ACH,10,10:00,N,0,0,0,0,0,46,31,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,12-Jul-24,12:52,N,0:00,0:00,32,32,11,12,,AC,1,13:18,P,0,0,0,0,0,41,77,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,12-Jul-24,12:52,N,0:00,0:00,32,32,11,12,,AC,2,13:10,P,0,0,0,0,0,59,27,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,12-Jul-24,12:52,N,0:00,0:00,32,32,11,12,,AC,3,12:59,N,0,0,0,0,0,29,24,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,12-Jul-24,12:52,N,0:00,0:00,32,32,11,12,,AC,4,12:46,N,3,0,0,0,2,211,129,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,12-Jul-24,12:52,N,0:00,0:00,32,32,11,12,,AC,5,12:34,N,0,0,0,0,0,87,93,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,12-Jul-24,12:52,N,0:00,0:00,32,32,11,12,,AC,6,12:20,N,1,0,0,0,0,165,100,0,0,0,0,0,0,0,0,
+GA,FPCC,None,19-Jul-24,6:52,N,7:20,8:50,25,27.22,4.83,6.44,,PS,2,7:30,N,1,1,0,0,0,0,0,0,0,28,0,0,0,0,0,"A fast-moving pilot boat pushed a big wake on the shoreline, causing the shorebirds to flush and/or shift positions along the beach; most returned. Towards the end of the survey, an ATV patrolling the beach area, caused the shorebirds to flush; most AMOY departed.	
+"
+GA,TBCC,Walkers,19-Jul-24,6:42,N,11:50,15:00,33,31.11,12.87,14.48,,ACH,1,14:50,N,0,0,0,0,0,28,6,0,0,0,0,0,2,0,0,
+GA,TBCC,Walkers,19-Jul-24,6:42,N,11:50,15:00,33,31.11,12.87,14.48,,ACH,2,14:44,N,0,0,0,0,0,18,8,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,19-Jul-24,6:42,N,11:50,15:00,33,31.11,12.87,14.48,,ACH,3,14:20,P,0,0,0,0,0,10,11,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,19-Jul-24,6:42,N,11:50,15:00,33,31.11,12.87,14.48,,ACH,4,13:55,N,0,0,0,0,0,47,15,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,19-Jul-24,6:42,N,11:50,15:00,33,31.11,12.87,14.48,,ACH,5,13:30,N,0,0,0,0,0,44,30,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,19-Jul-24,6:42,N,11:50,15:00,33,31.11,12.87,14.48,,ACH,6,13:17,N,0,0,0,0,0,38,32,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,19-Jul-24,6:42,N,11:50,15:00,33,31.11,12.87,14.48,,ACH,7,12:51,N,0,0,0,0,0,30,25,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,19-Jul-24,6:42,N,11:50,15:00,33,31.11,12.87,14.48,,ACH,8,12:25,N,0,0,0,0,0,28,33,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,19-Jul-24,6:42,N,11:50,15:00,33,31.11,12.87,14.48,,ACH,9,12:10,N,1,0,0,0,0,155,120,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,19-Jul-24,6:42,N,11:50,15:00,33,31.11,12.87,14.48,,ACH,10,11:50,N,0,0,0,0,0,45,38,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,30-Jul-24,5:22,N,0:00,0:00,25,28,9,10,,AC,1,8:40,P,0,0,0,4,0,13,0,0,0,0,0,0,1,0,0,
+GA,EBGC,Dog_leash,30-Jul-24,5:22,N,0:00,0:00,25,28,9,10,,AC,2,8:50,P,0,0,0,2,2,8,0,0,0,0,0,0,2,0,0,
+GA,EBGC,Dog_leash,30-Jul-24,5:22,N,0:00,0:00,25,28,9,10,,AC,3,9:05,N,2,0,0,2,2,21,2,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,30-Jul-24,5:22,N,0:00,0:00,25,28,9,10,,AC,4,9:19,N,0,0,0,3,0,24,3,0,0,0,0,0,0,0,0,
+GA,EBGC,Dog_leash,30-Jul-24,5:22,N,0:00,0:00,25,28,9,10,,AC,5,9:32,N,1,0,0,0,0,16,1,0,0,0,0,0,1,0,0,
+GA,EBGC,Dog_leash,30-Jul-24,5:22,N,0:00,0:00,25,28,9,10,,AC,6,9:44,N,0,0,0,0,0,33,6,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,31-Jul-24,5:09,N,9:00,12:00,27.22,30,0,8.05,,ACH,1,11:45,N,0,0,0,0,0,9,2,0,0,0,0,0,2,0,0,
+GA,TBCC,Walkers,31-Jul-24,5:09,N,9:00,12:00,27.22,30,0,8.05,,ACH,2,11:30,N,0,0,0,0,0,12,12,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,31-Jul-24,5:09,N,9:00,12:00,27.22,30,0,8.05,,ACH,3,11:12,P,0,0,0,0,0,17,3,0,0,0,0,0,5,0,0,
+GA,TBCC,Walkers,31-Jul-24,5:09,N,9:00,12:00,27.22,30,0,8.05,,ACH,4,10:50,N,2,0,0,0,0,26,32,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,31-Jul-24,5:09,N,9:00,12:00,27.22,30,0,8.05,,ACH,5,10:35,N,0,0,0,0,0,35,38,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,31-Jul-24,5:09,N,9:00,12:00,27.22,30,0,8.05,,ACH,6,10:15,N,0,0,0,0,0,27,28,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,31-Jul-24,5:09,N,9:00,12:00,27.22,30,0,8.05,,ACH,7,10:00,N,0,0,0,0,0,8,6,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,31-Jul-24,5:09,N,9:00,12:00,27.22,30,0,8.05,,ACH,8,9:42,N,0,0,0,0,0,15,18,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,31-Jul-24,5:09,N,9:00,12:00,27.22,30,0,8.05,,ACH,9,9:20,N,0,0,0,0,0,62,72,0,0,0,0,0,1,0,0,
+GA,TBCC,Walkers,31-Jul-24,5:09,N,9:00,12:00,27.22,30,0,8.05,,ACH,10,9:00,N,0,0,0,0,0,18,12,0,0,0,0,0,4,0,0,
+GA,FPCC,None,2-Aug-24,7:12,N,7:26,8:55,27.2,28.89,8.05,8.05,,PS,2,7:30,N,0,1,0,0,0,0,0,0,0,31,0,0,6,2,0,"AMOY were resting on the shoreline during the observation period except for when the wake of a cargo ship caused the birds to shift positions on the shoreline. Also, the mixed flock of shorebirds flushed twice in the absence of a discernable disturbance. Most shorebirds returned to the shoreline within a few minutes."
+GA,TBCC,Walkers,8-Aug-24,11:20,N,8:50,12:00,25.56,29.44,30.58,28.97,,ACH,1,10:15,N,0,0,0,0,0,14,14,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,8-Aug-24,11:20,N,8:50,12:00,25.56,29.44,30.58,28.97,,ACH,2,10:35,N,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,8-Aug-24,11:20,N,8:50,12:00,25.56,29.44,30.58,28.97,,ACH,3,11:00,N,0,0,0,0,0,25,12,0,2,0,0,0,14,0,0,
+GA,TBCC,Walkers,8-Aug-24,11:20,N,8:50,12:00,25.56,29.44,30.58,28.97,,ACH,4,10:10,N,0,0,0,0,0,35,15,0,0,0,0,0,2,0,0,
+GA,TBCC,Walkers,8-Aug-24,11:20,N,8:50,12:00,25.56,29.44,30.58,28.97,,ACH,5,9:59,N,0,0,0,0,0,18,4,0,0,0,0,0,1,0,0,
+GA,TBCC,Walkers,8-Aug-24,11:20,N,8:50,12:00,25.56,29.44,30.58,28.97,,ACH,6,9:48,N,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,8-Aug-24,11:20,N,8:50,12:00,25.56,29.44,30.58,28.97,,ACH,7,9:37,N,0,0,0,0,0,8,5,0,0,0,0,0,1,0,0,
+GA,TBCC,Walkers,8-Aug-24,11:20,N,8:50,12:00,25.56,29.44,30.58,28.97,,ACH,8,9:21,N,0,0,1,0,0,5,2,0,0,0,0,0,2,0,0,
+GA,TBCC,Walkers,8-Aug-24,11:20,N,8:50,12:00,25.56,29.44,30.58,28.97,,ACH,9,9:10,N,2,0,0,0,0,30,10,0,0,0,0,0,0,0,0,
+GA,TBCC,Walkers,8-Aug-24,11:20,N,8:50,12:00,25.56,29.44,30.58,28.97,,ACH,10,8:50,N,0,0,0,0,0,2,4,0,0,0,0,0,2,0,0,
+NY,Arverne,None,25-Apr-24,10:01,N,10:51,11:59,48,51,12,7,,AK,1,10:54,P,1,0,1,0,0,3,0,0,1,10,0,0,0,0,0,
+NY,Arverne,None,25-Apr-24,10:01,N,10:51,11:59,48,51,12,7,,AK,2,11:21,C,2,0,0,0,0,2,0,0,2,12,0,0,1,0,0,
+NY,Arverne,None,25-Apr-24,10:01,N,10:51,11:59,48,51,12,7,,AK,3,11:39,C,0,0,0,2,0,1,0,0,1,9,0,0,0,0,0,dogs disturbed all the AMOY
+NY,Arverne,None,25-Apr-24,10:01,N,10:51,11:59,48,51,12,7,,AK,4,11:53,P,1,0,0,1,0,3,0,0,0,10,0,0,0,0,0,
+NY,Far Rockaway,None,25-Apr-24,10:01,N,9:31,10:14,47,48,13,12,,AK,1,10:09,N,1,0,0,0,0,12,2,0,0,1,0,0,0,0,0,People and vehicles on the boardwalk
+NY,Far Rockaway,None,25-Apr-24,10:01,N,9:31,10:14,47,48,13,12,,AK,2,9:50,P,0,0,0,0,0,4,0,0,4,5,0,0,0,0,0,People were our seasonal plover monitors
+NY,Far Rockaway,None,25-Apr-24,10:01,N,9:31,10:14,47,48,13,12,,AK,3,9:34,N,1,0,0,1,0,2,0,4,0,3,0,0,0,0,0,4 LAGU as potential predators
+NY,Arverne,None,7-May-24,8:24,N,12:47,13:50,72,71,7,4,,AK,1,12:51,P,0,0,0,0,0,2,2,54,3,2,0,0,0,0,0,Jetty in site blocks view
+NY,Arverne,None,7-May-24,8:24,N,12:47,13:50,72,71,7,4,,AK,2,1:09,P,0,0,1,0,0,2,2,84,1,4,0,0,0,0,0,Jetty in site blocks view
+NY,Arverne,None,7-May-24,8:24,N,12:47,13:50,72,71,7,4,,AK,3,1:24,P,0,0,0,0,0,2,0,11,1,1,0,0,0,0,0,"Jetty in site blocks view, also a front of site dune blocks view"
+NY,Arverne,None,7-May-24,8:24,N,12:47,13:50,72,71,7,4,,AK,4,1:43,P,1,0,1,0,0,1,1,20,0,2,0,0,0,0,0,Dune blocks some view. vehicle on boardwalk
+NY,Far Rockaway,None,7-May-24,8:24,N,11:23,12:10,71,67,7,6,,AK,1,11:58,P,3,3,0,2,2,1,2,4,0,1,0,0,0,0,0,"1 VEHICLE ON BEACH, 2 ON BOARDWALK"
+NY,Far Rockaway,None,7-May-24,8:24,N,11:23,12:10,71,67,7,6,,AK,2,11:40,P,0,2,1,1,0,9,0,1,4,3,0,0,0,0,0,"2 PEOPLE ON BEACH, 7 ON BOARDWALK"
+NY,Far Rockaway,None,7-May-24,8:24,N,11:23,12:10,71,67,7,6,,AK,3,11:26,N,0,0,0,0,0,12,1,3,0,2,0,0,0,0,0,"2 PEOPLE ON BEACH, 11 ON BOARDWALK"
+NY,Far Rockaway,None,22-May-24,8:24,N,10:28,11:23,62,62,10,9,,AK,1,11:10,N,0,1,0,1,0,6,9,3,0,3,0,0,0,0,0,Dunes block view. Day after beach opening
+NY,Far Rockaway,None,22-May-24,8:24,N,10:28,11:23,62,62,10,9,,AK,2,10:44,P,0,0,0,0,0,2,4,0,1,4,0,0,20,0,0,Dunes block view.
+NY,Far Rockaway,None,22-May-24,8:24,N,10:28,11:23,62,62,10,9,,AK,3,10:31,N,2,1,1,1,0,18,1,2,1,1,0,0,24,0,0,
+NY,Arverne,None,22-May-24,8:24,N,11:52,1:13,68,68,10,13,,AK,1,11:55,P,1,0,0,0,0,5,0,45,5,5,0,0,400,0,0,Jetty blocks view
+NY,Arverne,None,22-May-24,8:24,N,11:52,1:13,68,68,10,13,,AK,2,12:10,P,0,0,0,0,0,0,0,28,1,19,0,0,90,0,0,Jetty blocks view. Didnt count boardwalk activities
+NY,Arverne,None,22-May-24,8:24,N,11:52,1:13,68,68,10,13,,AK,3,12:30,P,0,0,0,0,0,0,0,23,1,2,0,0,90,0,0,Jetty and dunes block view. Didnt count boardwalk activities
+NY,Arverne,None,22-May-24,8:24,N,11:52,1:13,68,68,10,13,,AK,4,12:53,P,0,0,0,0,0,0,0,0,1,6,0,0,40,0,0,Dunes block view. Didnt count boardwalk
+NY,Far Rockaway,None,12-Jun-24,0:35,N,10:39,11:39,69,70,NA,NA,,AK,1,11:24,N,0,0,0,0,0,1,7,4,0,1,0,0,0,0,0,Lare dune limits view. no boardwalk data 
+NY,Far Rockaway,None,12-Jun-24,0:35,N,10:39,11:39,69,70,NA,NA,,AK,2,11:09,P,0,0,0,1,0,5,4,1,5,5,0,0,0,0,0,2 amoy chick 1 pipl chick. no boardwalk data
+NY,Far Rockaway,None,12-Jun-24,0:35,N,10:39,11:39,69,70,NA,NA,,AK,3,10:54,N,0,1,0,0,0,10,4,9,0,5,0,0,0,0,0,Day after kid signs were put on boardwalk
+NY,Arverne,None,12-Jun-24,0:35,N,12:10,13:16,71,73,NA,NA,,AK,1,12:17,P,0,0,0,0,0,0,1,21,1,10,0,0,0,0,0,Jetty blocks view on end count. no boardwalk data
+NY,Arverne,None,12-Jun-24,0:35,N,12:10,13:16,71,73,NA,NA,,AK,2,12:33,C,0,0,0,0,0,0,0,7,6,17,0,0,0,0,0,Jetty blocks view on end count. no boardwalk data
+NY,Arverne,None,12-Jun-24,0:35,N,12:10,13:16,71,73,NA,NA,,AK,3,12:54,C,0,0,0,0,0,0,0,23,4,7,0,0,0,0,0,Jetty and dune block views. no boardwalk data. 
+NY,Arverne,None,12-Jun-24,0:35,N,12:10,13:16,71,73,NA,NA,,AK,4,13:15,P,0,0,1,0,0,2,0,42,1,13,0,0,0,0,0,The two walkers were parks PEP.
+NY,Far Rockaway,None,11-Jul-24,12:25,N,10:25,11:12,77,77,NA,NA,,AK,1,10:58,N,0,1,0,0,0,5,1,12,0,2,0,0,0,0,0,
+NY,Far Rockaway,None,11-Jul-24,12:25,N,10:25,11:12,77,77,NA,NA,,AK,2,10:42,P,0,0,0,0,0,0,2,4,2,6,0,0,0,0,0,No boardwalk count
+NY,Far Rockaway,None,11-Jul-24,12:25,N,10:25,11:12,77,77,NA,NA,,AK,3,10:34,N,0,0,0,0,1,4,3,4,0,0,0,0,0,0,0,No boardwalk count
+NY,Arverne,None,11-Jul-24,12:25,N,11:50,NA,NA,NA,NA,NA,,AK,1,11:42,P,0,0,0,0,0,0,1,26,0,36,0,0,0,0,0,PEP guarding entrance
+NY,Arverne,None,11-Jul-24,12:25,N,11:50,NA,NA,NA,NA,NA,,AK,2,11:55,C,0,0,0,0,0,0,0,1,2,12,0,0,0,0,0,Dunes and jetty block visability. no boardwalk count
+NY,Arverne,None,11-Jul-24,12:25,N,11:50,NA,NA,NA,NA,NA,,AK,3,12:11,C,0,0,0,0,0,0,0,6,4,21,0,0,0,0,0,Dunes and jetty block visability. no boardwalk count
+NY,Arverne,None,11-Jul-24,12:25,N,11:50,NA,NA,NA,NA,NA,,AK,4,12:29,P,0,0,0,0,0,0,5,52,0,17,0,0,0,0,0,Dunes block visability. no boardwalk count
+NY,Far Rockaway,None,13-Aug-24,2:10,N,10:19,NA,75,77,NA,NA,,AK,1,11:08,N,0,0,0,0,0,6,2,13,0,1,0,0,8,0,0,Couldnt watch species for behavior big dune.
+NY,Far Rockaway,None,13-Aug-24,2:10,N,10:19,NA,75,77,NA,NA,,AK,2,10:55,N,0,0,1,0,0,4,2,10,0,5,0,0,22,0,0,
+NY,Far Rockaway,None,13-Aug-24,2:10,N,10:19,NA,75,77,NA,NA,,AK,3,10:24,N,0,0,0,1,0,5,0,3,0,2,0,0,85,0,0,
+NY,Arverne,None,13-Aug-24,2:10,N,11:38,12:55,79,80,NA,NA,,AK,1,11:41,N,0,0,0,0,0,1,0,34,0,28,0,0,32,0,0,No boardwalk count. Jetty and dunes in site make visualization harder 
+NY,Arverne,None,13-Aug-24,2:10,N,11:38,12:55,79,80,NA,NA,,AK,2,11:56,P,0,0,0,0,0,2,1,29,0,5,0,0,190,0,0,No boardwalk count. Jetty and dunes in site make visualization harder
+NY,Arverne,None,13-Aug-24,2:10,N,11:38,12:55,79,80,NA,NA,,AK,3,12:12,P,0,0,0,0,0,0,0,28,2,9,0,0,330,65,0,No boardwalk count. Jetty and dunes in site make visualization harder
+NY,Arverne,None,13-Aug-24,2:10,N,11:38,12:55,79,80,NA,NA,,AK,4,12:28,N,0,0,0,0,0,0,2,68,0,15,0,0,110,0,0,No boardwalk count. Jetty and dunes in site make visualization harder

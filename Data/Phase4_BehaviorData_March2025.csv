@@ -1,0 +1,1020 @@
+State,Site,Campaign,Season,Date,Point_no,Species,Sec_10,Sec_20,Sec_30,Sec_40,Sec_50,Sec_60,Sec_70,Sec_80,Sec_90,Sec_100,Sec_110,Sec_120,Sec_130,Sec_140,Sec_150,Sec_160,Sec_170,Sec_180,Comments
+GA,TBCC,Walkers,B,21-Jun-24,10,SAND,F,M,M,M,M,F,F,M,M,F,F,M,F,M,M,M,F,M,SAND 4.
+GA,TBCC,Walkers,B,21-Jun-24,8,SAND,M,M,M,F,M,M,M,F,F,F,M,M,M,M,M,F,F,M,SAND 5.
+GA,TBCC,Walkers,B,21-Jun-24,7,SAND,M,F,F,F,F,M,M,M,M,F,M,M,M,F,M,M,M,M,SAND 2.
+GA,TBCC,Walkers,B,21-Jun-24,4,SAND,M,M,F,F,F,M,F,M,F,M,M,M,M,M,M,F,F,M,SAND 3.
+GA,TBCC,Walkers,B,21-Jun-24,3,SAND,M,M,F,M,F,M,M,M,M,F,F,M,F,M,F,F,M,M,SAND 8.
+GA,TBCC,Walkers,B,21-Jun-24,1,SAND,M,F,F,M,F,F,F,M,F,M,M,F,F,F,F,F,M,F,SAND 2.
+GA,TBCC,Walkers,B,8-Aug-24,10,SAND,M,M,M,M,F,F,F,F,M,F,M,M,F,F,M,F,M,F,SAND 4. foraging around tidepool and hightide wrackline
+GA,TBCC,Walkers,B,8-Aug-24,9,SAND,M,M,F,F,M,F,F,M,F,M,M,F,F,M,F,M,M,F,SAND 2.
+GA,TBCC,Walkers,B,8-Aug-24,8,SAND,M,M,F,M,M,M,F,M,F,M,M,F,M,F,M,M,M,F,SAND 1.
+GA,TBCC,Walkers,B,8-Aug-24,5,SAND,F,F,M,M,M,M,M,F,M,F,M,M,M,F,F,F,F,M,SAND 1.
+GA,TBCC,Walkers,B,8-Aug-24,4,SAND,F,F,M,M,F,M,F,M,M,F,F,M,F,M,M,M,F,M,SAND1.
+GA,TBCC,Walkers,B,8-Aug-24,3,SAND,F,F,F,F,M,F,F,F,F,F,M,M,F,F,F,F,M,M,SAND 22. MIXED FLOCK
+GA,TBCC,Walkers,B,8-Aug-24,3,PIPL,M,M,M,F,M,M,F,M,M,M,M,F,M,M,F,M,M,M,PIPL 2. Juveniles unbanded
+GA,TBCC,Walkers,B,8-Aug-24,2,SAND,F,M,F,F,F,M,M,M,M,M,M,F,M,M,F,M,F,M,SAND 2.
+GA,TBCC,Walkers,B,8-Aug-24,1,SAND,F,F,F,F,M,M,F,M,F,F,F,F,M,M,F,M,F,M,SAND 5.
+NC,NWB,None,,22-Apr-24,2,AMOY,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,incubating for entire 3 mins
+NC,NWB,None,,22-Apr-24,3,AMOY,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,incubating for entire 3 mins
+NC,NWB,None,,22-Apr-24,4,SAND,M,M,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+NC,HI,None,,24-Apr-24,3,AMOY,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,incubating for entire 3 mins
+NC,HI,None,,24-Apr-24,4,AMOY,M,M,M,M,M,M,A,A,M,M,M,M,M,M,M,A,M,A,
+NC,HI,None,,24-Apr-24,4,SAND,F,F,M,M,F,F,M,O,M,M,F,F,R,F,F,F,F,M,preening
+NY,Arverne,None,,25-Apr-24,1,AMOY,M,M,A,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,Arverne,None,,25-Apr-24,1,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Nest 1A
+NY,Arverne,None,,25-Apr-24,2,PIPL,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,Arverne,None,,25-Apr-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,FL,FL,OS,
+NY,Arverne,None,,25-Apr-24,3,AMOY,M,R,M,M,R,R,R,A,R,F,F,M,R,F,M,A,R,F,
+NY,Arverne,None,,25-Apr-24,4,AMOY,A,A,A,A,A,R,R,A,R,R,M,M,M,M,R,R,M,R,Territorial with other AMOY
+NY,Far Rockaway,None,,25-Apr-24,3,AMOY,R,R,R,R,A,M,M,A,R,A,A,R,R,R,A,A,M,M,Unleashed dog 50ft away
+NY,Far Rockaway,None,,25-Apr-24,2,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Resting right outside string fencing with another PIPL
+NY,Far Rockaway,None,,25-Apr-24,2,AMOY,M,M,M,M,M,F,M,F,M,M,M,M,M,M,M,M,F,M,
+SC,Harbor Island,Dog_leash,B,3-May-24,1,SAND,F,F,F,F,F,F,F,M,F,F,M,F,F,F,F,F,F,M,
+SC,Harbor Island,Dog_leash,B,3-May-24,2,SAND,M,F,F,FL,F,F,F,F,F,FL,OS,OS,OS,OS,OS,OS,OS,OS,disturbed by off leash dogs
+SC,Harbor Island,Dog_leash,B,3-May-24,3,AMOY,R,R,R,M,R,R,M,M,R,M,R,R,R,R,R,R,R,R,
+SC,Harbor Island,Dog_leash,B,3-May-24,3,WIPL,R,R,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+SC,Harbor Island,Dog_leash,B,3-May-24,3,PIPL,F,R,F,F,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+SC,Harbor Island,Dog_leash,B,3-May-24,3,SAND,R,R,R,M,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,No apparent disturbance
+NC,NWB,None,,3-May-24,1,SAND,M,M,M,A,F,M,M,M,F,A,A,M,F,M,F,F,M,F,At 0:30 2 people walked by within 20m. At 1:50 2 people walked by within 20m. At 2:00 1 person walked by within 20m.
+NC,NWB,None,,3-May-24,2,SAND,F,F,M,F,F,M,M,M,M,M,F,OS,F,OS,OS,OS,OS,OS,At 0:50 1 person walked by within 30m. At 2:20 2 people walked by within 20m and caused the bird to go out of view
+NC,NWB,None,,3-May-24,3,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,F,F,F,
+NC,NWB,None,,3-May-24,4,SAND,F,F,F,F,F,F,F,FL,A,F,F,F,F,F,F,F,F,F,At 1:20 1 person walked by within 20m causing the bird to fly.
+NY,Arverne,None,,7-May-24,1,PIPL,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,
+NY,Arverne,None,,7-May-24,1,AMOY,R,R,R,R,M,R,R,M,R,R,R,R,R,R,R,R,R,R,"Was incubating, movement from repositioning"
+NY,Arverne,None,,7-May-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,M,M,R,R,R,R,R,
+NY,Arverne,None,,7-May-24,3,AMOY,F,M,R,M,M,M,M,F,M,A,A,M,F,M,M,M,F,M,
+NY,Arverne,None,,7-May-24,3,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,M,M,R,R,R,R,At the shore
+NY,Arverne,None,,7-May-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Preening
+NY,Far Rockaway,None,,7-May-24,3,AMOY,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+NY,Far Rockaway,None,,7-May-24,2,PIPL,R,R,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,A,
+NY,Far Rockaway,None,,7-May-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating
+NY,Far Rockaway,None,,7-May-24,1,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating
+GA,EBGC,Dog_leash,B,8-May-24,6,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+GA,EBGC,Dog_leash,B,8-May-24,3,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,R,F,F,R,
+GA,EBGC,Dog_leash,B,8-May-24,2,SAND,F,F,F,F,F,F,F,F,F,F,F,R,F,R,R,R,R,R,
+NY,Sunken,None,B,9-May-24,1,PIPL,F,F,A,F,F,F,F,F,M,F,A,F,F,F,F,F,F,A,
+NY,Sunken,None,B,9-May-24,4,PIPL,F,M,F,F,F,F,F,A,A,M,F,F,F,A,A,M,F,F,Helicopter about 30 ft away at 2:00
+NY,TOH,None,B,14-May-24,10,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,TOH,None,B,14-May-24,10,AMOY,R,R,A,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,Preening and standing
+NY,TOH,None,B,14-May-24,9,AMOY,M,M,M,M,M,M,M,M,M,M,R,R,R,R,R,R,R,R,Foraging and then incubating
+NY,TOH,None,B,14-May-24,9,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,TOH,None,B,14-May-24,8,AMOY,R,R,R,R,R,R,M,A,A,M,A,R,R,A,A,R,R,R,"2 vehicals went through, 1 at 1:10 and 1 at 2:20"
+NY,TOH,None,B,14-May-24,7,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,M,M,M,Foraging in surf
+NY,TOH,None,B,14-May-24,7,AMOY,M,M,A,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,Nesting in Tern Colony
+NY,TOH,None,B,14-May-24,6,AMOY,R,R,R,R,R,R,R,M,M,M,M,M,R,M,M,M,A,M,"Preening, roosting"
+NY,TOH,None,B,14-May-24,6,SAND,F,F,F,F,F,F,M,F,F,F,F,F,F,F,F,F,F,F,Foraging in surf
+NY,TOH,None,B,14-May-24,5,AMOY,R,R,R,R,R,R,R,R,M,R,R,Fl,Fl,Fl,Fl,M,M,M,Resting and flew to another spot
+NY,TOH,None,B,14-May-24,5,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,F,Foraging in surf
+NY,TOH,None,B,14-May-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,TOH,None,B,14-May-24,4,AMOY,M,M,M,R,R,M,M,M,M,M,M,R,M,M,Fl,R,R,M,"1:40- 2 people and 1 Plane,1st AMOY banded with 2 red bands on each leg flew out of site, watching 2nd AMOY at 2:40."
+NY,TOH,None,B,14-May-24,4,SAND,F,F,M,F,F,F,M,M,M,M,F,M,M,M,Fl,F,F,F,1:10- guy walking down beach causing Sandpipers to move further down the beach
+NY,TOH,None,B,14-May-24,3,AMOY,M,M,A,A,M,M,R,R,R,R,R,M,R,A,A,M,M,M,Walking with mate
+NY,TOH,None,B,14-May-24,3,SAND,M,F,F,F,M,F,F,M,F,F,F,F,F,F,F,F,F,F,Foraging in surf
+NY,Sunken,None,B,14-May-24,4,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,incubating nest 
+NC,HI,None,,16-May-24,5,SAND,M,F,M,F,F,F,M,F,F,F,F,M,M,F,F,F,F,F,foraging in swash
+NC,HI,None,,16-May-24,4,SAND,M,M,M,F,M,M,F,M,M,M,A,M,F,F,M,M,M,M,
+NC,HI,None,,16-May-24,2,SAND,M,M,F,F,F,M,M,F,M,OS,OS,OS,M,F,F,OS,OS,OS,"foraging in swash, out of sight behind scarp"
+GA,EBGC,Dog_leash,B,17-May-24,5,SAND,A,A,A,A,M,F,F,A,A,A,M,A,A,A,A,M,F,OS,
+GA,EBGC,Dog_leash,B,17-May-24,3,SAND,F,M,M,M,M,M,M,M,FL,F,M,F,F,M,F,M,F,F,
+GA,EBGC,Dog_leash,B,17-May-24,2,WIPL,A,A,A,A,A,M,A,A,A,A,A,A,A,M,,A,A,A,
+GA,EBGC,Dog_leash,B,17-May-24,1,SAND,F,F,F,F,F,F,F,F,F,F,F,F,M,F,F,F,F,F,Bike entered field during survey
+NC,NWB,None,,17-May-24,1,SAND,F,F,F,F,M,M,M,M,F,F,M,M,M,F,F,M,FL,M,
+NC,NWB,None,,17-May-24,2,SAND,F,F,M,F,F,F,F,F,M,M,M,M,M,M,F,F,FL,F,
+NC,NWB,None,,17-May-24,2,AMOY,F,F,F,F,A,F,F,A,A,M,M,M,M,M,M,M,M,M,Part of a pair that was picking at the tideline with mild interest
+NC,NWB,None,,17-May-24,3,SAND,F,F,F,A,A,F,F,F,F,F,F,F,F,M,F,F,FL,F,
+NC,NWB,None,,17-May-24,4,SAND,F,F,F,M,F,a,M,M,F,F,F,F,F,F,F,F,FL,F,
+NC,NWB,None,,17-May-24,4,SESA,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NC,NWB,None,,17-May-24,4,WIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+NY,Jones,Walkers,B,18-May-24,1,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,Jones,Walkers,B,18-May-24,1,PIPL,R,A,R,R,FL,R,R,R,R,R,R,R,R,R,R,R,R,R,switched incubation
+NY,Jones,Walkers,B,18-May-24,2,AMOY,R,R,A,A,A,R,M,M,R,M,M,R,R,R,R,F,M,R,near wrack line
+NY,Jones,Walkers,B,18-May-24,3,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,Jones,Walkers,B,18-May-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,Jones,Walkers,B,18-May-24,5,SESA,F,F,F,M,F,F,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+NY,Jones,Walkers,B,18-May-24,6,SESA,F,F,F,F,F,F,FL,FL,F,F,F,F,F,F,F,F,F,F,
+NY,Jones,Walkers,B,18-May-24,6,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,Jones,Walkers,B,18-May-24,7,SESA,F,F,F,F,A,F,F,F,F,F,F,F,FL,FL,F,F,F,F,
+NY,Jones,Walkers,B,18-May-24,8,SESA,F,F,F,F,F,F,A,F,F,F,F,F,F,F,F,F,F,F,
+NY,Jones,Walkers,B,18-May-24,9,SESA,F,M,M,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+NY,Jones,Walkers,B,18-May-24,10,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+NC,NWB,None,,18-May-24,1,SAND,M,F,M,M,M,F,M,F,F,M,F,F,M,M,A,FL,F,M,2 standing people within 15m between 0:20 and 1:40
+NC,NWB,None,,18-May-24,2,SAND,F,F,F,F,M,F,M,F,F,F,FL,OS,OS,OS,OS,OS,OS,OS,3 people within 20m caused bird to fly away at 1:50
+NC,NWB,None,,18-May-24,4,SAND,O,O,O,O,O,O,O,M,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,Preening for the first 1:10. Flew away at 1:30
+NY,Sunken,None,B,19-May-24,2,PIPL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,Female foraging 
+NY,Sunken,None,B,19-May-24,4,PIPL,F,F,F,F,F,F,F,F,F,F,FL,F,F,A,A,F,F,F,male foraging by shore
+NY,Sunken,None,B,19-May-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,female incubating 
+CT,Bushy Beach,None,B,21-May-24,2,PIPL,R,R,R,R,R,R,R,R,O,O,R,R,R,O,R,R,R,R,O = Preening 
+CT,Bushy Beach,None,B,21-May-24,3,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,INC Nest GF_PKL
+CT,Bushy Beach,None,B,21-May-24,3,AMOY,F,F,F,M,M,F,F,F,F,M,F,F,M,F,F,M,F,M,Y_ N05
+CT,Bushy Beach,None,B,21-May-24,4,PIPL,R,R,M,A,A,M,M,A,M,M,A,A,M,M,R,R,R,R,INC NEST but some people in tip area 
+CT,Housatonic: Milford Shoreline,Walkers,B,21-May-24,7,PIPL,M,R,R,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+CT,Housatonic: Milford Shoreline,Walkers,B,21-May-24,8,PIPL,M,M,F,F,M,F,M,F,R,F,M,F,M,F,M,F,M,F,
+CT,Housatonic: Milford Shoreline,Walkers,B,21-May-24,8,AMOY,F,F,FL,F,M,F,M,F,F,M,O,O,O,R,R,R,O,O,O = Preening
+CT,Housatonic: Milford Point,Walkers,B,21-May-24,5,SESA,M,M,F,M,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+CT,Housatonic: Milford Point,Walkers,B,21-May-24,5,PIPL,M,M,O,R,R,F,M,R,F,M,M,M,F,F,R,M,R,R,O = Preening
+CT,Housatonic: Milford Point,Walkers,B,21-May-24,5,AMOY,O,O,R,R,R,O,O,O,O,O,R,R,O,R,O,O,O,O,O = Preening
+CT,Housatonic: Milford Point,Walkers,B,21-May-24,6,AMOY,O,O,R,R,R,O,O,R,R,R,O,O,O,R,O,R,O,R,O = Preening
+CT,Housatonic: Milford Point,Walkers,B,21-May-24,6,PIPL,M,M,R,M,F,F,F,R,R,M,R,R,F,R,F,F,R,M,
+NY,TOH,Dog_free,B,21-May-24,10,AMOY,R,R,A,M,M,M,M,M,M,A,M,M,M,M,F,F,M,FL,"Guy with camera got very close to chicks at 0:30, territorial dispute with 3rd AMOY at 2:50"
+NY,TOH,Dog_free,B,21-May-24,10,PIPL,M,M,A,R,R,r ,R,R,R,R,R,R,R,R,R,R,R,R,Alert because of AMOY territorial dispute and then Incubating nest
+NY,TOH,Dog_free,B,21-May-24,9,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,TOH,Dog_free,B,21-May-24,9,AMOY,R,R,R,R,R,R,M,FL,FL,OS,OS,OS,OS,F,F,F,M,F,"Preening and vocal, flew closer to water where I could not see, I walked so that I could see over the sand mound where the AMOY was foraging on the other side at the surf"
+NY,TOH,Dog_free,B,21-May-24,8,AMOY,R,R,R,R,R,R,M,M,M,M,M,M,M,M,M,R,R,R,"Preening, resting, and vocal"
+NY,TOH,Dog_free,B,21-May-24,8,PIPL,F,F,F,F,F,F,F,F,M,M,FL,FL,FL,OS,OS,OS,OS,OS,Foraging at surf
+NY,TOH,Dog_free,B,21-May-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Preening then loafing
+NY,TOH,Dog_free,B,21-May-24,6,AMOY,M,M,M,M,R,R,M,M,A,M,M,R,R,R,R,M,FL,FL,"Nest switch at 1:50, territorial dispute at 2:40 with third AMOY"
+NY,TOH,Dog_free,B,21-May-24,6,PIPL,F,F,F,F,FL,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Both flew out of sight
+NY,TOH,Dog_free,B,21-May-24,5,SESA,R,R,R,F,R,R,R,R,R,R,R,R,R,R,M,M,M,M,Man ran by at 2:30
+NY,TOH,Dog_free,B,21-May-24,5,AMOY,R,R,M,M,M,A,R,R,M,M,R,R,R,R,R,R,R,R,"Preening, man ran by at 0:30"
+NY,TOH,Dog_free,B,21-May-24,4,PIPL,F,F,F,M,M,F,M,F,F,M,M,M,M,FL,F,A,M,F,"Woman and dog at 2:10, Man running at 0:40"
+NY,TOH,Dog_free,B,21-May-24,4,SESA,F,F,F,F,M,F,F,F,F,FL,F,F,F,F,M,F,F,F,Woman walked by at 1:40
+NY,TOH,Dog_free,B,21-May-24,4,AMOY,M,M,A,A,M,A,M,M,M,M,M,M,A,M,R,M,M,A,Alert and mobile because of truck
+NY,TOH,Dog_free,B,21-May-24,3,AMOY,R,R,R,M,M,A,M,M,M,M,M,R,R,R,R,FL,FL,FL,
+NY,TOH,Dog_free,B,21-May-24,3,SESA,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,F,Woman walked by at 2:50
+NY,TOH,Dog_free,B,21-May-24,3,PIPL,M,M,M,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,TOH,Dog_free,B,21-May-24,2,AMOY,M,M,M,R,M,F,M,M,M,M,M,M,M,M,M,R,FL,M,Walking with mate
+NY,TOH,Dog_free,B,21-May-24,2,SESA,F,F,F,F,M,M,FL,F,F,F,M,F,F,F,F,F,F,F,Woman walked by at 1:00
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,1,WIPL,A,A,M,A,A,FL,FL,A,M,A,A,A,M,O,O,A,O,A,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,1,SAND,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,2,WIPL,FL,M,M,M,FL,FL,FL,FL,FL,OS,OS,M,M,OS,OS,OS,OS,OS,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,3,AMOY,F,F,F,F,F,F,A,A,F,F,F,F,F,F,F,OS,OS,OS,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,3,BBPL,F,F,F,F,A,A,A,A,OS,OS,OS,F ,OS,F ,F ,F ,M,F ,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,3,LETE,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,FL,OS,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,3,PEEP,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,4,AMOY,F,FL,F,F,F,F,F,F,F,F,F,A,F,F,F,F,M,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,4,WILL,M,F ,F,F ,F,F ,F,F ,F,F ,OS,OS,OS,OS,OS,OS,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,4,LETE,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,FL,OS,OS,OS,OS,OS,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,4,RUTU,F,F,F,F,F,F,F,F,F,F,OS,OS,OS,OS,OS,OS,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-May-24,4,PEEP,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+SC,Harbor Island,Dog_leash,B,22-May-24,2,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+SC,Harbor Island,Dog_leash,B,22-May-24,3,WIPL,O,O,O,O,O,O,R,R,R,R,R,R,R,R,R,R,R,R,O=BATHING IN TIDAL POOL 
+SC,Harbor Island,Dog_leash,B,22-May-24,3,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+NC,HI,None,,22-May-24,3,PIPL,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,incubating for entire 3 mins
+NC,HI,None,,22-May-24,3,SAND,R,R,R,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,
+NC,HI,None,,22-May-24,2,AMOY,A,M,A,A,A,M,M,A,A,A,A,A,A,A,A,A,A,A,divebombed by LETE for last two minutes
+NY,Far Rockaway,None,,22-May-24,3,AMOY,R,R,R,M,F,M,F,R,F,F,F,F,F,F,M,F,F,F,~200FT from truck on beach
+NY,Far Rockaway,None,,22-May-24,3,SAND,M,M,F,M,F,F,F,M,M,F,F,F,M,F,M,M,F,F,
+NY,Far Rockaway,None,,22-May-24,2,PIPL,M,M,R,M,M,M,R,R,M,M,M,M,F,M,M,M,F,F,3 people walking shoreline point out the PIPL
+NY,Far Rockaway,None,,22-May-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,Far Rockaway,None,,22-May-24,1,AMOY,A,R,A,M,M,M,M,M,A,M,A,R,R,R,R,R,R,R,
+NY,Arverne,None,,22-May-24,1,PIPL,A,A,A,R,M,M,M,R,F,M,M,M,A,M,F,M,M,M,Chased by gull 
+NY,Arverne,None,,22-May-24,1,AMOY,M,A,A,A,M,M,A,M,M,M,M,R,R,R,R,R,M,M,with two chicks
+NY,Arverne,None,,22-May-24,1,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,Arverne,None,,22-May-24,2,PIPL,F,F,FL,FL,FL,FL,FL,FL,FL,FL,FL,FL,FL,FL,FL,FL,FL,FL,
+NY,Arverne,None,,22-May-24,2,SAND,F,M,FL,M,M,F,M,F,F,F,F,M,F,F,M,M,F,FL,
+NY,Arverne,None,,22-May-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,Arverne,None,,22-May-24,3,SAND,M,M,M,M,M,M,M,M,M,M,M,M,FL,M,F,M,M,M,
+NY,Arverne,None,,22-May-24,4,SAND,R,M,FL,M,M,M,R,M,M,M,F,M,M,R,M,F,M,R,
+NY,Arverne,None,,22-May-24,4,AMOY,M,M,M,M,M,M,R,M,M,R,R,M,M,R,F,R,R,R,
+CT,Sandy Point,None,B,23-May-24,5,PIPL,F,M,M,F,R,M,M,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Walked around corner South of channel
+CT,Sandy Point,None,B,23-May-24,6,PIPL,F,M,R,M,R,F,F,M,R,R,M,M,R,R,R,R,R,R,P14 Female
+CT,Sandy Point,None,B,23-May-24,6,SESA,F,M,F,F,M,R,M,R,R,R,M,F,M,M,M,M,M,R,
+CT,Sandy Point,None,B,23-May-24,7,PIPL,F,F,R,F,R,O,O,O,O,O,O,O,O,R,R,R,R,R,O = Copulating
+CT,Sandy Point,None,B,23-May-24,8,PIPL,M,M,R,R,M,F,R,R,M,R,M,F,F,F,R,R,M,F,
+CT,Sandy Point,None,B,23-May-24,8,AMOY,F,F,F,F,M,M,M,F,R,F,F,A,F,R,F,F,R,FL,A = Bothered by WILL 
+CT,Sandy Point,None,B,23-May-24,8,SESA,F,M,M,M,M,F,R,M,M,F,F,M,F,R,M,M,M,M,
+NY,Jones,Walkers,B,23-May-24,1,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,Jones,Walkers,B,23-May-24,1,AMOY,R,R,A,A,A,A,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,airshow plane flying low to beach
+NY,Jones,Walkers,B,23-May-24,2,AMOY,R,R,R,R,R,R,R,R,M,M,F,F,F,F,F,F,M,F,
+NY,Jones,Walkers,B,23-May-24,3,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,Jones,Walkers,B,23-May-24,5,AMOY,R,R,R,R,R,R,R,R,M,M,M,M,FL,FL,FL,OS,OS,OS,airshow planes flying by
+NC,NWB,None,,23-May-24,1,SAND,F,F,F,F,F,F,F,F,F,F,F,OS,M,F,M,F,M,F,
+CT,Long Beach,Walkers,B,24-May-24,6,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,INC NEST
+CT,Long Beach,Walkers,B,24-May-24,5,SAND,M,F,M,A,A,M,M,F,M,M,F,M,OS,OS,OS,OS,OS,OS,
+CT,Long Beach,Walkers,B,24-May-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,INC NEST
+CT,Long Beach,Walkers,B,24-May-24,4,SAND,O,O,R,R,R,R,O,O,O,O,O,O,O,O,O,O,R,O,O = PREENING
+CT,Long Beach,Walkers,B,24-May-24,4,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+CT,Long Beach,Walkers,B,24-May-24,3,PIPL,O,O,O,O,O,R,R,O,R,R,R,R,R,R,A,F,M,M,2:30 - TERRITORIAL W/ NEARBY CONSPECIFIC
+CT,Long Beach,Walkers,B,24-May-24,2,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,INC NEST
+NY,Sunken,None,B,25-May-24,1,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,Sunken,None,B,25-May-24,2,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,TOH,Dog_free,B,26-May-24,1,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting on dune
+NY,TOH,Dog_free,B,26-May-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"Preening, 2 people walking at 2:10"
+NY,TOH,Dog_free,B,26-May-24,4,AMOY,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,R,R,R,Preening
+NY,TOH,Dog_free,B,26-May-24,4,SAND,F,FL,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Flock flew away
+NY,TOH,Dog_free,B,26-May-24,4,PIPL,F,M,M,M,M,F,F,F,F,M,F,F,F,M,M,A,M,F,2 people walked by at 2:20
+NY,TOH,Dog_free,B,26-May-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating nest
+NY,TOH,Dog_free,B,26-May-24,5,SAND,F,F,F,F,F,F,F,F,F,M,M,FL,F,F,F,F,F,F,2 people walked by at 1:20
+NY,TOH,Dog_free,B,26-May-24,6,SAND,F,F,F,F,F,F,F,M,F,F,F,F,F,F,F,F,FL,F,Flew due to a large wave crashing
+NY,TOH,Dog_free,B,26-May-24,6,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating nest
+NY,TOH,Dog_free,B,26-May-24,6,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Heard from behind dune vegetation
+NY,TOH,Dog_free,B,26-May-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Preening and standing
+NY,TOH,Dog_free,B,26-May-24,8,PIPL,F,F,M,F,M,F,F,M,F,A,F,F,F,F,F,F,FL,FL,"2 people at 0:50, group of people at 1:20-1:40"
+NY,TOH,Dog_free,B,26-May-24,8,AMOY,F,M,M,M,M,M,R,R,R,R,R,R,R,R,R,R,R,R,Walking with mate then incubating
+NY,TOH,Dog_free,B,26-May-24,9,PIPL,F,F,F,M,M,M,R,R,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,
+NY,TOH,Dog_free,B,26-May-24,9,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Preening
+NY,TOH,Dog_free,B,26-May-24,10,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting with mate
+NY,TOH,Dog_free,B,26-May-24,10,PIPL,R,R,R,R,R,R,M,R,R,M,R,R,R,R,R,R,M,M,Roosting in tire track
+NY,Jones,Walkers,B,28-May-24,1,AMOY,M,M,M,M,R,R,R,M,R,M,M,M,R,R,R,R,R,R,Amoy was with a chick
+NY,Jones,Walkers,B,28-May-24,2,PIPL,R,R,R,R,R,R,FL,FL,F,F,F,F,F,R,R,R,R,R,near wrack line and plover exclosure
+NY,Jones,Walkers,B,28-May-24,3,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,incubating Nest
+NY,Jones,Walkers,B,28-May-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting behind fencing
+NY,Jones,Walkers,B,28-May-24,5,SESA,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging by water
+NY,Jones,Walkers,B,28-May-24,7,AMOY,F,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,flew out of site 
+SC,Folly Beach Lighthouse Inlet,Walkers,B,29-May-24,1,WIPL,F,F,F,F,M,F,F,F,F,M,F,F,F,F,F,F,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,29-May-24,1,PEEP,F,F,F,F,M,F,FL,F,F,F,F,F,F,F,F,M,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,29-May-24,2,AMOY,A,FL,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"AMOY pair seen scraping then flew off, territorial with another AMOY"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,29-May-24,2,WIPL,A,A,F,F,F,F,OS,OS,OS,OS,OS,M,A,A,M,M,M,M,WIPL pair with one chick in back marsh
+SC,Folly Beach Lighthouse Inlet,Walkers,B,29-May-24,2,LETE,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,29-May-24,3,PEEP,FL,OS,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,29-May-24,3,WILL,FL,F,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,29-May-24,4,LETE,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,29-May-24,4,AMOY,FL,OS,OS,FL,OS,OS,OS,OS,OS,OS,OS,FL,FL,FL,OS,OS,OS,OS,
+NY,Sunken,None,B,29-May-24,2,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,A,A,A,A,A,A,"Incubating Nest, person passed by "
+NY,Sunken,None,B,29-May-24,4,PIPL,F,F,F,F,F,F,F,F,F,F,F,F,F,R,R,R,R,R,male foraging by shore
+NY,Sunken,None,B,29-May-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating Nest
+NY,TOH,Dog_free,B,29-May-24,3,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,Foraging in surf
+NY,TOH,Dog_free,B,29-May-24,4,AMOY,M,M,M,FL,FL,FL,FL,OS,R,R,R,R,R,R,R,R,R,R,"Flew OS, switched to other AMOY"
+NY,TOH,Dog_free,B,29-May-24,5,AMOY,M,M,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"Mobile because group of people setting up towels, preening"
+NY,TOH,Dog_free,B,29-May-24,5,PIPL,F,F,F,M,M,F,M,F,F,M,M,M,M,F,F,F,M,F,Foraging at surf
+NY,TOH,Dog_free,B,29-May-24,5,SAND,M,F,F,F,F,M,F,F,F,F,F,F,F,M,F,F,M,F,Foraging at surf
+NY,TOH,Dog_free,B,29-May-24,6,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting in big group
+NY,TOH,Dog_free,B,29-May-24,6,AMOY,M,M,M,M,M,M,R,A,R,R,R,R,R,R,R,M,M,FL,Walking with mate then preening
+NY,TOH,Dog_free,B,29-May-24,6,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Heard in dunes
+NY,TOH,Dog_free,B,29-May-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating nest
+NY,TOH,Dog_free,B,29-May-24,8,PIPL,F,F,F,F,F,M,M,FL,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,Foraging then both PIPL flew out of site
+NY,TOH,Dog_free,B,29-May-24,8,AMOY,M,M,M,M,M,M,M,R,R,R,M,A,M,A,R,M,M,M,"Walking with mate, group of people walked by at 1:50"
+NY,TOH,Dog_free,B,29-May-24,9,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Standing then loafing next to post
+NY,TOH,Dog_free,B,29-May-24,10,AMOY,M,M,M,M,OS,R,R,R,R,M,M,M,M,R,R,M,FL,FL,"1st AMOY went behind dunes, switched to 2nd AMOY at 0:50"
+NY,TOH,Dog_free,B,29-May-24,10,PIPL,M,M,M,M,M,M,M,R,R,R,R,R,R,R,R,R,R,R,"Nest switch at 1:20, incubating"
+GA,TBCC,Walkers,B,29-May-24,10,SAND,R,R,R,R,M,M,F,M,M,M,M,M,M,M,F,F,F,F,SAND 4.
+GA,TBCC,Walkers,B,29-May-24,4,SAND,M,M,F,M,M,M,F,M,F,M,M,F,F,F,M,M,F,F,SAND 2.
+GA,TBCC,Walkers,B,29-May-24,3,SAND,F,F,F,F,F,M,M,F,F,F,F,F,M,M,F,M,M,F,SAND 4.
+CT,Housatonic: Milford Shoreline,Walkers,B,30-May-24,8,AMOY,FL,A,A,R,A,R,R,R,A,R,R,R,R,R,R,R,R,R,A = TERRITORIAL W/ NEARBY AMOY
+CT,Housatonic: Milford Shoreline,Walkers,B,30-May-24,7,AMOY,FL,FL,FL,FL,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+CT,Housatonic: Milford Point,Walkers,B,30-May-24,5,PIPL,A,A,M,M,M,A,A,R,R,A,A,M,M,M,A,M,R,A,A = ALERT DUE TO NEARBY DOG
+CT,Housatonic: Milford Point,Walkers,B,30-May-24,6,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,A,A,A,R,R = INC NEST
+CT,Housatonic: Milford Point,Walkers,B,30-May-24,6,SESA,FL,FL,FL,R,R,R,R,R,R,M,R,R,R,R,R,M,R,R,
+CT,Housatonic: Milford Point,Walkers,B,30-May-24,6,SAND,R,R,R,M,R,FL,F,M,R,R,R,R,R,F,R,R,R,R,
+CT,Housatonic: Milford Point,Walkers,B,30-May-24,6,AMOY,FL,FL,R,R,R,R,R,FL,FL,R,R,R,R,R,R,R,R,R,
+GA,EBGC,Dog_leash,B,30-May-24,1,WIPL,A,A,A,M,A,A,M,S,M,A,M,A,A,A,A,A,M,FL,
+CT,Bushy Beach,None,B,31-May-24,2,PIPL,R,R,R,M,A,A,A,M,M,A,M,M,M,M,A,R,R,R,R = INC
+CT,Bushy Beach,None,B,31-May-24,3,PIPL,F,F,A,A,M,M,A,A,A,A,M,M,A,A,R,R,R,R,R = INC
+CT,Bushy Beach,None,B,31-May-24,3,AMOY,R,R,R,A,A,M,M,M,FL,FL,M,A,A,A,A,A,A,A,"R = INC, flew out having territorial dispute with other AMOY "
+CT,Bushy Beach,None,B,31-May-24,4,PIPL,F,F,F,A,A,A,M,M,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,"Foraging by shellfosh area, flew to Long island sound side of beach out of view "
+CT,Long Beach,Walkers,B,31-May-24,6,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,A,R,R,R,R,R,M PIPL INC NEST. Alert  @ 2:10 - Plane flyover
+CT,Long Beach,Walkers,B,31-May-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+CT,Long Beach,Walkers,B,31-May-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,M,A,M,R,R,R,R,R,
+CT,Long Beach,Walkers,B,31-May-24,5,SAND,F,F,F,M,A,F,A,M,F,M,F,M,M,F,M,F,M,A,
+CT,Long Beach,Walkers,B,31-May-24,4,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,INC NEST
+CT,Long Beach,Walkers,B,31-May-24,3,PIPL,M,M,O,O,R,M,M,F,F,M,F,M,M,A,M,M,M,F,A @ 2:20 - BIRD MOVED TOO CLOSE TO ME ~10M AWAY.
+CT,Long Beach,Walkers,B,31-May-24,2,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,F PIPL INC NEST
+CT,Long Beach,Walkers,B,31-May-24,2,AMOY,F,M,F,M,M,F,F,F,M,F,M,M,M,M,M,F,M,M,
+NC,HI,None,,1-Jun-24,1,WIPL,A,F,A,M,A,A,A,A,A,A,M,M,A,M,A,A,A,A,Watched a male that was guarding a chick
+NC,HI,None,,1-Jun-24,2,AMOY,A,A,A,A,A,A,A,A,A,A,A,A,M,M,A,A,A,A,
+NC,HI,None,,1-Jun-24,3,SAND,F,F,F,F,F,M,M,M,M,F,F,F,M,F,F,F,F,F,
+NC,HI,None,,1-Jun-24,4,REKN,F,M,M,M,M,M,FL,F,F,F,FL,OS,OS,OS,OS,OS,OS,OS,Flushed by dog
+NC,HI,None,,1-Jun-24,4,SAND,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+NC,HI,None,,1-Jun-24,4,PIPL,F,F,F,F,M,M,F,F,A,M,M,F,M,F,F,F,F,M,Watched a male that was guarding a chick
+NC,HI,None,,1-Jun-24,5,AMOY,R,R,R,A,M,M,M,M,M,M,M,OS,OS,OS,OS,OS,OS,OS,
+CT,Sandy Point,None,B,2-Jun-24,4,SAND,R,M,OS,F,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Flushed by group of COGR
+CT,Sandy Point,None,B,2-Jun-24,5,SAND,M,M,R,M,M,M,M,M,M,M,M,F,M,M,M,M,F,M,
+CT,Sandy Point,None,B,2-Jun-24,5,SESA,M,M,M,R,M,M,M,F,F,M,M,M,M,R,F,M,M,M,
+CT,Sandy Point,None,B,2-Jun-24,6,PIPL,R,R,M,M,M,F,R,R,R,M,R,F,M,F,R,F,F,R,P14 Female
+CT,Sandy Point,None,B,2-Jun-24,6,SESA,M,M,M,M,M,M,F,F,M,F,F,M,M,M,M,M,M,M,
+CT,Sandy Point,None,B,2-Jun-24,7,PIPL,M,R,R,R,M,R,R,R,R,R,R,R,R,R,R,R,R,R,
+CT,Sandy Point,None,B,2-Jun-24,7,AMOY,R,R,F,M,M,M,A,R,R,R,R,A,M,R,R,M,M,R,Disturbed by walker
+CT,Sandy Point,None,B,2-Jun-24,7,SESA,M,M,F,M,M,M,M,M,F,F,M,M,M,F,M,FL,M,M,
+CT,Sandy Point,None,B,2-Jun-24,8,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+CT,Sandy Point,None,B,2-Jun-24,8,AMOY,R,M,R,M,R,R,R,R,R,R,R,M,R,R,R,R,R,R,
+CT,Sandy Point,None,B,2-Jun-24,8,SESA,F,M,M,M,R,F,M,F,M,F,F,F,M,M,M,F,M,R,
+NY,Sunken,None,B,2-Jun-24,2,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,pipl incubating nest 
+NY,Sunken,None,B,2-Jun-24,5,PIPL,F,F,M,M,M,R,F,F,F,F,R,R,R,R,R,R,R,R,male foraging and roosting by shore
+SC,Folly Beach Lighthouse Inlet,Walkers,B,3-Jun-24,1,WIPL,F,F,F,F,A,F,F,F,F,F,F,F,F,F,F,F,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,3-Jun-24,1,SAND,F,F,M,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,3-Jun-24,1,PEEP,F,F,F,M,F,F,F,F,F,F,F,F,F,F,FL,F,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,3-Jun-24,1,LETE,F ,F ,F ,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,3-Jun-24,2,WIPL,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,chick must be nearby
+SC,Folly Beach Lighthouse Inlet,Walkers,B,3-Jun-24,3,WILL,A,F,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,3-Jun-24,3,PEEP,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,3-Jun-24,4,LETE,FL,OS,OS,FL,FL,FL,FL,FL,FL,OS,OS,FL,FL,FL,FL,OS,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,3-Jun-24,4,PEEP,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+SC,Harbor Island,Dog_leash,B,3-Jun-24,3,WIPL,A,F,A,A,A,F,F,F,F,A,M,A,M,A,A,A,A,A,Wilson parents were very alert as they watched over chicks while foraging
+SC,Harbor Island,Dog_leash,B,3-Jun-24,3,SESA,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+NY,Sunken,None,B,4-Jun-24,2,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,female incubating nest 
+NY,Sunken,None,B,4-Jun-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,incubating nest 
+NY,TOH,Dog_free,B,4-Jun-24,2,AMOY,M,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,All 3 AMOY flew off
+NY,TOH,Dog_free,B,4-Jun-24,3,AMOY,A,M,M,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating nest
+NY,TOH,Dog_free,B,4-Jun-24,3,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+NY,TOH,Dog_free,B,4-Jun-24,4,AMOY,M,M,R,R,A,M,M,R,M,R,M,M,M,M,M,R,R,R,ATV at 1:50
+NY,TOH,Dog_free,B,4-Jun-24,5,AMOY,R,R,R,R,R,R,R,M,M,M,M,M,R,R,R,R,R,R,Preening
+NY,TOH,Dog_free,B,4-Jun-24,6,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting/loafing in large group
+NY,TOH,Dog_free,B,4-Jun-24,7,AMOY,R,R,R,M,M,R,M,M,M,M,M,FL,A,M,M,M,R,R,"Preening, person with camera at 1:40"
+NY,TOH,Dog_free,B,4-Jun-24,8,AMOY,R,A,A,A,R,R,R,R,R,A,R,M,M,R,R,M,M,M,Territorial dispute between 5 AMOY
+NY,TOH,Dog_free,B,4-Jun-24,9,AMOY,R,R,R,R,R,R,R,R,M,M,R,R,R,R,R,R,R,R,"ATV at 1:30, roosting"
+NY,TOH,Dog_free,B,4-Jun-24,10,AMOY,R,M,A,M,M,M,M,M,M,M,M,R,R,R,R,R,R,R,Territoy dispute with other AMOY
+CT,Sandy Point,None,B,5-Jun-24,6,PIPL,R,R,R,R,R,R,R,R,R,R,R,F,R,M,R,R,M,R,"P14 Male, Both spooked by FICR following behavior survey"
+CT,Sandy Point,None,B,5-Jun-24,7,PIPL,M,M,F,R,M,M,F,F,M,F,F,M,R,M,F,F,F,M,
+CT,Sandy Point,None,B,5-Jun-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,P2 Individual loafing
+CT,Sandy Point,None,B,5-Jun-24,7,SESA,R,R,R,M,R,R,R,R,R,R,R,R,R,M,R,R,R,M,
+CT,Sandy Point,None,B,2-Jun-24,8,SESA,M,R,F,R,M,M,M,F,R,M,M,R,R,R,R,F,M,M,
+NY,Jones,Walkers,B,5-Jun-24,1,PIPL,M,M,M,M,R,M,M,R,M,R,R,R,R,R,M,R,M,M,Walking towards jetty
+NY,Jones,Walkers,B,5-Jun-24,1,AMOY,R,R,R,R,M,M,M,R,M,M,R,R,R,F,M,M,R,R,Walking towards mate
+NY,Jones,Walkers,B,5-Jun-24,2,PIPL,F,F,M,FL,FL,OS,R,R,R,R,R,R,R,R,R,R,R,R,"1st PIPL flew OS, switched to 2nd PIPL at 1:10, Incubating nest"
+NY,Jones,Walkers,B,5-Jun-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting and Preening
+NY,Jones,Walkers,B,5-Jun-24,3,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating nest
+NY,Jones,Walkers,B,5-Jun-24,4,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Heard in dune
+NY,Jones,Walkers,B,5-Jun-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting in tire tracks
+NY,Jones,Walkers,B,5-Jun-24,5,SAND,R,R,R,R,R,R,M,M,R,R,R,R,R,R,R,M,R,R,Roosting in large group
+NY,Jones,Walkers,B,5-Jun-24,11,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating nest
+CT,Housatonic: Milford Point,Walkers,B,7-Jun-24,5,SESA,M,M,M,M,R,R,M,M,F ,A,R,F,F,F,A,A,F,F,
+CT,Housatonic: Milford Point,Walkers,B,7-Jun-24,5,PIPL,M,R,R,R,R,M,M,M,M,R,M,M,R,M,F,M,F,R,"Added behavioral context, individual had just had nest washed out by tide"
+CT,Housatonic: Milford Point,Walkers,B,7-Jun-24,6,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"Not incubating, just stood very still"
+CT,Housatonic: Milford Point,Walkers,B,7-Jun-24,6,SESA,M,M,M,R,M,M,M,F,F,M,F,F,FL,OS,OS,OS,OS,OS,
+CT,Housatonic: Milford Point,Walkers,B,7-Jun-24,6,PIPL,R,R,M,A,R,R,M,M,M,M,M,M,M,M,R,R,R,M,
+CT,Long Beach,Walkers,B,7-Jun-24,6,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M PIPL INC NEST
+CT,Long Beach,Walkers,B,7-Jun-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,MATE TO A NEARBY INC PIPL
+CT,Long Beach,Walkers,B,7-Jun-24,4,AMOY,A,A,R,R,R,R,R,A,A,A,A,A,A,A,A,A,A,A,A: CHATTY W/ NEARBY CONSPECIFICS ON JETTY
+CT,Long Beach,Walkers,B,7-Jun-24,4,PIPL,M,M,M,M,M,F,M,F,R,R,M,M,M,M,M,M,F,M,
+CT,Long Beach,Walkers,B,7-Jun-24,3,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,A,R,R,R,A @ 2:30 - TERRITORIAL DISPUTE WITH CONSPECIFIC
+CT,Long Beach,Walkers,B,7-Jun-24,2,PIPL,F,M,M,M,M,F,M,M,M,M,F,M,M,R,M,OS,OS,OS,
+CT,Bushy Beach,None,B,7-Jun-24,2,PIPL,M,A,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R = INC
+CT,Bushy Beach,None,B,7-Jun-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R = INC
+CT,Bushy Beach,None,B,7-Jun-24,3,PIPL,P,P,P,M,M,M,R,R,M,M,M,M,M,M,R,R,M,M,
+CT,Bushy Beach,None,B,7-Jun-24,4,PIPL,F,F,F,F,F,M,F,F,F,M,M,M,F,F,F,F,F,F,
+GA,EBGC,Dog_leash,B,7-Jun-24,2,SAND,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,just stood in place in middle of a sand bar
+NY,Sunken,None,B,8-Jun-24,2,PIPL,F,M,M,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,near exclosure foraging 
+NY,Sunken,None,B,8-Jun-24,4,PIPL,F,F,F,F,F,F,F,F,R,R,R,R,R,R,R,R,R,R,female by water
+NY,Sunken,None,B,8-Jun-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,incubating nest 
+SC,Folly Beach Lighthouse Inlet,Walkers,B,9-Jun-24,1,WIPL,F,M,M,M,A,A,A,A,A,A,A,A,A,A,A,A,A,A,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,9-Jun-24,2,AMOY,R,R,A,A,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,9-Jun-24,2,WIPL,M,M,A,A,R,A,A,A,A,A,A,A,A,A,A,A,A,A,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,9-Jun-24,3,LETE,F,F,F,OS,F,F,F,F,FL,FL,FL,FL,FL,FL,F,F,FL,FL,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,9-Jun-24,3,PEEP,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,9-Jun-24,4,Egret,F,F,F,F,F,F,F,F,F,F,F,F,A,F,F,F,F,A,"Not recorded to species. Not a focal bird, but still observed."
+CT,Long Beach,Walkers,B,10-Jun-24,6,PIPL,R,M,R,OS,M,R,R,M,R,R,M,R,R,M,F,M,M,R,
+CT,Long Beach,Walkers,B,10-Jun-24,5,PIPL,M,R,M,R,M,M,M,A,A,A,R,R,R,R,R,R,R,R,
+CT,Long Beach,Walkers,B,10-Jun-24,4,PIPL,A,A,M,A,A,A,A,A,OS,R,OS,OS,F,M,R,R,R,M,PR fighting with female
+CT,Long Beach,Walkers,B,10-Jun-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating nest
+CT,Long Beach,Walkers,B,10-Jun-24,3,PIPL,M,FL,FL,R,R,R,M,M,R,M,R,R,M,R,M,A,A,A,A = Dive bombed by tern
+NC,NWB,None,,10-Jun-24,3,AMOY,R,R,R,R,R,R,R,R,R,M,M,M,M,M,M,M,M,FL,
+NC,NWB,None,,10-Jun-24,3,WIPL,M,A,M,M,F,F,A,M,A,A,A,M,A,F,R,A,A,R,"Walked some, foraged some in swash (!), got aggressive with another WIPL, took a bath"
+NC,NWB,None,,10-Jun-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NC,NWB,None,,10-Jun-24,4,WIPL,A,A,A,A,A,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+SC,Harbor Island,Dog_leash,B,12-Jun-24,3,WIPL,R,R,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,
+SC,Harbor Island,Dog_leash,B,12-Jun-24,3,SESA,F,F,F,F,F,F,M,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,No apparent reason for FO
+SC,Harbor Island,Dog_leash,B,12-Jun-24,3,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+CT,Bushy Beach,None,B,12-Jun-24,2,PIPL,F,F,F,M,M,F,F,A,M,A,A,F,M,A,A,A,F,F,
+CT,Bushy Beach,None,B,12-Jun-24,3,PIPL,R,R,R,R,R,M,M,A,A,A,A,M,M,R,R,R,R,R,R = INC
+CT,Bushy Beach,None,B,12-Jun-24,3,AMOY,FL,FL,FL,FL,FL,FL,FL,FL,FL,FL,FL,FL,A,M,M,A,A,A,"Chasing other pair of AMOYs around, came back to nest area, Y_ NO5"
+CT,Bushy Beach,None,B,12-Jun-24,4,PIPL,F,F,F,M,M,A,A,A,A,A,A,A,M,A,A,A,M,A,"Male brooding fledges, territorial dispute with other male PIPL"
+NC,HI,None,,12-Jun-24,1,AMOY,A,M,A,A,A,A,M,M,A,A,M,M,M,M,M,M,A,A,Part of a pair hanging out in overwash area
+NC,HI,None,,12-Jun-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,A,M,M,A,R,R,R,One adult of a pair sitting beachfront in posting
+NC,HI,None,,12-Jun-24,3,WIPL,A,A,M,M,A,M,F,F,F,M,M,F,F,F,M,M,F,A,
+NC,HI,None,,12-Jun-24,4,SAND,F,F,F,F,M,M,F,F,F,M,FL,OS,OS,OS,OS,OS,OS,OS,Flew away at 1:50
+NY,Far Rockaway,None,,12-Jun-24,2,PIPL,A,M,M,M,M,M,F,F,F,F,F,M,M,M,M,R,A,A,Territorial with other plovers
+NY,Far Rockaway,None,,12-Jun-24,3,AMOY,R,M,R,R,R,R,R,M,F,F,A,M,M,F,M,M,M,M,
+NY,Arverne,None,,12-Jun-24,1,PIPL,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,Arverne,None,,12-Jun-24,1,AMOY,R,R,M,M,M,M,M,M,M,M,R,R,R,R,R,R,R,R,
+NY,Arverne,None,,12-Jun-24,2,AMOY,A,A,A,A,A,A,M,M,M,M,M,R,R,R,R,R,R,R,
+NY,Arverne,None,,12-Jun-24,2,PIPL,A,A,A,M,M,M,A,M,A,M,M,A,A,M,A,M,M,M,plover with mate and 4 chicks walking to shore with amoy around
+NY,Arverne,None,,12-Jun-24,3,PIPL,F,F,M,M,M,R,M,M,F,M,F,M,F,F,M,M,M,F,
+NY,Arverne,None,,12-Jun-24,3,AMOY,F,M,M,M,M,M,M,M,M,M,F,M,M,M,M,M,M,M,
+NY,Arverne,None,,12-Jun-24,4,PIPL,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,M,M,
+NY,Arverne,None,,12-Jun-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,R,M,
+CT,Housatonic: Milford Shoreline,Walkers,B,13-Jun-24,7,AMOY,F,F,M,FL,M,M,F,F,F,F,F,F,F,F,F,F,F,F,Banded AMOY = N29
+CT,Housatonic: Milford Point,Walkers,B,13-Jun-24,5,PIPL,R,R,R,R,R,R,R,M,R,R,R,R,R,O,M,O,R,R,O = Nest Tidying (Moving Shells)
+CT,Housatonic: Milford Point,Walkers,B,13-Jun-24,6,PIPL,F,F,M,FL,FL,R,M,F,M,R,M,R,M,R,R,R,R,R,
+CT,Housatonic: Milford Point,Walkers,B,13-Jun-24,6,AMOY,O,O,M,O,O,O,R,M,Fl,Fl,A,OS,OS,OS,OS,OS,OS,OS,O = Preening
+CT,Housatonic: Milford Point,Walkers,B,13-Jun-24,6,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,O,R,R,R,R,O = Preening
+NY,TOH,Dog_free,B,13-Jun-24,1,AMOY,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,R,R,"Helicopter went by at 2:20, preening"
+NY,TOH,Dog_free,B,13-Jun-24,2,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,Foraging in surf with mate
+NY,TOH,Dog_free,B,13-Jun-24,3,AMOY,M,M,M,M,M,M,R,R,M,F,F,F,F,F,F,F,F,F,"Walking, preening, and foraging. 2 lifeguards ran by at 2:30"
+NY,TOH,Dog_free,B,13-Jun-24,4,AMOY,R,M,A,R,R,FL,FL,R,R,R,R,R,R,R,R,R,R,R,2 people walking by at 0:20
+NY,TOH,Dog_free,B,13-Jun-24,4,PIPL,F,M,F,F,F,F,F,F,F,A,F,F,F,F,F,M,M,A,"Mate flew over at 1:40, foraging with chicks, people setting up towels at 3:00"
+NY,TOH,Dog_free,B,13-Jun-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating nest
+NY,TOH,Dog_free,B,13-Jun-24,5,PIPL,M,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,F,F,Foraging in surf
+NY,TOH,Dog_free,B,13-Jun-24,6,AMOY,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Standing and preening
+NY,TOH,Dog_free,B,13-Jun-24,7,AMOY,M,R,R,R,R,R,R,R,R,R,R,R,R,M,M,R,R,R,Preening
+NY,TOH,Dog_free,B,13-Jun-24,8,AMOY,A,M,A,A,A,A,A,M,A,A,A,M,M,M,FL,R,R,R,"2 Laughing gulls fighting for food near by at 0:10, man walking by at 1:40"
+NY,TOH,Dog_free,B,13-Jun-24,8,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Heard in dune
+NY,TOH,Dog_free,B,13-Jun-24,9,PIPL,F,F,F,R,R,R,R,R,R,R,R,M,M,M,M,M,M,M,"Preening, territoial at 2:40 because another AMOY flew over"
+NY,TOH,Dog_free,B,13-Jun-24,9,AMOY,R,R,R,R,R,R,R,R,R,M,A,M,M,R,R,R,R,R,Walking with chicks
+NY,TOH,Dog_free,B,13-Jun-24,10,AMOY,M,M,M,M,M,M,M,M,OS,F,F,F,F,F,F,F,F,F,"1st AMOY walked into dune and OS, switched to 2nd AMOY at 1:40, foraging in surf"
+NY,Sunken,None,B,13-Jun-24,2,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,pipl incubating nest
+NY,Sunken,None,B,13-Jun-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,F,F,R,incubating got up to forage around nest 
+CT,Sandy Point,None,B,14-Jun-24,6,PIPL,M,R,M,R,R,FL,OS,R,A,A,A,A,O,O,O,O,O ,O,"Male flew off, Female took over incubating, O = Inc Nest"
+CT,Sandy Point,None,B,14-Jun-24,7,PIPL,M,M,M,F ,M,R,R,F,M,R,R,R,R,M,F,F,R,F,
+CT,Sandy Point,None,B,14-Jun-24,7,AMOY,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,"O = Inc Nest, mate of N17"
+CT,Sandy Point,None,B,14-Jun-24,7,SESA,F,M,F,F,F,M,F,F,M,M,M,M,M,F,M,M,M,M,
+CT,Sandy Point,None,B,14-Jun-24,8,PIPL,R,F,F,M,R,R,M,R,R,M,F,F,M,M,R,R,R,R,
+CT,Sandy Point,None,B,14-Jun-24,8,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,R,M,
+CT,Sandy Point,None,B,14-Jun-24,8,SESA,M,F,F,F,F,M,M,M,M,M,M,F,F,F,M,M,M,F,
+NY,Jones,Walkers,B,14-Jun-24,1,AMOY,R,R,R,R,R,R,R,M,M,R,M,M,M,M,M,M,R,R,Person walked by at 1:50
+NY,Jones,Walkers,B,14-Jun-24,1,PIPL,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Walking away from jetty then roosting
+NY,Jones,Walkers,B,14-Jun-24,2,PIPL,R,R,R,R,R,R,R,M,R,FL,R,M,R,R,M,M,M,M,Helicopter flying right over point and really low at 2:30
+NY,Jones,Walkers,B,14-Jun-24,2,AMOY,M,M,M,M,F,F,R,M,M,F,M,M,F,R,R,R,R,R,"Walking, foraging, and preening near dunes"
+NY,Jones,Walkers,B,14-Jun-24,3,PIPL,R,R,R,R,R,R,R,R,R,R,M,M,R,R,R,R,R,R,Roosting and walking with chicks
+NY,Jones,Walkers,B,14-Jun-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,R,R,Preening and standing
+NY,Jones,Walkers,B,14-Jun-24,4,PIPL,M,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Flew OS into dune
+NY,Jones,Walkers,B,14-Jun-24,5,PIPL,M,M,FL,M,M,R,R,R,F,M,F,M,M,F,M,F,M,F,Foraging in wrack line
+NY,Jones,Walkers,B,14-Jun-24,6,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Incubating
+NY,Jones,Walkers,B,14-Jun-24,6,AMOY,FL,FL,M,R,R,M,FL,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,Flew OS
+NY,Jones,Walkers,B,14-Jun-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting/preening near dune
+NY,Jones,Walkers,B,14-Jun-24,8,PIPL,M,M,R,M,M,M,M,R,R,R,R,R,R,R,R,R,R,R,Switched with mate at 1:20 to incubate nest
+NY,Jones,Walkers,B,14-Jun-24,8,AMOY,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting with mate
+NY,Jones,Walkers,B,14-Jun-24,9,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting and preening
+NY,Jones,Walkers,B,14-Jun-24,11,AMOY,FL,R,R,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,Preening and standing
+NC,HI,None,,14-Jun-24,4,SAND,R,F,A,M,R,M,M,F,F,F,F,F,F,M,F,F,F,F,
+NC,HI,None,,14-Jun-24,2,AMOY,A,A,A,A,A,A,M,M,A,A,A,A,A,A,M,M,A,A,
+NC,HI,None,,14-Jun-24,1,AMOY,M,M,M,OS,OS,OS,M,M,A,A,A,M,M,A,A,A,A,A,One adult of pair guarding chick that was hiding along vegetation line
+NY,Sunken,None,B,16-Jun-24,2,PIPL,M,M,M,M,M,M,R,R,R,M,M,M,M,M,M,M,M,M,moving with chicks through grasses 
+NY,Sunken,None,B,16-Jun-24,5,PIPL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging by wrack line 
+SC,Folly Beach Lighthouse Inlet,Walkers,B,17-Jun-24,1,WIPL,F,F,F,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,FL,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,17-Jun-24,2,WIPL,A,A,M,M,M,A,A,A,A,M,A,A,A,A,A,A,A,A,other adult and 3 chicks went to forage in marsh as 1 adult stood guard
+SC,Folly Beach Lighthouse Inlet,Walkers,B,17-Jun-24,3,WILL,F,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"not a focal species, but still observed"
+NY,TOH,Dog_free,B,17-Jun-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Preening and standing
+NY,TOH,Dog_free,B,17-Jun-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting and preening
+NY,TOH,Dog_free,B,17-Jun-24,5,AMOY,M,M,M,M,M,M,R,M,M,M,M,R,R,R,R,M,R,R,Walking and resting with chicks
+NY,TOH,Dog_free,B,17-Jun-24,5,PIPL,F,F,M,F,M,M,R,M,M,M,M,OS,OS,OS,OS,OS,OS,OS,"Walking and foraging with chick, went into dune"
+NY,TOH,Dog_free,B,17-Jun-24,6,AMOY,FL,FL,FL,FL,FL,M,M,M,R,R,R,R,R,R,R,R,R,R,"Man flying kite/taking it down from start to 1:20, AMOY very vocal"
+NY,TOH,Dog_free,B,17-Jun-24,6,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+NY,TOH,Dog_free,B,17-Jun-24,7,AMOY,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,R,R,Brooding chicks
+NY,TOH,Dog_free,B,17-Jun-24,7,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Foraging in surf
+NY,TOH,Dog_free,B,17-Jun-24,8,PIPL,F,F,F,F,M,F,F,F,F,M,F,F,F,M,F,M,F,F,Standing by nest
+NY,TOH,Dog_free,B,17-Jun-24,8,AMOY,R,R,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,
+NY,TOH,Dog_free,B,17-Jun-24,9,AMOY,A,A,A,R,R,R,FL,FL,R,R,R,R,R,R,R,R,R,R,"Territorial dispute between 2 pairs, 1st AMOY flew behind dune- switchec to 2nd AMOY at 1:30"
+NY,TOH,Dog_free,B,17-Jun-24,10,AMOY,F,M,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,R,Roosting with mate and 2 juveniles
+NC,HI,None,,18-Jun-24,4,AMOY,M,A,A,M,M,A,M,M,A,M,A,A,A,M,A,A,A,A,One adult of a pair with a young chick. All three walked towards veg inside the posting through LETE colony and were divebomed by terns throughout the observation
+NC,HI,None,,18-Jun-24,2,AMOY,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,One adult guarding chick that hid in vegetation prior to starting the observation at the point
+NC,HI,None,,18-Jun-24,1,AMOY,A,A,A,A,A,A,A,A,M,M,A,FL,OS,OS,OS,OS,OS,OS,"Chasing another AMOY territorially at 2:00, both flew out of sight"
+CT,Bushy Beach,None,B,19-Jun-24,2,PIPL,M,M,F,F,F,F,M,A,A,M,M,M,F,F,F,F,F,F,
+CT,Bushy Beach,None,B,19-Jun-24,3,PIPL,R,R,R,O,O,A,O,O,O,O,R,R,R,R,R,R,M,M,O = PREENING 
+CT,Bushy Beach,None,B,19-Jun-24,3,AMOY,FL,FL,FL,A,A,A,M,M,M,A,A,R,R,R,R,R,R,R,R = INC
+CT,Bushy Beach,None,B,19-Jun-24,4,PIPL,F,F,M,F,M,F,F,M,O,O,O,F,F,M,F,M,M,F,O = PREENING 
+CT,Sandy Point,None,B,19-Jun-24,6,PIPL,M,M,M,R,FL,A,A,M,A,A,A,A,A,R,A,A,A,A,P14 Female fighting with P10
+CT,Sandy Point,None,B,19-Jun-24,7,PIPL,R,R,M,F,F,F,F,F,R,M,R,R,M,R,R,R,R,R,
+CT,Sandy Point,None,B,19-Jun-24,7,AMOY,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+CT,Sandy Point,None,B,19-Jun-24,8,PIPL,M,R,F,R,M,R,M,R,M,M,F,R,M,M,R,R,M,M,
+CT,Sandy Point,None,B,19-Jun-24,8,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,M,R,R,R,R,R,
+CT,Sandy Point,None,B,19-Jun-24,8,SAND,M,F,F,F,F,R,M,M,R,R,R,R,R,R,R,R,R,R,Sat down
+CT,Sandy Point,None,B,19-Jun-24,8,SESA,M,F,M,F,F,F,M,M,M,F,M,A,A,R,M,F,F,F,Fighting with another individual
+GA,EBGC,Dog_leash,B,19-Jun-24,2,WIPL,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,
+CT,Long Beach,Walkers,B,20-Jun-24,6,PIPL,F,F,M,M,F,F,M,F,M,M,F,F,A,M,A,M,M,F,M PIPL (P12 F Inc. nest). A = bird moving towards me through timers survey - was only 5 m away when stopping to scope me out.
+CT,Long Beach,Walkers,B,20-Jun-24,5,PIPL,R,FL,A,M,A,A,M,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Territorial dispute w/ nearby PIPL
+CT,Long Beach,Walkers,B,20-Jun-24,4,PIPL,M,R,F,R,R,R,M,R,M,R,R,F,R,R,R,R,R,R,Solo PIPL
+CT,Long Beach,Walkers,B,20-Jun-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,Incubating nest
+CT,Long Beach,Walkers,B,20-Jun-24,3,PIPL,M,F,F,F,M,F,M,F,M,F,M,F,M,M,F,R,M,M,Fledged chick
+CT,Long Beach,Walkers,B,20-Jun-24,2,PIPL,M,F,F,M,M,M,M,R,M,M,R,M,R,M,M,A,M,M,Young chick - alert when parents were chasing off a COGR
+CT,Housatonic: Milford Point,Walkers,B,20-Jun-24,5,PIPL,R,R,R,R,R,A,A,M,M,M,OS,OS,OS,M,M,R,R,R,Incubating nest
+CT,Housatonic: Milford Point,Walkers,B,20-Jun-24,5,AMOY,Fl,Fl,Fl,Fl,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+CT,Housatonic: Milford Point,Walkers,B,20-Jun-24,6,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,A,A,A,M,Incubating nest
+CT,Housatonic: Milford Point,Walkers,B,20-Jun-24,6,AMOY,M,M,M,A,R,R,M,R,R,M,R,R,R,R,M,M,R,R,
+NY,Sunken,None,B,20-Jun-24,5,PIPL,F,R,F,M,M,R,FL,F,F,FL,F,F,F,F,F,F,F,M,by shore 
+SC,Harbor Island,Dog_leash,B,21-Jun-24,3,WIPL,R,R,R,R,R,R,R,M,M,M,M,M,R,M,FL,OS,OS,OS,There were other adult Wilson's in area and the female that was being observed fly away after being approached by a male. No other direct disturbance was observed. 
+NY,Jones,Walkers,B,21-Jun-24,11,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,Jones,Walkers,B,21-Jun-24,11,PIPL,M,M,M,M,R,R,R,R,R,R,R,M,M,M,M,M,M,M,female w/ 2 chicks
+NY,Jones,Walkers,B,21-Jun-24,1,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,in group of 3 foragining by water
+NY,Jones,Walkers,B,21-Jun-24,2,PIPL,F,F,F,F,F,M,M,M,A,A,A,A,A,A,A,A,A,A,male with 1 chick sitting next to drift wood
+NY,Jones,Walkers,B,21-Jun-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,on 2 eggs
+NY,Jones,Walkers,B,21-Jun-24,3,PIPL,F,M,M,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,"1 female, 2 chicks"
+NY,Jones,Walkers,B,21-Jun-24,4,PIPL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraginging in wrack line
+NY,Jones,Walkers,B,21-Jun-24,6,PIPL,F,F,F,F,F,F,F,F,F,F,F,R,R,R,R,R,R,R,near exclosure
+NY,Jones,Walkers,B,21-Jun-24,7,PIPL,F,R,R,R,M,M,M,R,M,M,R,R,R,R,R,R,R,R,sitting and moving down beach near fencing
+NY,Jones,Walkers,B,21-Jun-24,8,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,in fencing
+NY,Sunken,None,B,23-Jun-24,2,PIPL,F,F,F,F,F,F,F,A,A,M,M,M,A,A,A,A,A,A,person walked by plover family
+NY,Sunken,None,B,23-Jun-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,still incubating
+SC,Folly Beach Lighthouse Inlet,Walkers,B,24-Jun-24,1,PEEP,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,24-Jun-24,2,WIPL,A,A,A,A,A,A,M,M,A,A,A,A,A,A,A,A,A,A,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,24-Jun-24,3,WILL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,24-Jun-24,3,AMOY,OS,OS,OS,OS,OS,FL,R,R,R,M,M,F,F,F,F,F,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,24-Jun-24,4,LETE,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,FL,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,24-Jun-24,4,WILL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,FL,OS,OS,OS,OS,OS,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,24-Jun-24,4,PEEP,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+CT,Sandy Point,None,B,26-Jun-24,6,PIPL,F,R,M,M,M,R,M,F,M,M,R,F,F,M,M,M,R,R,Chick P14
+CT,Sandy Point,None,B,26-Jun-24,7,PIPL,R,R,M,R,R,M,R,R,R,R,R,R,R,R,R,R,R,R,Adult P1
+CT,Sandy Point,None,B,26-Jun-24,8,PIPL,OS,M,M,M,R,R,OS,OS,M,R,R,R,R,R,R,R,R,R,Swapped with mate to incubate (P5)
+CT,Sandy Point,None,B,26-Jun-24,8,AMOY,R,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,P3
+CT,Sandy Point,None,B,26-Jun-24,8,SAND,F,F,F,R,F,M,M,F,F,F,F,R,F,F,R,R,F,R,
+CT,Housatonic: Milford Point,Walkers,B,27-Jun-24,5,PIPL,R,R,R,R,R,R,O,R,M,R,R,R,R,R,R,R,R,R,O = Moving Shell; R = Incubating
+NY,Jones,Walkers,B,27-Jun-24,7,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,in wrack line
+NY,Jones,Walkers,B,27-Jun-24,8,AMOY,F,F,F,F,F,M,F,F,F,M,M,F,F,F,F,F,F,F,by water
+NY,Jones,Walkers,B,27-Jun-24,10,PIPL,F,F,F,F,F,R,M,m,F,F,F,F,F,F,F,F,F,F,in dunes
+NY,Jones,Walkers,B,27-Jun-24,11,AMOY,R,R,F,F,F,R,R,R,R,R,R,R,R,R,R,R,R,R,"by dunes with chick, behind fencing"
+NY,Jones,Walkers,B,27-Jun-24,1,PIPL,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,M,in fencing by grasses
+NY,Jones,Walkers,B,27-Jun-24,1,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,inside fencing
+NY,Jones,Walkers,B,27-Jun-24,3,PIPL,F,F,F,M,F,F,F,F,F,m,F,F,F,F,F,F,F,F,foraging by water
+NY,Jones,Walkers,B,27-Jun-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,on nest
+NY,Jones,Walkers,B,27-Jun-24,4,PIPL,M,M,M,R,R,M,R,M,M,M,M,R,R,R,R,R,R,R,moving down beach and roosting in wrack line
+NY,Jones,Walkers,B,27-Jun-24,4,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,by water
+NY,TOH,Dog_free,B,27-Jun-24,2,AMOY,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"Roosting with mate by dunes, Banded: Orange- NA3"
+NY,TOH,Dog_free,B,27-Jun-24,3,AMOY,M,R,R,R,R,M,M,R,R,R,R,R,R,R,R,R,R,M,"Roosting, Banded: Orange-NJH"
+NY,TOH,Dog_free,B,27-Jun-24,4,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Heard from dune
+NY,TOH,Dog_free,B,27-Jun-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"Roosting in fencing near dunes with mate and 2 juvenile, Banded: Orange- YJ7 "
+NY,TOH,Dog_free,B,27-Jun-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting in dunes
+NY,TOH,Dog_free,B,27-Jun-24,6,AMOY,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"Banded: Orange- NLY, Roosting with mate and 2 chicks"
+NY,TOH,Dog_free,B,27-Jun-24,6,PIPL,F,F,R,R,M,F,F,M,F,F,F,F,F,R,M,F,F,F,"Plane flew over at 2:10, foraging at surf"
+NY,TOH,Dog_free,B,27-Jun-24,7,AMOY,F,F,F,F,F,M,F,F,F,F,F,F,F,F,F,F,F,F,Foraging at surf
+NY,TOH,Dog_free,B,27-Jun-24,8,PIPL,F,F,F,F,M,R,F,M,F,F,M,F,M,M,M,F,F,M,Foraging with 3 chicks
+NY,TOH,Dog_free,B,27-Jun-24,8,AMOY,M,M,R,R,M,R,M,M,R,M,M,M,M,M,M,M,R,R,"Walking back to incubate nest, no band"
+NY,TOH,Dog_free,B,27-Jun-24,9,AMOY,R,R,R,R,R,R,R,R,R,R,FL,FL,R,R,R,R,R,R,"1st AMOY Roosting and Preening before flying OS, switched to 2nd AMOY at 2:10"
+NY,TOH,Dog_free,B,27-Jun-24,10,PIPL,R,R,R,R,R,M,M,R,R,R,R,R,R,F,R,F,R,M,"Lifeguard walking past at 1:00, Walking with and watching 4 chicks"
+NY,TOH,Dog_free,B,27-Jun-24,10,AMOY,R,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"Group of 3 ppl walked by at 0:20, Preening at water"
+NC,NWB,None,,27-Jun-24,1,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NC,NWB,None,,27-Jun-24,2,AMOY,R,R,R,R,R,A,A,A,A,A,A,A,R,R,R,R,R,R,
+NC,NWB,None,,27-Jun-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NC,HI,None,,27-Jun-24,1,AMOY,A,A,A,M,M,M,M,M,M,M,A,A,A,A,M,M,M,M,One adult guarding chick that hid in vegetation prior to starting the observation at the point
+NC,HI,None,,27-Jun-24,2,AMOY,M,A,A,A,A,M,A,A,A,A,A,A,A,A,A,A,M,M,
+NC,HI,None,,27-Jun-24,3,AMOY,M,M,M,A,A,M,A,A,M,M,A,M,A,M,M,M,M,M,
+NC,HI,None,,27-Jun-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Observed one adult sitting for the entire 3 minutes
+NC,HI,None,,27-Jun-24,4,AMOY,F,F,M,F,M,M,F,F,F,F,F,F,M,F,M,M,F,F,Observed one adult of a pair foraging
+SC,Harbor Island,Dog_leash,B,28-Jun-24,3,WIPL,M,F,F,F,F,F,F,F,M,M,M,M,M,A,M,OS,OS,OS,LOST SITE OF SUBJECT 
+SC,Harbor Island,Dog_leash,B,28-Jun-24,3,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,M,F,F,There were several SAND in non-breeding plumage
+CT,Bushy Beach,None,B,28-Jun-24,1,PIPL,M,M,M,A,A,R,R,R,R,O,O,O,A,O,O,O,O,O,O = Preening
+CT,Bushy Beach,None,B,28-Jun-24,2,PIPL,A,A,O,M,M,A,A,A,M,M,A,A,M,M,M,M,A,A,Great Black Gull close to nest area
+CT,Bushy Beach,None,B,28-Jun-24,3,PIPL,M,M,M,A,A,M,M,A,M,M,M,A,M,M,M,M,M,M,
+CT,Bushy Beach,None,B,28-Jun-24,3,AMOY,A,A,O,O,F,O,O,F,R,R,R,R,R,R,R,R,R,R,R = INC
+CT,Bushy Beach,None,B,28-Jun-24,4,PIPL,F,F,M,F,F,F,M,A,A,M,M,M,A,A,M,M,A,A,Brooding over 2 pre fledges 
+CT,Long Beach,Walkers,B,29-Jun-24,6,PIPL,R,M,M,OS,OS,OS,OS,OS,OS,R,R,R,R,R,M,M,R,M,OS = behind vegetation 
+CT,Long Beach,Walkers,B,29-Jun-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"PIPL inc, 2 ppl walking by 25m away @ 1:50-2:20"
+CT,Long Beach,Walkers,B,29-Jun-24,4,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,PIPL inc
+CT,Long Beach,Walkers,B,29-Jun-24,3,PIPL,R,R,R,R,O,O,O,O,O,O,O,R,O,O,O,O,O,O,JUV/Fledgling; O= Preening
+CT,Long Beach,Walkers,B,29-Jun-24,2,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,PF chick resting
+SC,Folly Beach Lighthouse Inlet,Walkers,B,1-Jul-24,1,WIPL,F,FL,OS,OS,OS,FL,FL,FL,F,F,F,F,F,F,F,FL,OS,OS,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,1-Jul-24,2,WILL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,1-Jul-24,4,LETE,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,FL,FL,OS,OS,"not a focal species, but still observed"
+NY,Sunken,None,B,2-Jul-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,sitting on nest 
+NC,HI,None,,3-Jul-24,2,AMOY,FL,A,M,M,A,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"One adult likely guarding a hidden chick, flew out of sight"
+NC,HI,None,,3-Jul-24,1,AMOY,A,A,M,A,A,A,A,A,M,A,A,A,A,A,A,A,A,A,One adult guarding a chick that was behind the dunes
+CT,Housatonic: Milford Point,Walkers,B,4-Jul-24,5,PIPL,R,M,M,R,M,F,R,M,F,M,R,F,M,R,R,R,R,R,
+CT,Housatonic: Milford Point,Walkers,B,4-Jul-24,5,AMOY,Fl,Fl,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+CT,Housatonic: Milford Point,Walkers,B,4-Jul-24,6,AMOY,Fl,R,R,R,R,M,R,R,R,R,R,R,R,M,R,R,R,R,
+CT,Housatonic: Milford Point,Walkers,B,4-Jul-24,6,PIPL,F,M,A,A,A,A,A,M,R,Fl,M,R,M,R,M,R,R,R,Alert due to Territorial Disputes
+CT,Housatonic: Milford Point,Walkers,B,4-Jul-24,6,SESA,M,F,F,F,F,F,F,F,F,F,F,R,Fl,Fl,R,R,R,M,Disturbed by 4 Fishermen dragging a wagon along the high tide line
+NC,HI,None,,5-Jul-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NC,HI,None,,5-Jul-24,2,AMOY,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NC,HI,None,,5-Jul-24,2,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+CT,Long Beach,Walkers,B,6-Jul-24,3,PIPL,O,O,O,O,R,A,R,R,R,R,R,R,R,A,A,O,O,O,AD MALE W/ 3 PF CHICKS; O = preening
+CT,Long Beach,Walkers,B,6-Jul-24,3,AMOY,M,M,M,M,R,R,M,F,F,F,F,M,M,F,F,F,F,F,
+CT,Long Beach,Walkers,B,6-Jul-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,M,R,R,M,M,
+CT,Long Beach,Walkers,B,6-Jul-24,4,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,PIPL INC
+CT,Long Beach,Walkers,B,6-Jul-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,A,R,R,R,R,R,R,R,PIPL INC
+CT,Long Beach,Walkers,B,6-Jul-24,6,PIPL,M,M,M,R,R,R,R,R,R,A,A,A,R,R,R,R,R,R,A = Locating chicks in vegetation
+CT,Bushy Beach,None,B,6-Jul-24,2,PIPL,F,F,F,A,A,A,A,M,M,A,A,F,A,A,M,M,A,A,
+CT,Bushy Beach,None,B,6-Jul-24,3,PIPL,A,A,A,M,A,A,M,M,M,A,M,A,A,A,A,A,A,A,
+CT,Bushy Beach,None,B,6-Jul-24,4,PIPL,F,F,F,F,F,F,M,A,A,A,F,F,F,F,F,F,F,M,
+CT,Bushy Beach,None,B,6-Jul-24,4,AMOY,F,F,F,F,F,F,F,F,F,A,F,F,F,FL,FL,FL,FL,FL,
+NY,Sunken,None,B,6-Jul-24,2,fl,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,flying around chirping 
+NY,TOH,Dog_free,B,6-Jul-24,1,AMOY,FL,R,R,F,F,F,F,F,F,F,F,A,FL,FL,OS,OS,OS,OS,"Man running by at 2:00, flew behind dunes"
+NY,TOH,Dog_free,B,6-Jul-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Preening
+NY,TOH,Dog_free,B,6-Jul-24,3,AMOY,R,R,R,R,R,M,M,R,M,M,M,M,M,R,M,M,F,F,Roosting and walking with 2 chicks by dunes
+NY,TOH,Dog_free,B,6-Jul-24,4,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Heard in dune
+NY,TOH,Dog_free,B,6-Jul-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,Preening in pool of water
+NY,TOH,Dog_free,B,6-Jul-24,5,AMOY,F,F,M,R,R,F,M,M,F,R,M,F,F,M,F,F,M,F,Woman walked by at 0:30
+NY,TOH,Dog_free,B,6-Jul-24,5,PIPL,F,F,F,F,F,F,M,F,F,F,F,F,M,M,F,F,F,F,Foraging at surf
+NY,TOH,Dog_free,B,6-Jul-24,6,AMOY,M,M,M,M,F,M,F,M,R,M,M,R,F,F,M,R,M,M,Walking and foraging at wrack line
+NY,TOH,Dog_free,B,6-Jul-24,6,PIPL,F,F,F,F,F,M,M,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,Foraging at surf and then flew behind dunes
+NY,TOH,Dog_free,B,6-Jul-24,7,AMOY,F,F,M,M,F,F,M,M,F,F,F,F,F,F,M,M,M,M,Foraging and bringing food to chick
+NY,TOH,Dog_free,B,6-Jul-24,8,AMOY,R,R,R,M,M,R,M,M,R,R,R,R,R,R,R,R,R,M,"Lady walked by at 1:10, Roosting at wrack line"
+NY,TOH,Dog_free,B,6-Jul-24,9,AMOY,F,F,M,F,F,F,F,F,M,R,R,R,M,R,R,M,R,R,"Banded: Orange-YF6, Foraging with mate and 3 juveniles"
+NY,TOH,Dog_free,B,6-Jul-24,10,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,R,R,Preening
+CT,Sandy Point,None,B,7-Jul-24,6,PIPL,F,F,R,F,F,R,M,M,R,M,M,F,FL,OS,FL,M,FL,R,"Initial P2 fledge flushed, different fledge"
+CT,Sandy Point,None,B,7-Jul-24,7,PIPL,F,M,F,F,M,M,R,OS,R,M,OS,OS,M,F,M,F,F,F,P13 Fledge --> P14 Chick
+CT,Sandy Point,None,B,7-Jul-24,7,SESA,F,M,M,M,M,FL,OS,F,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,"Group flushed by volunteer, flew to tip"
+CT,Sandy Point,None,B,7-Jul-24,8,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,P5 Female incubating
+CT,Sandy Point,None,B,7-Jul-24,8,AMOY,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,R,P3 Loafing
+NY,Jones,Walkers,B,7-Jul-24,1,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting
+NY,Jones,Walkers,B,7-Jul-24,1,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting
+NY,Jones,Walkers,B,7-Jul-24,2,PIPL,F,F,F,M,M,M,F,M,M,F,F,M,R,M,F,M,M,F,Foraging with chicks
+NY,Jones,Walkers,B,7-Jul-24,3,PIPL,F,F,M,F,M,F,F,M,M,F,F,F,F,M,M,F,R,R,Foraging at wrack line
+NY,Jones,Walkers,B,7-Jul-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting and preening
+NY,Jones,Walkers,B,7-Jul-24,4,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting and watching juvenile forage
+NY,Jones,Walkers,B,7-Jul-24,4,AMOY,R,M,M,M,F,F,F,M,F,F,F,M,F,F,F,F,F,F,Foraging at surf
+NY,Jones,Walkers,B,7-Jul-24,5,AMOY,F,F,M,R,M,M,M,R,R,R,M,M,R,M,R,R,R,R,Foraging then went to roost closer to dunes
+NY,Jones,Walkers,B,7-Jul-24,5,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Preening
+NY,Jones,Walkers,B,7-Jul-24,6,PIPL,F,M,M,M,F,F,R,R,R,F,M,F,M,M,F,F,R,M,Foraging with mate and juvenile
+NY,Jones,Walkers,B,7-Jul-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting in vegetation
+NY,Jones,Walkers,B,7-Jul-24,9,PIPL,R,M,R,R,R,M,R,R,R,M,M,R,M,F,F,R,R,F,Walking and foraging with 2 chicks
+NY,Jones,Walkers,B,7-Jul-24,11,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Preening with mate
+NC,NWB,None,,7-Jul-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,A pair. One of the adults has fishing line on its foot.
+NC,NWB,None,,7-Jul-24,4,WIPL,R,R,R,R,R,R,R,R,R,R,M,M,R,R,R,R,R,R,"Preened, then walked around to sit under a bush."
+SC,Folly Beach Lighthouse Inlet,Walkers,B,8-Jul-24,2,AMOY,M,M,M,A,A,R,R,R,R,R,R,R,R,R,R,R,R,R,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,8-Jul-24,3,WIPL,R,R,R,R,R,R,R,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,8-Jul-24,4,LETE,FL,FL,F,FL,F,F,FL,FL,FL,FL,F,FL,OS,OS,OS,OS,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,8-Jul-24,4,PEEP,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+NY,Sunken,None,B,9-Jul-24,5,r,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,incubating nest
+CT,Bushy Beach,None,B,10-Jul-24,2,PIPL,M,M,M,A,A,M,M,F,F,M,M,M,A,M,M,OS,OS,OS,Ran into veg out of sight 
+CT,Bushy Beach,None,B,10-Jul-24,3,PIPL,F,F,M,F,F,F,A,A,A,F,A,A,A,F,A,A,A,A,Black back gull eating fish near nest area 
+CT,Bushy Beach,None,B,10-Jul-24,3,AMOY,A,A,A,M,M,M,FL,FL,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,"Flushed out of area by people, moved to marsh side "
+CT,Bushy Beach,None,B,10-Jul-24,4,PIPL,F,F,F,M,F,M,F,M,F,F,M,M,F,F,F,F,F,F,
+NY,TOH,Dog_free,B,10-Jul-24,1,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting near dunes
+NY,TOH,Dog_free,B,10-Jul-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting and preening
+NY,TOH,Dog_free,B,10-Jul-24,3,AMOY,M,M,M,M,M,R,R,M,M,M,R,R,M,M,R,R,R,R,Walking with mate and 2 chicks
+NY,TOH,Dog_free,B,10-Jul-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting near wrack line
+NY,TOH,Dog_free,B,10-Jul-24,4,PIPL,M,M,M,M,M,M,M,R,M,M,M,R,R,R,R,R,M,M,Walking towards dunes and roosting
+NY,TOH,Dog_free,B,10-Jul-24,5,AMOY,R,M,M,M,M,M,R,R,R,R,R,R,M,A,R,R,R,R,Territorial with other AMOY at 2:20
+NY,TOH,Dog_free,B,10-Jul-24,6,PIPL,A,A,R,R,R,R,M,M,M,A,A,M,M,M,F,F,M,F,Territorial with other AMOY at 0:10-0:20 and 0:40-0:50
+NY,TOH,Dog_free,B,10-Jul-24,6,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting with 2 chicks
+NY,TOH,Dog_free,B,10-Jul-24,7,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Heard PIPL out of sight in dunes
+NY,TOH,Dog_free,B,10-Jul-24,7,AMOY,F,F,F,F,F,F,F,F,M,F,F,M,F,F,M,F,F,F,Foraging at surf
+NY,TOH,Dog_free,B,10-Jul-24,8,AMOY,R,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,Roosting with mate and 3 chicks
+NY,TOH,Dog_free,B,10-Jul-24,9,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting with 3 juveniles
+NY,TOH,Dog_free,B,10-Jul-24,9,PIPL,M,M,M,M,M,M,M,R,R,R,R,R,M,M,M,M,M,M,Walking towards dunes
+NY,TOH,Dog_free,B,10-Jul-24,10,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting in tire track
+NY,TOH,Dog_free,B,10-Jul-24,10,PIPL,R,M,M,R,R,R,R,R,M,M,FL,FL,OS,OS,OS,OS,OS,OS,Roosting/walking and then flew over dune
+NY,Far Rockaway,None,,11-Jul-24,2,PIPL,A,M,A,A,A,A,M,M,A,A,M,OS,OS,OS,OS,OS,OS,OS,went behind dune with fledge sized chick
+NY,Far Rockaway,None,,11-Jul-24,2,AMOY,M,F,M,M,M,R,R,R,R,R,R,R,R,R,R,R,M,M,with mate and two chicks
+NY,Far Rockaway,None,,11-Jul-24,1,AMOY,A,R,M,M,M,M,R,A,FL,FL,A,M,M,M,FL,A,FL,FL,
+NY,Arverne,None,,11-Jul-24,1,PIPL,A,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,A,M,plover fledge
+NY,Arverne,None,,11-Jul-24,2,PIPL,M,M,M,M,M,F,M,M,M,M,R,R,R,R,R,R,R,R,
+NY,Arverne,None,,11-Jul-24,2,AMOY,M,A,A,R,R,R,M,R,M,R,R,R,R,R,R,R,R,R,
+NY,Arverne,None,,11-Jul-24,3,PIPL,M,M,M,M,M,M,F,M,M,M,R,R,R,R,R,R,R,R,
+NY,Arverne,None,,11-Jul-24,4,AMOY,M,A,A,A,A,A,M,M,M,R,M,M,F,M,FL,M,F,F,
+SC,Harbor Island,Dog_leash,B,12-Jul-24,3,PIPL,R,F,F,F,R,R,F,R,F,F,R,F,R,R,M,R,R,R,
+SC,Harbor Island,Dog_leash,B,12-Jul-24,3,WIPL,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,
+SC,Harbor Island,Dog_leash,B,12-Jul-24,3,SAND,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,lost site of the SAND  before we could do observation
+CT,Housatonic: Milford Point,Walkers,B,12-Jul-24,5,AMOY,F,M,M,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+CT,Housatonic: Milford Point,Walkers,B,12-Jul-24,6,PIPL,M,F,A,F,A,A,R,M,M,R,M,M,M,M,M,R,M,R,
+CT,Housatonic: Milford Point,Walkers,B,12-Jul-24,6,AMOY,F,M,F,M,P,M,M,M,M,M,M,M,M,M,M,M,F,M,
+CT,Long Beach,Walkers,B,12-Jul-24,3,PIPL,O,O,O,O,R,O,O,O,O,O,O,R,O,O,O,A,O,O,O = Preening
+CT,Long Beach,Walkers,B,12-Jul-24,4,PIPL,F,M,F,A,M,A,M,M,M,A,FL,FL,OS , OS ,OS ,OS,OS ,OS ,Moved towards my location and flew off when it was ~5 m away.
+CT,Long Beach,Walkers,B,12-Jul-24,5,PIPL,R,R,R,R,A,R,R,R,R,O,O,O,A,R,R,R,R,R,O = Preening; Adult alert due to chick movement
+NY,Jones,Walkers,B,12-Jul-24,11,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,pair in fencing
+NY,Jones,Walkers,B,12-Jul-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,in fencing
+NY,Jones,Walkers,B,12-Jul-24,2,PIPL,F,F,F,F,M,M,M,M,M,M,M,M,R,R,R,R,R,R,in wrack line
+NY,Jones,Walkers,B,12-Jul-24,2,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+NY,Jones,Walkers,B,12-Jul-24,2,sea,F,F,F,F,F,M,F,F,F,M,M,F,F,F,FL,OS,OS,OS,
+NY,Jones,Walkers,B,12-Jul-24,4,PIPL,F,F,F,F,F,F,F,F,F,F,M,F,F,F,F,F,F,F,exclosure near
+NY,Jones,Walkers,B,12-Jul-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,on wrack line
+NY,Jones,Walkers,B,12-Jul-24,6,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting by water
+NY,Jones,Walkers,B,12-Jul-24,6,PIPL,M,M,M,M,M,F,A,A,F,M,M,F,F,F,F,F,F,F,running down wrack line foraging
+NC,HI,None,,14-Jul-24,2,AMOY,A,A,A,M,M,A,M,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"One adult likely guarding chick (not seen), moved around a bit and then flew behind dunes"
+NC,HI,None,,14-Jul-24,5,SAND,A,A,M,M,F,F,F,F,M,M,M,A,F,F,M,F,M,F,
+CT,Sandy Point,None,B,15-Jul-24,4,AMOY,M,F,F,R,M,M,R,F,R,M,F,M,F,F,R,R,F,M,
+CT,Sandy Point,None,B,15-Jul-24,5,PIPL,M,M,R,M,F,F,R,F,R,M,M,R,R,F,F,F,F,R,P2/P4 Fledge
+CT,Sandy Point,None,B,15-Jul-24,6,PIPL,M,M,M,M,OS,OS,F,R,M,M,M,R,FL,OS,OS,OS,OS,OS,"P14 Fledge, flew off to MS"
+CT,Sandy Point,None,B,15-Jul-24,7,PIPL,M,F,M,M,R,R,F,M,F,R,M,F,F,M,M,M,F,M,P13 chick
+CT,Sandy Point,None,B,15-Jul-24,8,PIPL,F,R,F,M,F,M,M,M,R,R,R,R,R,R,R,R,R,R,GF7J2 brooding chick
+CT,Sandy Point,None,B,15-Jul-24,8,AMOY,M,M,M,F,F,F,F,M,F,M,M,M,F,M,F,F,M,M,P3
+CT,Sandy Point,None,B,15-Jul-24,8,SAND,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,Preening
+CT,Sandy Point,None,B,15-Jul-24,8,SESA,F,F,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,Sunken,None,B,15-Jul-24,5,r,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,incubating nest 
+NY,Jones,Walkers,B,16-Jul-24,1,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,on rocks 
+NY,Jones,Walkers,B,16-Jul-24,1,SAND,F,F,F,F,F,F,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+NY,Jones,Walkers,B,16-Jul-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,in fencing 
+NY,Jones,Walkers,B,16-Jul-24,2,SAND,M,F,F,F,F,F,F,M,F,F,F,F,M,F,F,F,F,F,by water
+NY,Jones,Walkers,B,16-Jul-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,on beach in group
+NY,Jones,Walkers,B,16-Jul-24,3,PIPL,F,F,F,F,F,F,F,F,F,F,F,M,F,F,F,F,F,F,by water
+NY,Jones,Walkers,B,16-Jul-24,9,AMOY,R,R,R,F,F,F,M,R,R,R,R,R,R,R,R,R,R,R,in wrack line
+NY,Jones,Walkers,B,16-Jul-24,7,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+NY,Jones,Walkers,B,16-Jul-24,6,sesa,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,by water
+CT,Housatonic: Milford Point,Walkers,B,18-Jul-24,5,PIPL,R,F,F,F,R,R,R,F,M,M,F,R,F,F,F,F,A,M,
+CT,Housatonic: Milford Point,Walkers,B,18-Jul-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+CT,Housatonic: Milford Point,Walkers,B,18-Jul-24,6,PIPL,R,R,R,R,R,M,F,R,F,F,F,F,F,O,M,M,R,M,O = Feather ruffling
+SC,Folly Beach Lighthouse Inlet,Walkers,B,19-Jul-24,1,WIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,19-Jul-24,1,AMOY,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,19-Jul-24,3,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,unable to complete full survey due to weather-did not do point 4
+SC,Harbor Island,Dog_leash,B,19-Jul-24,3,WIPL,F,F,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,AMOYS FLEW OVER HEAD AND DISAPPEARED
+CT,Bushy Beach,None,B,19-Jul-24,2,PIPL,A,A,M,M,M,A,M,M,M,M,A,M,M,A,A,M,M,M,Fishing boat close to shore feeding seaguls scraps
+CT,Bushy Beach,None,B,19-Jul-24,3,PIPL,A,A,A,A,A,A,A,M,A,A,A,A,A,M,A,A,A,A,Male brooding over foraging chick
+CT,Bushy Beach,None,B,19-Jul-24,3,AMOY,A,A,A,F,F,F,F,A,M,A,A,A,A,M,M,M,M,M,
+CT,Long Beach,Walkers,B,19-Jul-24,4,PIPL,M,M,M,M,F,R,F,M,M,F,F,M,M,R,R,M,OS,F,PF CHICK
+CT,Long Beach,Walkers,B,19-Jul-24,5,PIPL,R,F,F,M,M,F,M,R,M,F,F,M,M,M,M,F,F,M,PF CHICK
+NY,TOH,Dog_free,B,19-Jul-24,4,AMOY,M,OS,OS,OS,OS,OS,OS,OS,A,A,A,M,A,A,A,M,A,M,AMOY moved closer to water behind but vocalized 
+NY,TOH,Dog_free,B,19-Jul-24,5,AMOY,A,A,D,A,A,D,A,A,A,A,F,A,A,A,M,M,R,R,
+NY,TOH,Dog_free,B,19-Jul-24,7,AMOY,M,F,F,F,A,M,M,A,F,F,F,F,M,A,F,F,F,M,AMOY family
+NY,TOH,Dog_free,B,19-Jul-24,8,AMOY,F,F,F,F,F,F,M,F,M,F,A,M,F,F,F,F,F,A,
+NY,TOH,Dog_free,B,19-Jul-24,9,AMOY,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,AMOY flew to water's edge during survey.
+NY,TOH,Dog_free,B,19-Jul-24,10,AMOY,A,A,R,A,A,A,A,A,A,A,R,R,R,R,R,R,R,R,
+NY,TOH,Dog_free,B,19-Jul-24,3,AMOY,A,A,A,A,A,A,A,A,D,R,R,R,R,R,R,R,R,R,
+GA,TBCC,Walkers,B,19-Jul-24,1,SAND,F,F,M,F,F,M,F,F,F,M,M,F,M,F,M,M,F,F,SAND 2.
+GA,FPCC,None,B,19-Jul-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"AMOYs were resting during much of the survey. However, a fast-moving pilot boat pushed a big wake on the shoreline, causing the shorebirds to flush and/or shift positions along the beach; most returned. Towards the end of the survey, an ATV patrolling the beach area, caused the shorebirds to flush; most AMOY departed."
+NC,HI,None,,20-Jul-24,4,SAND,M,F,F,F,M,F,M,F,F,M,M,A,M,M,A,F,F,M,
+NC,HI,None,,20-Jul-24,5,SAND,F,F,A,F,F,M,F,M,F,F,F,F,M,A,F,F,F,F,
+CT,Sandy Point,None,B,21-Jul-24,4,SAND,M,M,F,M,F,F,M,M,M,F,M,M,F,M,F,M,M,M,
+CT,Sandy Point,None,B,21-Jul-24,6,SAND,A,A,A,A,A,A,A,A,A,FL,M,M,M,F,F,M,F,M,A = Running from walkers
+CT,Sandy Point,None,B,21-Jul-24,7,PIPL,M,F,M,R,A,R,M,R,M,M,F,F,F,M,M,F,R,M,"P3 Chick, A = Hid while AD chased gull"
+CT,Sandy Point,None,B,21-Jul-24,7,SAND,M,M,F,M,F,F,M,M,M,A,OS,OS,OS,OS,OS,OS,OS,OS,A = Flushed by fishermen
+CT,Sandy Point,None,B,21-Jul-24,8,PIPL,R,R,M,R,R,O,O,O,O,F,M,O,O,O,O,O,O,O,"P5 chick, O = PREENING"
+CT,Sandy Point,None,B,21-Jul-24,8,AMOY,R,R,R,R,R,R,R,R,R,R,R,M,A,A,R,R,R,R,A = Vocal about something
+CT,Sandy Point,None,B,21-Jul-24,8,SESA,F,O,O,O,M,M,F,M,O,O,R,R,M,R,O,R,M,R,O = BATHING/PREENING
+NY,Jones,Walkers,B,22-Jul-24,1,AMOY,M,M,M,R,R,R,R,R,R,R,M,M,M,M,M,R,R,R,Roosting and then preening and then walking to roost on jetty
+NY,Jones,Walkers,B,22-Jul-24,1,SESA,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting and vocalizing on the jetty
+NY,Jones,Walkers,B,22-Jul-24,1,PIPL,M,M,M,R,R,M,M,M,F,M,F,F,M,M,R,M,R,M,Walking and roosting in dunes
+NY,Jones,Walkers,B,22-Jul-24,2,SESA,F,F,F,F,M,F,M,M,F,F,M,F,F,F,M,F,F,F,Foraging at surf
+NY,Jones,Walkers,B,22-Jul-24,3,AMOY,M,M,M,M,M,M,M,M,M,M,M,M,R,R,R,R,R,R,"1st AMOY walked behind dunes, switched to 2nd AMOY at 2:10, loafing"
+NY,Jones,Walkers,B,22-Jul-24,3,PIPL,M,M,M,M,M,M,M,M,R,M,R,M,R,R,M,M,M,M,Walking from water to dunes
+NY,Jones,Walkers,B,22-Jul-24,3,SESA,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting in a huddle near wrack line
+NY,Jones,Walkers,B,22-Jul-24,4,SESA,M,F,M,M,M,F,F,M,F,F,M,F,M,F,F,F,M,F,Foraging at surf
+NY,Jones,Walkers,B,22-Jul-24,4,AMOY,M,M,M,M,M,M,M,M,M,R,R,R,R,R,R,R,M,M,Walking with mate and preening
+NY,Jones,Walkers,B,22-Jul-24,5,SESA,F,F,FL,F,F,M,M,M,F,F,FL,F,M,F,F,F,M,F,Foraging at surf
+NY,Jones,Walkers,B,22-Jul-24,5,AMOY,R,M,M,M,M,M,M,M,M,M,M,R,R,R,R,R,R,R,Walking then preening
+NY,Jones,Walkers,B,22-Jul-24,6,SESA,F,M,F,F,F,F,F,F,F,M,M,F,F,M,M,F,F,F,Foraging at surf
+NY,Jones,Walkers,B,22-Jul-24,7,SESA,F,M,F,M,F,F,F,M,F,F,F,F,M,M,F,M,M,F,Foraging at surf
+NY,Jones,Walkers,B,22-Jul-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting near wrack line
+NY,Jones,Walkers,B,22-Jul-24,8,SESA,F,M,F,F,M,F,F,M,F,F,R,F,F,F,FL,FL,FL,F,Foraging at surf
+NY,Jones,Walkers,B,22-Jul-24,9,SESA,F,F,F,F,M,M,F,F,M,M,F,F,M,F,F,M,F,F,Foraging at surf
+NY,Jones,Walkers,B,22-Jul-24,10,SESA,F,F,M,F,F,F,F,F,F,F,F,F,F,FL,F,F,F,M,Foraging at surf
+NY,Jones,Walkers,B,22-Jul-24,10,AMOY,F,F,F,M,M,F,M,M,M,M,M,M,M,M,M,M,M,M,Foraging and then walking from surf to fencing
+NY,Jones,Walkers,B,22-Jul-24,11,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting near dunes
+SC,Folly Beach Lighthouse Inlet,Walkers,B,23-Jul-24,1,WIPL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,23-Jul-24,1,SEPL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,23-Jul-24,1,WILL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,23-Jul-24,1,PEEP,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,23-Jul-24,2,PEEP,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,23-Jul-24,2,AMOY,R,R,R,F,F,F,F,F,F,R,R,R,R,R,R,OS,OS,OS,at 2:50 Osprey flushed all birds
+SC,Folly Beach Lighthouse Inlet,Walkers,B,23-Jul-24,2,PIPL,F,M,M,F,F,F,R,F,F,F,F,M,R,F,F,F,OS,OS,at 2:50 Osprey flushed all birds
+SC,Folly Beach Lighthouse Inlet,Walkers,B,23-Jul-24,4,PEEP,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+CT,Sandy Point,None,B,25-Jul-24,4,PIPL,M,M,M,F,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,P2/P14 FL (Possibly)
+CT,Sandy Point,None,B,25-Jul-24,5,PIPL,M,M,F,F,M,R,R,R,M,R,F,M,R,F,F,F,F,M,FL
+CT,Sandy Point,None,B,25-Jul-24,6,PIPL,R,M,M,M,F,R,M,R,F,M,M,M,M,R,F,R,R,O,"P5 Male, O = PREENING"
+CT,Sandy Point,None,B,25-Jul-24,7,PIPL,F,M,M,M,R,R,M,M,M,F,R,M,F,M,M,R,M,M,P3 Chick
+CT,Sandy Point,None,B,25-Jul-24,7,SAND,F,M,M,F,F,M,F,F,F,F,F,M,M,M,F,M,F,F,
+CT,Sandy Point,None,B,25-Jul-24,8,PIPL,M,F,M,F,R,F,M,M,M,M,R,F,M,R,R,M,M,M,P5 Chick
+CT,Sandy Point,None,B,25-Jul-24,8,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,P3
+CT,Sandy Point,None,B,25-Jul-24,8,SAND,M,M,M,M,M,F,F,F,M,F,F,M,M,M,M,M,M,M,
+CT,Sandy Point,None,B,25-Jul-24,8,SESA,F,M,F,M,M,F,F,F,M,M,M,F,M,M,R,M,M,A,A = Chased by another SESA
+CT,Housatonic: Milford Shoreline,Walkers,B,25-Jul-24,7,PIPL,F,F,F,F,F,M,F,F,F,F,M,F,F,F,F,F,F,R,(Recently fledged bird)
+CT,Housatonic: Milford Point,Walkers,B,25-Jul-24,5,PIPL,O,R,R,R,R,M,A,M,A,A,R,A,A,M,R,R,R,A,O = Vocalization
+CT,Housatonic: Milford Point,Walkers,B,25-Jul-24,6,SAND,M,F,F,M,O,O,O,R,R,R,R,R,R,M,M,O,O,O,O = Preening
+CT,Housatonic: Milford Point,Walkers,B,25-Jul-24,6,PIPL,F,R,M,F,M,R,R,M,M,M,F,F,M,M,O,O,O,O,O = Preening
+NY,TOH,Dog_free,B,25-Jul-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting near dunes
+NY,TOH,Dog_free,B,25-Jul-24,3,AMOY,M,M,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting with 1 juvenile
+NY,TOH,Dog_free,B,25-Jul-24,3,SESA,M,M,M,F,F,F,FL,M,F,F,FL,M,M,F,F,F,M,F,Foraging at surf
+NY,TOH,Dog_free,B,25-Jul-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting and preening
+NY,TOH,Dog_free,B,25-Jul-24,4,SESA,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting in a huddle near wrack line
+NY,TOH,Dog_free,B,25-Jul-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting near wrack line
+NY,TOH,Dog_free,B,25-Jul-24,5,SESA,F,F,F,F,M,F,F,F,M,F,F,M,M,FL,M,M,M,R,"Foraging at surf, lifeguard ran by at 2:10"
+NY,TOH,Dog_free,B,25-Jul-24,6,AMOY,R,R,R,R,R,M,M,R,M,R,R,R,R,M,R,R,R,R,Roosting and walking with mate and 2 juvenile. Banded: Orange- YLR
+NY,TOH,Dog_free,B,25-Jul-24,6,SESA,F,F,F,F,F,F,F,M,M,F,F,F,M,F,F,F,F,M,Foraging at surf
+NY,TOH,Dog_free,B,25-Jul-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting in tire track
+NY,TOH,Dog_free,B,25-Jul-24,7,SESA,R,R,M,F,F,M,M,M,F,M,F,F,M,F,F,F,M,M,Foraging at surf
+NY,TOH,Dog_free,B,25-Jul-24,8,AMOY,R,R,R,R,M,M,R,R,R,R,M,R,R,R,R,R,R,R,"Roosting near dunes, vocal the whole time"
+NY,TOH,Dog_free,B,25-Jul-24,8,PIPL,R,R,M,M,FL,FL,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Flew out of sight/over dune with mate
+NY,TOH,Dog_free,B,25-Jul-24,9,AMOY,M,M,M,M,M,M,M,M,M,R,M,M,M,R,R,R,M,M,Walking and roosting from water towards dunes
+NY,TOH,Dog_free,B,25-Jul-24,9,SAND,F,F,F,F,F,F,M,M,F,F,M,F,M,F,F,F,M,R,Foraging at surf
+NY,TOH,Dog_free,B,25-Jul-24,10,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting and preening
+CT,Long Beach,Walkers,B,28-Jul-24,6,PIPL,R,R,R,R,R,R,A,R,R,R,R,R,R,R,R,R,R,R,PF CHICK
+CT,Long Beach,Walkers,B,28-Jul-24,5,AMOY,R,R,R,R,R,R,M,M,M,A,A,R,R,R,R,R,R,A,Y_N52
+CT,Long Beach,Walkers,B,28-Jul-24,5,PIPL,R,R,R,A,A,R,O,A,O,A,O,O,R,O,R,O,O,A,O = PREENING
+CT,Long Beach,Walkers,B,28-Jul-24,4,PIPL,R,R,R,R,R,R,R,R,R,R,R,A,M,A,M,M,F,M,"INC, SWITCH OFF"
+CT,Long Beach,Walkers,B,28-Jul-24,3,PIPL,F,M,M,M,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,FLEDGE
+SC,Harbor Island,Dog_leash,B,30-Jul-24,3,SAND,M,M,M,F,M,M,F,M,F,M,M,F,F,M,M,F,M,F,
+SC,Harbor Island,Dog_leash,B,30-Jul-24,3,PIPL,R,M,M,R,F,R,R,F,R,R,R,F,M,M,F,M,R,M,
+SC,Harbor Island,Dog_leash,B,30-Jul-24,3,AMOY,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Both of the birds flew off shortly after they landed in survey area. There were two people walking within approx 50 meters of where they landed
+SC,Folly Beach Lighthouse Inlet,Walkers,B,31-Jul-24,1,WIPL,M,M,M,M,R,R,R,M,R,M,M,M,M,M,R,M,A,A,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,31-Jul-24,1,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,31-Jul-24,3,PEEP,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,31-Jul-24,3,SEPL,R,R,R,R,R,R,R,R,R,R,R,A,A,A,A,A,OS,OS,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,31-Jul-24,4,LETE,FL,F,F,FL,FL,FL,F,F,F,F,F,FL,FL,OS,OS,OS,FL,FL,"not a focal species, but still observed. missed the following week of data collection due to tropical storm"
+CT,Housatonic: Milford Shoreline,Walkers,B,31-Jul-24,8,SAND,M,M,M,M,M,M,M,M,M,R,R,R,FL,FL,M,R,M,M,
+CT,Housatonic: Milford Shoreline,Walkers,B,31-Jul-24,7,SESA,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,R,Sheltering from wind
+CT,Housatonic: Milford Point,Walkers,B,31-Jul-24,5,PIPL,M,R,F,F,M,M,F,F,M,R,M,F,R,M,R,F,F,M,PIPL FL (Likely P16)
+CT,Housatonic: Milford Point,Walkers,B,31-Jul-24,5,AMOY,M,F,F,F,F,M,R,F,O,M,F,R,R,R,F,F,F,F,"O = Preening, N29"
+CT,Housatonic: Milford Point,Walkers,B,31-Jul-24,5,SAND,O,O,R,FL,OS,OS,OS,F,M,M,M,M,F,R,M,F,O,F,"O = Preening, 1st SAND flushed"
+CT,Housatonic: Milford Point,Walkers,B,31-Jul-24,5,SESA,M,F,F,M,F,M,M,M,F,F,M,F,M,F,F,F,M,R,
+CT,Housatonic: Milford Point,Walkers,B,31-Jul-24,6,PIPL,M,R,F,F,F,F,M,F,R,F,F,F,R,F,R,M,M,F,PIPL FL
+CT,Housatonic: Milford Point,Walkers,B,31-Jul-24,6,AMOY,F,M,M,M,M,F,O,M,M,M,M,F,F,R,M,M,M,R,O=Preening
+CT,Housatonic: Milford Point,Walkers,B,31-Jul-24,6,SAND,M,M,M,M,FL,OS,F,F,F,F,R,R,O,O,O,O,O,O,O=Preening
+CT,Housatonic: Milford Point,Walkers,B,31-Jul-24,6,SESA,F,M,F,F,M,M,M,M,F,F,R,R,M,M,F,F,M,F,
+NY,Sunken,None,B,31-Jul-24,2,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,flew away before able to take behavioral data
+NY,TOH,Dog_free,B,1-Aug-24,1,SAND,M,M,F,F,M,M,M,M,R,M,R,M,F,F,M,M,F,F,Foraging at surf
+NY,TOH,Dog_free,B,1-Aug-24,2,SAND,F,F,M,M,FL,M,M,F,M,M,F,M,F,F,M,F,M,M,"3 ppl walking by at 0:30, Lady walking by at 1:30, stole food from other sanderling at 2:40"
+NY,TOH,Dog_free,B,1-Aug-24,2,AMOY,M,R,M,M,R,M,R,M,M,M,M,M,R,M,R,M,M,M,"Walked to water and then back to mate by dunes, banded: orange-NA3"
+NY,TOH,Dog_free,B,1-Aug-24,3,AMOY,F,M,M,M,M,R,R,R,R,M,M,M,R,M,M,M,F,F,"Foraging at surf, 2 ppl walked by at 1:10"
+NY,TOH,Dog_free,B,1-Aug-24,3,SAND,F,F,F,F,M,F,M,F,R,M,FL,FL,FL,FL,FL,FL,M,M,Whole flock flew up at 1:50
+NY,TOH,Dog_free,B,1-Aug-24,3,PIPL,F,M,F,F,M,M,M,F,M,F,M,F,M,M,F,F,M,F,"Lone PIPL fledgling foraging at surf with sanderlings, semipalmated plovers, and ruddy turnstone"
+NY,TOH,Dog_free,B,1-Aug-24,4,AMOY,F,F,F,F,F,M,F,F,F,F,F,F,M,M,F,M,F,F,"Foraging at surf, 2 ppl ran by at 1:50"
+NY,TOH,Dog_free,B,1-Aug-24,4,SAND,M,F,M,M,F,M,M,F,F,M,M,M,M,M,FL,M,FL,F,"Foraging at surf, lady walking by at 1:40, 2nd lady walking by at 2:40"
+NY,TOH,Dog_free,B,1-Aug-24,5,AMOY,M,F,M,F,F,M,F,F,M,F,F,F,F,M,M,M,F,F,Foraging at surf
+NY,TOH,Dog_free,B,1-Aug-24,5,SAND,F,M,F,F,M,F,F,M,F,M,F,M,M,M,F,M,F,M,Foraging at surf
+NY,TOH,Dog_free,B,1-Aug-24,6,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,M,"Foraging at surf with mate and juvenile, banded: Orange- NLT"
+NY,TOH,Dog_free,B,1-Aug-24,6,SAND,M,F,F,F,F,F,F,F,F,M,F,F,F,F,F,F,F,M,Foraging at surf
+NY,TOH,Dog_free,B,1-Aug-24,7,AMOY,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,Roosting in tire track
+NY,TOH,Dog_free,B,1-Aug-24,7,SAND,M,F,F,F,F,F,F,M,F,M,F,M,F,M,F,F,M,F,Foraging at surf
+NY,TOH,Dog_free,B,1-Aug-24,8,AMOY,M,M,R,R,M,M,M,R,R,R,R,R,R,R,M,R,R,FL,"Walking and roostiing with chick, territorial with 2 AMOY that landed nearby at 3:00"
+NY,TOH,Dog_free,B,1-Aug-24,8,SAND,F,M,F,F,F,F,M,M,F,M,F,F,F,M,F,F,F,F,Foraging at surf
+NY,TOH,Dog_free,B,1-Aug-24,9,PIPL,M,M,M,R,M,R,M,M,F,F,M,F,M,M,OS,OS,OS,OS,"Walking with mate, both walked behind dune vegetation at 2:30"
+NY,TOH,Dog_free,B,1-Aug-24,9,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"Roosting by wrack line with juvenile, banded: Orange- YKK"
+NY,TOH,Dog_free,B,1-Aug-24,9,SAND,R,M,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,Preening
+NY,TOH,Dog_free,B,1-Aug-24,10,AMOY,M,M,M,M,M,M,R,M,R,F,F,F,M,F,F,M,R,R,Walking and roosting with juvenile
+NY,TOH,Dog_free,B,1-Aug-24,10,SAND,F,F,F,F,M,FL,M,F,F,F,F,F,F,F,M,F,F,F,"Foraging at surf, man walked by at 1:00"
+GA,FPCC,None,B,2-Aug-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"A cargo ship pushed a wake on the shoreline, causing AMOYs to shift positions along the beach. The mixed group of shorebirds also flushed twice in absence of discernable disturbance; many returned to the shoreline"
+GA,FPCC,None,B,2-Aug-24,2,SAND,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,SAND & SESA were actively foraging when we arrived on the shoreline but moved out of sight before the official behavioral observations could be made.
+GA,FPCC,None,B,2-Aug-24,2,SESA,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,SAND & SESA were actively foraging when we arrived on the shoreline but moved out of sight before the official behavioral observations could be made.
+CT,Long Beach,Walkers,B,4-Aug-24,5,PIPL,O,O,R,R,R,O,R,R,R,O,R,O,R,R,R,R,R,R,O = PREENING
+CT,Long Beach,Walkers,B,4-Aug-24,4,PIPL,R,R,R,R,R,R,O,R,O,O,R,O,O,R,R,R,R,R,O = PREENING
+CT,Sandy Point,None,B,4-Aug-24,6,SAND,M,M,M,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,Flushed by male PIPL that flew off after flushing SAND X2
+CT,Sandy Point,None,B,4-Aug-24,7,PIPL,M,M,R,M,M,M,R,M,R,R,M,R,M,M,R,M,R,R,P3 Chick
+CT,Sandy Point,None,B,4-Aug-24,8,AMOY,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,R,P3 Chick
+CT,Sandy Point,None,B,4-Aug-24,8,SAND,O,O,O,R,O,O,R,O,O,O,R,R,F,O,O,O,O,R,O = PREENING
+NY,Jones,Walkers,B,4-Aug-24,1,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,near rocks 
+NY,Jones,Walkers,B,4-Aug-24,7,AMOY,F,F,F,F,F,F,M,M,M,M,FL,M,M,F,F,F,F,F,"foraging on wrack line, flew down beach a little continued foraging"
+NY,Jones,Walkers,B,4-Aug-24,11,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,in fencing by dunes 
+NY,Jones,Walkers,B,4-Aug-24,1,AMOY,R,R,R,R,R,R,R,M,M,M,A,A,A,A,R,R,R,R,"very vocal, standing in fencing "
+NY,Jones,Walkers,B,4-Aug-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,just outside fencing 
+NY,Jones,Walkers,B,4-Aug-24,10,sesa,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,by water 
+NY,Jones,Walkers,B,4-Aug-24,9,sesa,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,by water 
+NY,Jones,Walkers,B,4-Aug-24,8,sesa,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,by water 
+NY,Jones,Walkers,B,4-Aug-24,7,sesa,F,F,F,F,F,F,F,F,F,M,F,F,F,F,F,F,F,F,by water 
+NY,Jones,Walkers,B,4-Aug-24,6,sesa,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,by water
+NY,Jones,Walkers,B,4-Aug-24,5,sesa,F,F,F,F,F,F,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,flew east 
+NY,Jones,Walkers,B,4-Aug-24,2,sesa,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,on beach huddled together in group
+CT,Bushy Beach,None,B,7-Aug-24,1,PIPL,F,M,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,M,
+CT,Bushy Beach,None,B,7-Aug-24,2,PIPL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,F,F,F,
+CT,Bushy Beach,None,B,7-Aug-24,3,AMOY,F,M,F,F,F,F,F,F,F,F,F,F,M,M,M,M,M,M,
+CT,Bushy Beach,None,B,7-Aug-24,3,SAND,F,F,F,F,F,F,F,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+CT,Housatonic: Milford Shoreline,Walkers,B,8-Aug-24,7,AMOY,M,M,M,M,F,M,F,F,F,F,F,F,F,F,F,F,F,F,N61 Banded Bird
+CT,Housatonic: Milford Point,Walkers,B,8-Aug-24,5,AMOY,FL,FL,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+CT,Housatonic: Milford Point,Walkers,B,8-Aug-24,6,PIPL,M,F,M,F,F,R,F,M,M,F,R,R,F,F,R,M,R,F,MP Fledge
+CT,Sandy Point,None,B,8-Aug-24,7,SAND,M,M,FL,M,OS,OS,F,M,OS,OS,OS,M,O,O,F,OS,OS,OS,"O = PREENING, Adjusted/sheltered from rain several times"
+CT,Sandy Point,None,B,8-Aug-24,8,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"P3, Loafing "
+CT,Sandy Point,None,B,8-Aug-24,8,SESA,F,F,F,M,F,M,M,F,F,R,M,F,M,F,F,F,F,F,
+CT,Long Beach,Walkers,B,10-Aug-24,3,PIPL,M,M,M,A,R,M,M,M,M,M,M,M,M,R,M,F,R,M,
+NY,Jones,Walkers,B,10-Aug-24,1,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,10-Aug-24,2,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,10-Aug-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,F,F,F,hanging out on shore
+NY,Jones,Walkers,B,10-Aug-24,2,SESA,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,10-Aug-24,2,PIPL,R,R,R,R,R,F,F,F,F,F,F,F,F,F,F,F,F,F,hanging out on shore
+NY,Jones,Walkers,B,10-Aug-24,3,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,10-Aug-24,4,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,10-Aug-24,5,SESA,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,10-Aug-24,5,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,10-Aug-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting/preening on beach
+NY,Jones,Walkers,B,10-Aug-24,6,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,10-Aug-24,6,AMOY,R,R,R,R,FL,FL,R,R,R,M,R,M,R,M,F,F,F,M,roosting on sand -> foraging on shore
+NY,Jones,Walkers,B,10-Aug-24,7,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,10-Aug-24,8,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,10-Aug-24,9,SESA,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,10-Aug-24,9,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,10-Aug-24,9,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on sand 
+NY,Jones,Walkers,B,10-Aug-24,10,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,TOH,Dog_free,B,11-Aug-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,1 adult and 1 chick
+NY,TOH,Dog_free,B,11-Aug-24,4,SAND,R,R,R,M,M,M,M,M,M,R,R,R,R,R,R,R,R,R,
+NY,TOH,Dog_free,B,11-Aug-24,5,AMOY,M,M,M,A,A,M,M,M,A,A,A,A,A,A,A,A,A,A,1 adult and 1 chick
+NY,TOH,Dog_free,B,11-Aug-24,5,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,TOH,Dog_free,B,11-Aug-24,6,AMOY,M,FL,M,M,A,A,A,A,M,M,M,M,M,M,M,M,A,A,
+NY,TOH,Dog_free,B,11-Aug-24,7,SAND,M,M,A,M,M,F,M,M,F,M,M,M,M,A,A,A,M,R,
+NY,TOH,Dog_free,B,11-Aug-24,7,AMOY,F,F,F,F,F,A,F,F,A,F,F,F,F,F,R,F,M,F,chick
+NY,TOH,Dog_free,B,11-Aug-24,8,SAND,A,A,A,A,A,A,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,TOH,Dog_free,B,11-Aug-24,8,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,TOH,Dog_free,B,11-Aug-24,3,SAND,M,F,F,F,F,M,F,M,M,M,M,F,M,M,F,F,M,M,
+NY,TOH,Dog_free,B,11-Aug-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,Group of women walked through flock of AMOY  at 2:40
+NY,TOH,Dog_free,B,11-Aug-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,TOH,Dog_free,B,11-Aug-24,2,SAND,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,
+NY,TOH,Dog_free,B,11-Aug-24,1,SAND,M,M,F,M,F,F,M,F,F,M,M,M,M,M,M,F,F,M,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,12-Aug-24,1,WIPL,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,Adult WIPL standing alert on a sand hill.
+NY,Far Rockaway,None,,13-Aug-24,2,SAND,M,M,M,F,F,F,M,M,M,F,F,F,M,F,F,M,M,F,
+NY,Far Rockaway,None,,13-Aug-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,
+NY,Far Rockaway,None,,13-Aug-24,3,AMOY,M,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+NY,Far Rockaway,None,,13-Aug-24,3,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,M,
+NY,Arverne,None,,13-Aug-24,4,AMOY,M,M,M,R,R,R,R,M,M,M,M,M,R,M,M,M,M,R,
+NY,Arverne,None,,13-Aug-24,3,AMOY,M,F,F,M,M,F,F,F,F,M,M,M,M,M,M,R,M,M,
+NY,Arverne,None,,13-Aug-24,2,SAND,F,M,R,R,R,R,R,R,R,R,R,R,M,M,F,F,F,F,
+NY,Arverne,None,,13-Aug-24,2,AMOY,A,M,A,M,M,M,FL,FL,R,R,R,R,R,R,R,R,R,M,
+NY,Arverne,None,,13-Aug-24,1,AMOY,F,F,F,F,F,M,M,FL,F,F,M,F,M,F,F,M,F,F,Adult with other adult and two fledge 
+NY,Arverne,None,,13-Aug-24,3,SAND,M,M,M,M,M,R,M,R,M,R,R,M,F,R,M,F,M,F,
+NY,Arverne,None,,13-Aug-24,1,SAND,M,M,F,M,M,M,F,F,M,M,M,M,M,F,F,F,A,F,
+CT,Sandy Point,None,B,14-Aug-24,7,PIPL,O,M,M,R,R,M,M,F,M,O,R,F,R,M,M,R,F,M,"O = PREENING, P5 Male"
+CT,Sandy Point,None,B,14-Aug-24,8,PIPL,M,M,M,R,R,M,M,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,P11/P13 FL
+CT,Housatonic: Milford Shoreline,Walkers,B,15-Aug-24,8,AMOY,R,FL,FL,FL,FL,F,F,F,F,F,F,F,F,F,F,F,F,F,
+CT,Housatonic: Milford Shoreline,Walkers,B,15-Aug-24,7,AMOY,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,R,R,R,O = PREENING; N61 Banded Bird
+CT,Housatonic: Milford Point,Walkers,B,15-Aug-24,5,AMOY,R,R,R,R,O,O,O,M,O,M,R,R,R,R,R,R,R,R,O = PREENING; N29 Banded Bird
+CT,Housatonic: Milford Point,Walkers,B,15-Aug-24,6,PIPL,M,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,MP Fledge
+CT,Bushy Beach,None,B,15-Aug-24,3,SAND,M,M,M,M,F,M,A,F,F,M,F,FL,F,M,F,F,M,M,
+CT,Bushy Beach,None,B,15-Aug-24,4,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,P,F,M,F,F,F,
+NY,Jones,Walkers,B,16-Aug-24,1,AMOY,F,M,M,M,M,R,R,M,M,M,M,M,M,M,M,M,M,M,walking from beach to shore
+NY,Jones,Walkers,B,16-Aug-24,1,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,16-Aug-24,2,PIPL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,16-Aug-24,2,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,16-Aug-24,3,PIPL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,16-Aug-24,3,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,16-Aug-24,4,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,16-Aug-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,Jones,Walkers,B,16-Aug-24,5,PIPL,FL,M,M,M,M,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,16-Aug-24,5,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,16-Aug-24,7,AMOY,M,R,R,R,M,R,R,R,R,R,R,R,R,R,R,R,R,R,"roosting, preening on shore"
+NY,Jones,Walkers,B,16-Aug-24,7,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,Jones,Walkers,B,16-Aug-24,8,AMOY,R,M,M,M,R,R,M,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,Jones,Walkers,B,16-Aug-24,9,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+CT,Long Beach,Walkers,B,17-Aug-24,5,PIPL,O,O,R,M,M,R,M,M,M,R,F,F,R,R,R,M,R,R,11 JUV resting & foraging
+CT,Long Beach,Walkers,B,17-Aug-24,5,SESA,R,R,FL,M,M,M,R,R,M,F,F,F,F,F,F,F,F,F,
+CT,Long Beach,Walkers,B,17-Aug-24,4,SESA,F,M,M,M,R,F,M,F,M,M,F,M,M,M,Fl,OS,OS,OS,Flew off to MS
+NY,TOH,Dog_free,B,17-Aug-24,6,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach in large staging flock
+NY,TOH,Dog_free,B,17-Aug-24,6,SESA,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,TOH,Dog_free,B,17-Aug-24,6,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,TOH,Dog_free,B,17-Aug-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,TOH,Dog_free,B,17-Aug-24,7,SESA,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,TOH,Dog_free,B,17-Aug-24,9,AMOY,R,M,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,TOH,Dog_free,B,17-Aug-24,10,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,preening near dunes
+NY,TOH,Dog_free,B,17-Aug-24,10,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+CT,Housatonic: Milford Shoreline,Walkers,B,19-Aug-24,7,SAND,M,M,FL,FL,OS,F,F,M,R,F,F,F,R,F,F,M,M,M,1st SAND flew off
+CT,Housatonic: Milford Shoreline,Walkers,B,19-Aug-24,7,SESA,M,M,R,M,FL,OS,R,F,R,R,M,M,F,M,R,M,F,F,1st SESA flew off
+CT,Housatonic: Milford Point,Walkers,B,19-Aug-24,5,AMOY,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,R,R,R,Unknown if banded
+CT,Housatonic: Milford Point,Walkers,B,19-Aug-24,5,SAND,R,R,R,F,R,F,O,F,O,M,M,R,R,R,R,O,O,R,O=PREENING
+CT,Housatonic: Milford Point,Walkers,B,19-Aug-24,5,SESA,F,M,O,M,F,O,M,M,M,F,F,R,F,R,O,M,O,R,O=BATHING
+CT,Housatonic: Milford Point,Walkers,B,19-Aug-24,6,AMOY,M,O,O,O,O,O,O,R,R,R,FL,R,O,O,R,R,R,M,"O=PREENING, Naked"
+CT,Housatonic: Milford Point,Walkers,B,19-Aug-24,6,SESA,M,FL,OS,R,O,O,O,O,O,O,M,M,M,FL,OS,OS,OS,OS,"O=PREENING, 1st SESA lost in group of terns"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-Aug-24,1,ROTE,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,"not a focal species, but still observed"
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-Aug-24,2,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-Aug-24,3,WIPL,M,A,M,A,M,M,A,A,A,M,M,A,A,M,M,F,F,M,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,22-Aug-24,4,AMOY,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,AMOY fly by before survey starts
+CT,Bushy Beach,None,B,23-Aug-24,3,SAND,M,M,M,F,F,M,M,M,M,M,M,A,A,A,M,M,F,F,
+CT,Long Beach,Walkers,B,23-Aug-24,2,SAND,M,M,M,M,F,M,M,M,F,M,F,M,M,F,M,M,M,M,
+CT,Long Beach,Walkers,B,23-Aug-24,4,PIPL,M,M,R,R,R,R,R,M,R,R,R,R,R,R,M,R,R,R,
+CT,Long Beach,Walkers,B,23-Aug-24,5,SAND,F,M,M,F,F,M,M,M,M,M,M,M,M,FL,M,M,M,M,2:20 flushed by beachwalker ~ 10 m away; SAND observed starting to move away from beachwalker @ ~ 50 m away
+NY,TOH,Dog_free,B,23-Aug-24,10,AMOY,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,R,R,R,standing/preening on beach
+NY,TOH,Dog_free,B,23-Aug-24,10,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,FL,F,F,F,F,"foraging on shore, man walked by"
+NY,TOH,Dog_free,B,23-Aug-24,9,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,TOH,Dog_free,B,23-Aug-24,9,SAND,F,F,F,M,M,M,M,F,F,F,F,F,F,F,F,F,F,F,"foraging on beach, lady walked by"
+NY,TOH,Dog_free,B,23-Aug-24,8,SAND,M,F,F,F,FL,F,F,F,FL,F,F,F,F,F,F,F,F,F,"foraging on shore, people walked by"
+NY,TOH,Dog_free,B,23-Aug-24,8,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,TOH,Dog_free,B,23-Aug-24,8,SESA,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,TOH,Dog_free,B,23-Aug-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,TOH,Dog_free,B,23-Aug-24,7,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting in group on shore
+NY,TOH,Dog_free,B,23-Aug-24,6,SESA,F,F,F,F,F,F,F,F,F,F,F,FL,FL,OS,OS,OS,OS,OS,foraging on shore
+NY,TOH,Dog_free,B,23-Aug-24,6,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,TOH,Dog_free,B,23-Aug-24,6,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting in flock on shore
+NY,TOH,Dog_free,B,23-Aug-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,TOH,Dog_free,B,23-Aug-24,4,AMOY,F,F,M,M,M,F,F,F,F,F,F,F,F,F,F,F,M,F,"foraging on shore, people walked by"
+NY,TOH,Dog_free,B,23-Aug-24,3,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,TOH,Dog_free,B,23-Aug-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting/preening on beach
+NY,TOH,Dog_free,B,23-Aug-24,1,AMOY,F,M,M,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on beach
+GA,EBGC,Dog_leash,B,30-Jul-24,4,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+GA,EBGC,Dog_leash,B,30-Jul-24,6,SAND,F,F,F,F,F,F,F,F,F,F,FL,FL,FL,FL,OS,OS,OS,OS,
+NY,Jones,Walkers,B,24-Aug-24,2,SAND,R,R,R,R,M,R,R,R,R,R,R,F,F,F,F,F,F,F,"sitting on shore, then foraging"
+NY,Jones,Walkers,B,24-Aug-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,M,M,R,R,M,M,R,roosting on beach
+NY,Jones,Walkers,B,24-Aug-24,3,PIPL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,24-Aug-24,3,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,24-Aug-24,4,SAND,R,R,R,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"roosting in group, flew off site"
+NY,Jones,Walkers,B,24-Aug-24,5,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,24-Aug-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach in flock
+NY,Jones,Walkers,B,24-Aug-24,6,SAND,F,F,F,F,F,F,F,F,F,F,F,FL,F,F,F,F,F,F,"foraging on shore, lady walked by "
+NY,Jones,Walkers,B,24-Aug-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting/preening on beach
+NY,Jones,Walkers,B,24-Aug-24,7,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,Jones,Walkers,B,24-Aug-24,7,SESA,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,24-Aug-24,8,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,FL,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,24-Aug-24,8,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,24-Aug-24,9,SAND,F,F,F,F,F,F,F,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"foraging on shore, flew off site"
+NY,Jones,Walkers,B,24-Aug-24,10,SAND,F,F,F,F,F,F,F,F,F,FL,F,F,FL,F,F,F,F,F,"foraging, people walked by "
+NY,Jones,Walkers,B,24-Aug-24,10,SESA,F,F,F,F,F,F,F,F,FL,F,F,F,FL,F,F,F,F,F,"foraging, people walked by "
+CT,Sandy Point,None,B,25-Aug-24,8,PIPL,R,R,F,M,R,R,O,O,M,R,M,M,M,R,R,M,M,R,O=PREENING
+CT,Sandy Point,None,B,25-Aug-24,8,SESA,F,R,M,F,M,F,F,F,F,F,M,F,M,M,F,F,F,M,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,26-Aug-24,1,SAND,F,F,F,F,F,F,F,M,F,F,F,F,F,F,F,F,F,F,Mobile at 1:20 when human walked by about 15m from bird
+SC,Folly Beach Lighthouse Inlet,Walkers,B,26-Aug-24,1,WIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,out of sight before data collection
+SC,Folly Beach Lighthouse Inlet,Walkers,B,26-Aug-24,1,PIPL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,out of sight before data collection
+SC,Folly Beach Lighthouse Inlet,Walkers,B,26-Aug-24,2,PIPL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+SC,Folly Beach Lighthouse Inlet,Walkers,B,26-Aug-24,2,SAND,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,out of sight before data collection
+SC,Folly Beach Lighthouse Inlet,Walkers,B,26-Aug-24,2,AMOY,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,flew off as soon as data collection started
+SC,Folly Beach Lighthouse Inlet,Walkers,B,26-Aug-24,4,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+NY,TOH,Dog_free,B,28-Aug-24,10,PIPL,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting/preening on beach
+NY,TOH,Dog_free,B,28-Aug-24,10,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,TOH,Dog_free,B,28-Aug-24,9,PIPL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore 
+NY,TOH,Dog_free,B,28-Aug-24,9,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore in group
+NY,TOH,Dog_free,B,28-Aug-24,9,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,TOH,Dog_free,B,28-Aug-24,8,PIPL,F,F,F,F,F,F,F,FL,A,A,FL,F,F,F,F,F,F,F,aggressive with other plovers
+NY,TOH,Dog_free,B,28-Aug-24,8,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,M,M,M,"foraging on beach, man walked by"
+NY,TOH,Dog_free,B,28-Aug-24,8,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,M,"roosting on beach, man walked by"
+NY,TOH,Dog_free,B,28-Aug-24,7,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,M,roosting on beach
+NY,TOH,Dog_free,B,28-Aug-24,7,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,M,F,F,foraging on shore
+NY,TOH,Dog_free,B,28-Aug-24,6,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,sitting on beach
+NY,TOH,Dog_free,B,28-Aug-24,6,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,preening on beach
+NY,TOH,Dog_free,B,28-Aug-24,5,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,TOH,Dog_free,B,28-Aug-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,TOH,Dog_free,B,28-Aug-24,4,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,FL,OS,OS,OS,OS,foraging on shore
+NY,TOH,Dog_free,B,28-Aug-24,4,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,TOH,Dog_free,B,28-Aug-24,3,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,TOH,Dog_free,B,28-Aug-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,TOH,Dog_free,B,28-Aug-24,2,AMOY,F,F,F,F,F,M,M,M,M,F,F,F,F,F,M,M,M,M,"foraging on shore, couple walked by"
+NY,TOH,Dog_free,B,28-Aug-24,2,SAND,F,F,F,F,F,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"foraging on shore, couple walked by"
+NY,TOH,Dog_free,B,28-Aug-24,1,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+CT,Long Beach,Walkers,B,29-Aug-24,2,SESA,M,M,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,
+CT,Long Beach,Walkers,B,29-Aug-24,2,SAND,M,A,M,M,M,R,R,M,M,F,F,M,M,M,M,M,M,A,
+CT,Long Beach,Walkers,B,29-Aug-24,3,SESA,M,M,M,M,M,M,M,M,M,R,F,M,FL,FL,FL,OS,OS,OS,
+CT,Bushy Beach,None,B,30-Aug-24,2,SAND,M,F,F,F,M,M,F,F,M,M,M,M,F,F,M,F,M,F,
+NY,Jones,Walkers,B,30-Aug-24,2,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,30-Aug-24,2,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,Jones,Walkers,B,30-Aug-24,3,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,30-Aug-24,3,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,Jones,Walkers,B,30-Aug-24,4,SAND,F,F,FL,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,30-Aug-24,4,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach
+NY,Jones,Walkers,B,30-Aug-24,5,PIPL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"on beach, flew away"
+NY,Jones,Walkers,B,30-Aug-24,5,SAND,F,F,F,F,F,F,F,F,F,FL,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,30-Aug-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach in flock
+NY,Jones,Walkers,B,30-Aug-24,6,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting on beach in flock
+NY,Jones,Walkers,B,30-Aug-24,7,SESA,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,OS,"on beach, flew away"
+NY,Jones,Walkers,B,30-Aug-24,7,AMOY,M,M,M,M,M,M,M,R,R,R,R,R,R,R,R,R,R,R,"walking near dunes, then roosting "
+NY,Jones,Walkers,B,30-Aug-24,7,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,30-Aug-24,8,SAND,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting in flock on beach
+NY,Jones,Walkers,B,30-Aug-24,9,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,30-Aug-24,9,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,roosting/preening on beach
+NY,Jones,Walkers,B,30-Aug-24,10,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore
+NY,Jones,Walkers,B,30-Aug-24,10,SESA,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,foraging on shore 
+CT,Housatonic: Milford Shoreline,Walkers,B,31-Aug-24,8,SAND,F,F,M,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+CT,Housatonic: Milford Shoreline,Walkers,B,31-Aug-24,8,AMOY,F,F,F,M,M,F,F,F,F,F,F,F,F,F,F,F,M,F,N29 Banded Bird
+CT,Housatonic: Milford Point,Walkers,B,31-Aug-24,5,AMOY,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,N90 Banded Bird
+CT,Housatonic: Milford Point,Walkers,B,31-Aug-24,5,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,M,M,
+CT,Housatonic: Milford Point,Walkers,B,31-Aug-24,6,SAND,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,
+CT,Housatonic: Milford Point,Walkers,B,31-Aug-24,6,AMOY,O,O,O,O,O,O,O,O,O,O,O,M,M,F,F,F,F,F,O = PREENING
+CT,Sandy Point,None,B,1-Sep-24,4,SAND,FL,FL,FL,FL,F,F,FL,FL,FL,OS,OS,OS,OS,OS,OS,OS,OS,OS,"Entire group flushed by walker, last obs heading towards Savin Rock Park"
+CT,Sandy Point,None,B,1-Sep-24,5,SAND,F,F,M,F,F,F,F,M,F,F,R,M,F,F,F,FL,M,R,
+CT,Bushy Beach,None,B,2-Sep-24,2,SAND,F,F,F,M,M,F,F,F,M,M,F,F,F,F,F,M,M,F,
+CT,Long Beach,Walkers,B,2-Sep-24,3,SAND,M,F,F,M,M,F,F,M,M,F,M,F,F,M,F,F,F,M,
+CT,Housatonic: Milford Shoreline,Walkers,B,6-Sep-24,7,AMOY,R,R,R,F,F,R,F,M,F,M,R,R,R,R,R,R,R,F,N88 Banded Bird
+CT,Housatonic: Milford Point,Walkers,B,6-Sep-24,5,AMOY,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,N29 Banded Bird
+CT,Long Beach,Walkers,B,11-Sep-24,4,SAND,M,M,M,FL,A,A,F,R,F,M,M,M,R,F,F,F,F,F,SAND X8 flushed by jogger from B2
+CT,Long Beach,Walkers,B,11-Sep-24,5,SAND,M,F,F,F,R,F,M,F,M,M,F,F,F,F,M,M,R,F,
+CT,Housatonic: Milford Shoreline,Walkers,B,13-Sep-24,8,AMOY,M,M,F,F,M,F,F,F,O,M,F,M,F,F,F,R,F,F,O = PREENING
+CT,Housatonic: Milford Shoreline,Walkers,B,13-Sep-24,8,SAND,O,O,O,O,O,O,M,R,M,M,M,M,M,M,OS,OS,OS,OS,O = PREENING
+CT,Housatonic: Milford Point,Walkers,B,13-Sep-24,6,AMOY,F,M,F,F,F,F,F,M,F,F,F,F,F,F,M,M,F,F,
+CT,Housatonic: Milford Point,Walkers,B,13-Sep-24,5,AMOY,F,F,F,F,F,F,F,F,M,F,F,F,F,M,M,F,M,M,
