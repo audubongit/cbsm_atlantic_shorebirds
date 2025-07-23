@@ -1,0 +1,211 @@
+---
+title: "Impact of 'walk around flocks' CBSM campaigns on PIPL fledging success"
+author: "Sarah Saunders, National Audubon Society"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Introduction
+
+This analysis examines whether community-based social marketing (CBSM) campaigns encouraging people to "walk around flocks" positively influence piping plover (*Charadrius melodus*) fledging success at four sites in Connecticut. The analysis follows these steps:
+
+1. **Data Preparation** - Read, clean, and filter productivity data.
+2. **Mapping** - Visualize fledging success at nest locations along the Connecticut coast.
+3. **Modeling** - Fit a Generalized Additive Model (GAM) to analyze predictors of fledging success.
+4. **Visualization** - Generate plots of model predictions.
+
+```{r setup, include=FALSE}
+library(lubridate)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(mgcv)
+library(sf)
+library(patchwork)
+library(rnaturalearth)
+library(cowplot)
+library(pROC)
+```
+
+## Set working directory to the location of the RMarkdown file and data files
+```{r}
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+```
+
+## Read and clean productivity data
+```{r}
+prod_atl <- read.csv("Phase4_Productivity_Jan2025.csv", header = TRUE)
+prod_pipl <- prod_atl %>% filter(Species == "PIPL")
+
+# Correct erroneous egg count entry
+prod_pipl[73, "Eggs_hatch"] <- 4
+
+prod_pipl <- prod_pipl %>%
+  mutate(Hatch_success = Eggs_hatch / Eggs_laid,
+         Fledge_success = ifelse(Eggs_hatch > 0, Fledglings / Eggs_hatch, NA)) %>%
+  filter(!is.na(Fledge_success))
+
+table(prod_pipl$Campaign)
+```
+
+## Convert dates and prep for analysis
+```{r}
+prod_pipl_beta <- prod_pipl %>%
+  mutate(Fledge_success = (Fledge_success * (n() - 1) + 0.5) / n(),
+         State=factor(State),
+         Site=factor(Site),
+         Campaign=factor(Campaign),
+         Species=factor(Species),
+         Exclosed=factor(Exclosed), 
+         Fencing=factor(Fencing), 
+         Area_closed=factor(Area_closed), 
+         Brood_fate=factor(Brood_fate))  
+
+#Correct one unknown hatch date
+prod_pipl_beta <- prod_pipl_beta %>%
+  mutate(Date_hatch = ifelse(Date_hatch == "U", "7/01/2024", Date_hatch))
+prod_pipl_beta$Date_hatch <- mdy(prod_pipl_beta$Date_hatch)
+prod_pipl_beta$JDate_hatch <- yday(prod_pipl_beta$Date_hatch)
+
+summary(prod_pipl_beta)
+```
+
+# Mapping fledging success for visualization of spatial variation
+```{r, echo=FALSE, warning=FALSE}
+prod_pipl_sf <- st_as_sf(prod_pipl_beta, coords = c("Longitude", "Latitude"), crs = 4326)
+ct_map <- ne_states(country = "United States of America", returnclass = "sf") %>%
+  filter(name == "Connecticut")
+bbox_zoom <- st_bbox(prod_pipl_sf) + c(-0.1, -0.1, 0.1, 0.1)  # Expands bbox slightly for better framing
+
+main_map <- ggplot() +
+  geom_sf(data = ct_map, fill = "gray90", color = "black") +  
+  geom_jitter(data = prod_pipl_beta, aes(x = Longitude, y = Latitude, fill = Fledge_success, shape = Campaign),
+              width = 0.05, height = 0.01, size = 3, stroke = 0.5, alpha = 0.8, color = "black") +  
+  scale_fill_gradient(low = "#E0F3DB", high = "#08589E", name = "Fledging Success") +
+  scale_shape_manual(values = c(21, 24), name = "Campaign Type") +  
+  coord_sf(xlim = c(bbox_zoom["xmin"], bbox_zoom["xmax"]), 
+           ylim = c(bbox_zoom["ymin"], bbox_zoom["ymax"])) +  
+  theme_minimal() +
+  theme(axis.text = element_blank(),  
+        axis.ticks = element_blank(),  
+        panel.grid = element_blank(),  
+        axis.title = element_blank(),
+        legend.position = "none",  
+        panel.border = element_rect(fill = NA, color = "black", linewidth = 1))
+
+fill_legend <- cowplot::get_legend(
+  ggplot() +
+    geom_point(data=prod_pipl_beta,aes(x = 1, y = 1, fill = Fledge_success), size = 3) +
+    scale_fill_gradient(low = "#E0F3DB", high = "#08589E", name = "Fledging Success") +
+    theme_minimal() +
+    theme(legend.position = "right")  # Keep vertical
+)
+
+shape_legend <- cowplot::get_legend(
+  ggplot() +
+    geom_point(aes(x = 1, y = 1, shape = factor(c("None", "Walkers"))), size = 5) +
+    scale_shape_manual(values = c(21, 24), name = "Campaign Type") +
+    theme_minimal() +
+    theme(legend.position = "right")  
+)
+
+inset_map <- ggplot() +
+  geom_sf(data = ct_map, fill = "white", color = "black") +  
+  geom_rect(aes(xmin = bbox_zoom["xmin"], xmax = bbox_zoom["xmax"], 
+                ymin = bbox_zoom["ymin"], ymax = bbox_zoom["ymax"]), 
+            color = "gold", fill = NA, size = 1) +  
+  theme_void() +  
+  theme(panel.border = element_rect(fill = NA, color = "black", linewidth = 0.5))
+
+final_map <- ggdraw() +
+  draw_plot(main_map) +
+  draw_plot(inset_map, x = 0.03, y = 0.55, width = 0.2, height = 0.2) +  
+  draw_plot(shape_legend, x=0.6, y=0.2, width=0.2, height=0.3)+
+  draw_plot(fill_legend, x = 0.78, y = 0.3, width = 0.2, height = 0.2)  
+
+final_map
+```
+
+# GAM model
+## Goal: Assess whether ‘walk around flocks’ campaigns influence PIPL fledging success
+```{r}
+fledge_mod <- gam(Fledge_success ~ Campaign + s(JDate_hatch) + 
+                    s(Longitude, Latitude, k=5), 
+                  data = prod_pipl_beta,
+                  family = betar(link = "logit"),  
+                  method = "REML")  
+
+summary(fledge_mod)
+```
+
+## Model fit assessment
+```{r, warning=FALSE}
+prod_pipl_beta$predicted <- predict(fledge_mod, type = "response")
+prod_pipl_beta$observed <- ifelse(prod_pipl_beta$Fledge_success > median(prod_pipl_beta$Fledge_success, na.rm = TRUE), 1, 0)
+auc_value <- auc(prod_pipl_beta$observed, prod_pipl_beta$predicted)
+print(paste("AUC:", auc_value))
+```
+
+# Visualizations
+
+## Key finding #1: 'Walk around flocks' campaign is positively related to fledging success.
+Visual: Predicted fledging success by campaign type ('walk around flocks' vs no campaign)
+```{r, echo=FALSE}
+new_data_campaign <- expand.grid(
+  Campaign = unique(prod_pipl_beta$Campaign),
+  JDate_hatch = mean(prod_pipl_beta$JDate_hatch, na.rm = TRUE), #use average hatch date
+  Longitude = mean(prod_pipl_beta$Longitude, na.rm = TRUE),
+  Latitude = mean(prod_pipl_beta$Latitude, na.rm = TRUE)
+)
+pred_campaign <- predict(fledge_mod, newdata = new_data_campaign, type = "response", se.fit = TRUE)
+new_data_campaign$Fledge_fit <- pred_campaign$fit
+new_data_campaign$Fledge_se <- pred_campaign$se.fit
+
+new_data_campaign <- new_data_campaign %>%
+  mutate(Fledge_se80 = 1.28 * Fledge_se,  # 80% CI multiplier
+         Fledge_se95 = 1.96 * Fledge_se)  # 95% CI multiplier
+ggplot(new_data_campaign, aes(x = Campaign, y = Fledge_fit)) +
+  geom_errorbar(aes(ymin = Fledge_fit - Fledge_se95, ymax = Fledge_fit + Fledge_se95), 
+                width = 0, color = "darkblue", size = 1, alpha = 0.5) +
+  geom_errorbar(aes(ymin = Fledge_fit - Fledge_se80, ymax = Fledge_fit + Fledge_se80), 
+                width = 0, color = "darkblue", size = 2, alpha = 0.5) +
+  geom_point(size = 4, color = "darkblue") +
+  labs(y = "Predicted Fledging Success", x = "Campaign") +
+  theme_minimal(base_size = 14)
+
+```
+
+## Key finding #2: Fledging success is highest with mid-season hatch dates
+Visual: Predicted fledging success by hatch date (Julian)
+```{r, echo=FALSE}
+jdate_range <- range(prod_pipl_beta$JDate_hatch, na.rm = TRUE)
+jdate_90 <- quantile(prod_pipl_beta$JDate_hatch, probs = c(0.05, 0.95), na.rm = TRUE)
+
+new_data_jdate <- expand.grid(
+  Campaign = levels(prod_pipl_beta$Campaign)[2],  # Use the walker campaign level since more obs
+  JDate_hatch = seq(jdate_90[1], jdate_90[2], length.out = 100),
+  Longitude = mean(prod_pipl_beta$Longitude, na.rm = TRUE),
+  Latitude = mean(prod_pipl_beta$Latitude, na.rm = TRUE)
+)
+pred_jdate <- predict(fledge_mod, newdata = new_data_jdate, type = "response", se.fit = TRUE)
+new_data_jdate$Fledge_fit <- pred_jdate$fit
+new_data_jdate$Fledge_se <- pred_jdate$se.fit
+
+ggplot(new_data_jdate, aes(x = JDate_hatch, y = Fledge_fit)) +
+  geom_line(size = 1.2, color = "darkblue") +
+  geom_ribbon(aes(ymin = Fledge_fit - 1.96 * Fledge_se, ymax = Fledge_fit + 1.96 * Fledge_se), 
+              alpha = 0.2, fill = "darkblue") +
+  labs(y = "Predicted Fledging Success", x = "Hatch Date (Julian)") +
+  theme_minimal(base_size = 14) 
+
+```
+
+# Conclusion
+This analysis suggests that 'walk around flocks' campaigns may have a positive effect on piping plover fledging success. However, further studies incorporating larger datasets and site-specific environmental factors are needed to strengthen these findings.
+
+# Key takeaways
+1. ‘Walk around flocks’ campaign positive effect is suggestive of efficacy in improving PIPL fledging success, but can’t definitively conclude an impact with limited data.
+
+2. Nests hatching mid-season are more successful.
+
+3. Other site-specific factors likely influencing success due to significant effect of spatial variation.

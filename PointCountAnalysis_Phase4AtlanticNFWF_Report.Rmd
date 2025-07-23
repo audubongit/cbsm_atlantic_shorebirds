@@ -1,0 +1,285 @@
+---
+title: "Analysis of CBSM dog-leashing campaigns on coastal bird counts"
+author: "Sarah Saunders, National Audubon Society"
+date: "`r Sys.Date()`"
+output:
+  html_document: default
+  pdf_document: default
+---
+# Introduction
+
+This report analyzes coastal bird count data to determine whether community-based social marketing (CBSM) campaigns encouraging dog leashing influence bird counts along the US Atlantic coast. The analysis follows these steps:
+
+1. **Data Preparation** - Read, filter and clean point count dataset.
+2. **Modeling** - Fit a Generalized Additive Model (GAM) with bird count as the response variable.
+3. **Visualization** - Generate plots for model predictions and random effects.
+
+```{r setup, include=FALSE}
+library(lubridate)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(maps)
+library(rnaturalearth)
+library(reshape2)
+library(forcats)
+library(mgcv)
+library(sf)
+library(pROC)
+library(patchwork)
+library(mixedup)
+library(assertthat)
+```
+
+## Set working directory to the location of the RMarkdown file and data files
+```{r}
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+```
+
+## Read in point count data
+```{r}
+ptcts_atl <- read.csv("Phase4_PointCountData_Jan2025.csv", header = TRUE)
+ptcts_atl$Date <- dmy(ptcts_atl$Date)
+summary(ptcts_atl)
+```
+
+## Read in point count locations and create map
+```{r}
+ptcts_locs <- read.csv("PtCt_Locations_Phase4.csv", header = TRUE)
+usa_map <- map_data("state")
+ptmap <- ggplot() +
+  geom_polygon(data = usa_map, aes(x = long, y = lat, group = group), fill = "gray85", color = "white") +
+  geom_jitter(data = ptcts_locs, aes(x = Longitude, y = Latitude, color = State), size = 3, alpha = 0.8, width = 0.2, height = 0.2) +
+  scale_color_brewer(palette = "Set2") +
+  coord_cartesian(xlim = c(-95, -65), ylim = c(25, 50)) +
+  theme_void()
+ptmap
+```
+
+# Data processing and formatting
+```{r}
+ptcts_atl_dl <- ptcts_atl %>%
+  filter(Campaign %in% c("Dog_leash", "Walkers", "None")) %>%  
+  pivot_longer(cols = c("PIPL", "AMOY", "REKN", "WIPL", "SAND", "SESA", "Peeps"),
+               names_to = "Species", values_to = "Counts") %>%  
+  mutate(Site = as.factor(Site),
+         State = as.factor(State),
+         Species = as.factor(Species),
+         Steward = as.factor(Steward),
+         Point_closed = as.factor(Point_closed),
+         Point_no = as.factor(Point_no),
+         Dogs_leash = (Dogs_leash + 0.1) - mean(Dogs_leash + 0.1), 
+         Dogs_un = (Dogs_un + 0.1) - mean(Dogs_un + 0.1),
+         CBSM_dogleash = as.factor(ifelse(Campaign == "Dog_leash", 1, 0)) 
+  ) %>%  
+  as.data.frame()
+```
+
+# GAM model
+## Goal: Identify how dogs and leash encouragement jointly influence bird counts
+```{r}
+dl_cbsm <- gam(Counts ~ CBSM_dogleash * Dogs_leash * Dogs_un +
+                 s(State, bs = "re", k = min(5, length(unique(ptcts_atl_dl$State)))) + 
+                 s(Species, bs = "re", k = min(5, length(unique(ptcts_atl_dl$Species)))),
+               family = nb(),  
+               data = ptcts_atl_dl)
+summary(dl_cbsm)
+```
+
+## Model fit assessment
+```{r, warning=FALSE}
+ptcts_atl_dl$predicted <- predict(dl_cbsm, type = "response")
+ptcts_atl_dl$observed <- ifelse(ptcts_atl_dl$Counts > 0, 1, 0)
+auc_value <- auc(ptcts_atl_dl$observed, ptcts_atl_dl$predicted)
+print(paste("AUC:", auc_value))
+```
+
+# Visualizations
+
+## Key finding #1: Leash encouragement alone doesn't influence bird counts. 
+Visual: Estimated effect of CBSM dog leashing campaigns
+```{r, echo=FALSE}
+leash_pred <- predict(dl_cbsm, newdata = data.frame(CBSM_dogleash = levels(ptcts_atl_dl$CBSM_dogleash),
+                                                    Dogs_leash=0, 
+                                                    Dogs_un=0,
+                                                    State="GA",
+                                                    Species="AMOY"), type = "response", se.fit = TRUE, exclude = c("s(State)") 
+) 
+
+plot_data <- data.frame(
+  CBSM_dogleash = levels(ptcts_atl_dl$CBSM_dogleash),
+  Estimate = leash_pred$fit,
+  SE = leash_pred$se.fit
+)
+
+ggplot(plot_data, aes(x = CBSM_dogleash, y = Estimate)) +
+  geom_errorbar(aes(ymin = Estimate - (1.96*SE), ymax = Estimate + (1.96*SE)), width = NA, linewidth = 1, color="cornflowerblue", alpha=0.5) +
+  geom_errorbar(aes(ymin = Estimate - (1.28*SE), ymax = Estimate + (1.28*SE)), width = NA, linewidth = 2, color="cornflowerblue", alpha=0.5) +
+  geom_point(size = 4, color = "steelblue") +
+  ylim(0,2.5)+
+  labs(x = "Leash Encouragement",
+       y = "Estimated Bird Count") +
+  theme_minimal()+
+  theme(axis.title = element_text(size = 14),
+        axis.text = element_text(size=12))
+
+```
+
+## Key finding #2: Where CBSM dog leashing campaigns exist, unleashed dogs are more disruptive. 
+Visual: Estimated effect of unleashed dogs at campaign sites
+```{r, echo=FALSE}
+unleashed_pred <- predict(dl_cbsm, newdata = data.frame(CBSM_dogleash = 1,
+                                                        Dogs_leash = 0,
+                                                        Dogs_un = seq(min(ptcts_atl_dl$Dogs_un), max(ptcts_atl_dl$Dogs_un), length.out = 100),
+                                                        State="GA",
+                                                        Species="AMOY"), 
+                          type = "response", se.fit = TRUE,exclude = c("s(State)"))
+
+unleashed_data <- data.frame(
+  Dogs_un = seq(min(ptcts_atl_dl$Dogs_un), max(ptcts_atl_dl$Dogs_un), length.out = 100),
+  Estimate = unleashed_pred$fit,
+  SE = unleashed_pred$se.fit
+)
+
+
+ggplot(unleashed_data, aes(x = Dogs_un, y = Estimate)) +
+  geom_line(color = "darkseagreen", linewidth=1.5) +
+  geom_ribbon(aes(ymin = Estimate - (1.96*SE), ymax = Estimate + (1.96*SE)), fill = "darkseagreen",alpha = 0.5) +
+  labs(x = "Unleashed Dogs (scaled)",
+       y = "Predicted Bird Count (Leash Campaign Site)") +
+  theme_minimal() +
+  theme(axis.title = element_text(size = 14),
+        axis.text = element_text(size=12))
+```
+
+## Key finding #3: Leashed dogs negatively affect bird counts, regardless of campaign presence. 
+Visual: Estimated effect of leashed dogs at campaign and no-campaign sites
+```{r, echo=FALSE}
+leashed_pred <- predict(dl_cbsm, newdata = data.frame(CBSM_dogleash = 0, 
+                                                      Dogs_leash = seq(min(ptcts_atl_dl$Dogs_leash), max(ptcts_atl_dl$Dogs_leash), length.out = 100),
+                                                      Dogs_un = 0,
+                                                      State="GA",
+                                                      Species="AMOY"), 
+                        type = "response", se.fit = TRUE, exclude = c("s(State)"))
+
+leashed_pred2 <- predict(dl_cbsm, newdata = data.frame(CBSM_dogleash = 1, 
+                                                      Dogs_leash = seq(min(ptcts_atl_dl$Dogs_leash), max(ptcts_atl_dl$Dogs_leash), length.out = 100),
+                                                      Dogs_un = 0,
+                                                      State="GA",
+                                                      Species="AMOY"), 
+                        type = "response", se.fit = TRUE, exclude = c("s(State)"))
+
+
+leashed_data <- data.frame(
+  Dogs_leash = seq(min(ptcts_atl_dl$Dogs_leash), max(ptcts_atl_dl$Dogs_leash), length.out = 100),
+  Estimate = leashed_pred$fit,
+  SE = leashed_pred$se.fit
+)
+
+leashed_data2 <- data.frame(
+  Dogs_leash = seq(min(ptcts_atl_dl$Dogs_leash), max(ptcts_atl_dl$Dogs_leash), length.out = 100),
+  Estimate = leashed_pred2$fit,
+  SE = leashed_pred2$se.fit
+)
+
+
+ggplot(leashed_data, aes(x = Dogs_leash, y = Estimate)) +
+  geom_line(color = "darkseagreen", linewidth=1.5) +
+  geom_ribbon(aes(ymin = Estimate - (1.96*SE), ymax = Estimate + (1.96*SE)), fill = "darkseagreen",alpha = 0.5) +
+  labs(x = "Leashed Dogs (scaled)",
+       y = "Predicted Bird Count (No Campaign Site)") +
+  theme_minimal()
+
+ggplot(leashed_data2, aes(x = Dogs_leash, y = Estimate)) +
+  geom_line(color = "darkseagreen", linewidth=1.5) +
+  geom_ribbon(aes(ymin = Estimate - (1.96*SE), ymax = Estimate + (1.96*SE)), fill = "darkseagreen",alpha = 0.5) +
+  labs(x = "Leashed Dogs (scaled)",
+       y = "Predicted Bird Count (Leash Campaign Site)") +
+  theme_minimal()
+```
+
+## Key finding #4: Dogs and leash encouragement jointly influence bird counts. 
+Visual: Estimated three-way interaction effect and uncertainty
+```{r, echo=FALSE}
+leashed_range <- quantile(ptcts_atl_dl$Dogs_leash, probs = c(0.05, 0.95), na.rm = TRUE) 
+unleashed_range <- quantile(ptcts_atl_dl$Dogs_un, probs = c(0.05, 0.95), na.rm = TRUE)
+
+vis_data <- expand.grid(
+  CBSM_dogleash = levels(ptcts_atl_dl$CBSM_dogleash),
+  Dogs_leash = seq(leashed_range[1], leashed_range[2], length.out = 50),
+  Dogs_un = seq(unleashed_range[1], unleashed_range[2], length.out = 50),
+  State="GA",
+  Species="AMOY"
+)
+
+predictions <- predict(dl_cbsm, newdata = vis_data, type = "response", se.fit = TRUE, exclude = c("s(State)")) 
+vis_data$Prediction <- predictions$fit
+vis_data$SE <- predictions$se.fit
+vis_data$UCI <- predictions$fit + 1.96*predictions$se.fit
+vis_data$LCI <- predictions$fit - 1.96*predictions$se.fit
+
+ggplot(vis_data, aes(x = Dogs_leash, y = Dogs_un, fill = Prediction)) +
+  geom_tile() +
+  facet_wrap(~CBSM_dogleash) +
+  scale_fill_viridis_c() +
+  labs(x = "Leashed Dogs (scaled)",
+       y = "Unleashed Dogs (scaled)",
+       fill = "Predicted Bird Count") +
+  theme_minimal()
+
+ggplot(vis_data, aes(x = Dogs_leash, y = Dogs_un, fill = SE)) +
+  geom_tile() +
+  facet_wrap(~CBSM_dogleash) +
+  scale_fill_viridis_c(option = "magma") +
+  labs(x = "Leashed Dogs (scaled)",
+       y = "Unleashed Dogs (scaled)",
+       fill = "SE (Predicted Count)") +
+  theme_minimal()
+```
+
+## Random effects visualizations: species and state effects
+```{r, echo=FALSE}
+re_df <- extract_random_effects(dl_cbsm)
+species_re_df <- re_df[re_df$group_var == "Species", ]
+
+ggplot(species_re_df, aes(x = reorder(group,value), y = value, color = group)) +
+  geom_point(size = 4, show.legend = FALSE) +  
+  geom_linerange(aes(ymin = lower_2.5, ymax = upper_97.5), linewidth = 1, alpha=0.5) +  
+  geom_linerange(aes(ymin = value - 1.28 * se, ymax = value + 1.28 * se), linewidth = 1.5, alpha=0.5) + 
+  geom_hline(yintercept = 0, linetype = "dashed", color = "gray50", linewidth = 1) +  
+  scale_color_viridis_d() +  
+  theme_minimal(base_size = 14) +  
+  theme(
+    axis.text = element_text(face = "bold"),  
+    panel.grid.major = element_blank(),  
+    panel.grid.minor = element_blank()   
+  ) +
+  labs(x = "Species",
+       y = "Estimated Effect (Deviation from mean count)")
+
+state_re_df <- re_df[re_df$group_var == "State", ]
+ggplot(state_re_df, aes(x = reorder(group,value), y = value, color = group)) +
+  geom_point(size = 4, show.legend = FALSE) +  
+  geom_linerange(aes(ymin = lower_2.5, ymax = upper_97.5), linewidth = 1, alpha=0.5) +  
+  geom_linerange(aes(ymin = value - 1.28 * se, ymax = value + 1.28 * se), linewidth = 1.5, alpha=0.5) + 
+  geom_hline(yintercept = 0, linetype = "dashed", color = "gray50", linewidth = 1) +  
+  scale_color_viridis_d() +  
+  theme_minimal(base_size = 14) +  
+  theme(
+    axis.text = element_text(face = "bold"),  
+    panel.grid.major = element_blank(),  
+    panel.grid.minor = element_blank()   
+  ) +
+  labs(x = "State",
+       y = "Estimated Effect (Deviation from mean count)")
+```
+
+# Conclusion
+This analysis suggests that CBSM dog leashing campaigns have a complex interaction with the presence of leashed and unleashed dogs in predicting bird counts. 
+
+# Key takeaways
+1. Promoting dog leashing alone may not be enough – context matters. Dog-leashing campaigns may not always lead to conservation benefits (i.e. increased bird counts) unless compliance is strong. Even leashed dogs can disturb birds; likely associated with higher human activity, which could be indirectly discouraging bird use of sites.
+
+2. Dog absence and CBSM work in tandem to encourage increased bird use of sites. More holistic approaches that limit overall dog presence while addressing human behavior can improve bird conservation outcomes.
+
+

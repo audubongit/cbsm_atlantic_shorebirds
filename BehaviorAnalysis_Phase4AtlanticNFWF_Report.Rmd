@@ -1,0 +1,325 @@
+---
+title: "Analysis of CBSM campaign influences on coastal bird vigilance"
+author: "Sarah Saunders, National Audubon Society"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Introduction
+
+This report evaluates the influence of community-based social marketing (CBSM) campaigns on coastal bird vigilance. The analysis follows these steps:
+
+1. **Data Preparation** - Read, clean, and merge behavioral and point count datasets.
+2. **Modeling** - Fit a Generalized Additive Model (GAM) with proportion vigilance as the response variable.
+3. **Visualization** - Generate plots for model predictions and random effects.
+
+```{r setup, include=FALSE}
+library(lubridate)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(forcats)
+library(mgcv)
+library(mixedup)
+library(assertthat)
+library(pROC)
+```
+
+## Set working directory to the location of the RMarkdown file and data files
+```{r}
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+```
+
+## Read in and filter behavioral data
+```{r}
+behav_atl <- read.csv("Phase4_BehaviorData_March2025.csv", header = TRUE)
+behav_atl <- behav_atl %>% filter(Species %in% c("AMOY", "PIPL", "SAND"))
+behav_atl$Date <- dmy(behav_atl$Date)
+```
+
+## Process behavioral data for modeling
+```{r}
+behav_clean <- behav_atl %>%
+  mutate(
+    State = as.factor(State),
+    Site = as.factor(Site),
+    Point_no = as.factor(Point_no),
+    Species = as.factor(Species),
+    Campaign = as.factor(Campaign)
+  ) %>%
+  pivot_longer(cols = starts_with("Sec_"),   
+               names_to = "Interval",
+               values_to = "Behavior") %>%
+  group_by(State, Site, Point_no, Species, Date, Campaign) %>%
+  summarise(
+    Vigilant_Count = sum(Behavior %in% c("A", "a" ,"FL","Fl","m", "M"), na.rm = TRUE),
+    Total_Behaviors = sum(!is.na(Behavior)),  
+    Proportion_Vigilance = Vigilant_Count / Total_Behaviors,
+    .groups = "drop"
+  ) %>%
+  as.data.frame() 
+
+table(behav_clean$Campaign)
+
+behav_beta <- behav_clean %>%
+  mutate(Proportion_Vigilance = (Proportion_Vigilance * (n() - 1) + 0.5) / n())  
+behav_beta <- behav_beta %>%
+  mutate(Campaign = fct_relevel(factor(Campaign), "None"))
+
+```
+
+## Read in point count variables
+```{r}
+ptcts_atl <- read.csv("Phase4_PointCountBehaviorAnalysis_Jan2025.csv", header = TRUE)
+ptcts_atl$Date <- dmy(ptcts_atl$Date)
+ptcts_atl <- ptcts_atl %>% mutate(Site = factor(Site), Point_no = factor(Point_no))
+```
+
+# Pull relevant variables from point count data to create new dataset for modeling
+```{r, echo=FALSE}
+steward_data <- ptcts_atl %>%
+  mutate(
+    Steward = factor(ifelse(Steward == "Y", 1, ifelse(Steward == "N" | Steward == "", 0, NA)))  
+  ) %>%
+  select(Site, Date, Point_no, Steward) %>%
+  distinct()
+
+predator_data <- ptcts_atl %>%
+  mutate(
+    Predators_num = Predators, 
+    Predators = factor(ifelse(Predators >0, 1, 0)),
+  ) %>%
+  select(Site, Date, Point_no, Predators, Predators_num) %>%
+  distinct()
+
+people_data <- ptcts_atl %>%
+  mutate(
+    People_sum = People_move + People_rest,
+    People = factor(ifelse(People_move > 0 | People_rest > 0, 1, 0))  
+  ) %>%
+  select(Site, Date, Point_no, People, People_sum) %>%
+  distinct()
+
+dog_data <- ptcts_atl %>%
+  mutate(
+    Dogs = factor(ifelse(Dogs_leash > 0 | Dogs_un > 0, 1, 0))  
+  ) %>%
+  select(Site, Date, Point_no, Dogs) %>%
+  distinct() 
+
+behav_beta_rev <- behav_beta %>% 
+  left_join(steward_data, by = c("Site", "Date", "Point_no")) %>%
+  left_join(predator_data, by = c("Site", "Date", "Point_no")) %>%
+  left_join(people_data, by = c("Site", "Date", "Point_no")) %>%
+  left_join(dog_data, by = c("Site", "Date", "Point_no")) %>%
+  select(State, Site, Point_no, Species, Date, Campaign, Vigilant_Count, Total_Behaviors, Proportion_Vigilance, Steward, Predators, Predators_num, People, People_sum, Dogs) %>%
+  mutate(
+    People = factor(People, levels = c("0", "1")),
+    Dogs = factor(Dogs, levels = c("0", "1"))
+  )
+summary(behav_beta_rev)
+```
+
+# GAM model
+## Goal: Assess whether different CBSM campaigns influence bird vigilance
+```{r}
+behav_mod <- gam(Proportion_Vigilance ~ Campaign + 
+                    s(Steward, bs="re") + 
+                    s(State, bs = "re") +  
+                    s(Species, bs = "re"),  
+                  data = behav_beta_rev,
+                  family = betar(link = "logit"),  
+                  method = "REML")  
+
+summary(behav_mod) 
+
+```
+
+## Model fit assessment
+```{r, warning=FALSE}
+behav_beta_rev$predicted <- predict(behav_mod, type = "response")
+behav_beta_rev$observed <- ifelse(behav_beta_rev$Proportion_Vigilance > median(behav_beta_rev$Proportion_Vigilance, na.rm = TRUE), 1, 0)
+auc_value <- auc(behav_beta_rev$observed, behav_beta_rev$predicted)
+print(paste("AUC:", auc_value))
+```
+
+# Visualizations
+
+## Key finding #1: Dog-free campaign sites have highest bird vigilance.
+## Key finding #2: 'Walk around flocks' campaign sites significantly reduce bird vigilance.
+Visual: Predicted proportion vigilance by campaign type
+```{r, echo=FALSE, warning=FALSE}
+new_data <- data.frame(Campaign = unique(behav_beta_rev$Campaign), 
+                       Steward = 0, 
+                       State = "GA",  
+                       Species = "AMOY")  
+predictions <- predict(behav_mod, new_data, type = "response", se.fit = TRUE, exclude=c("s(State)","s(Species)")) #, exclude = c("s(Site)", "s(Species)"))
+
+new_data <- new_data %>%
+  mutate(
+    fit = predictions$fit,  # Predicted proportion vigilance
+    lower = fit - 1.96 * predictions$se.fit,  # Lower 95% CI
+    upper = fit + 1.96 * predictions$se.fit,   # Upper 95% CI
+    lower80 = fit - 1.28 * predictions$se.fit, #lower 80%
+    upper80 = fit + 1.28 * predictions$se.fit #upper 80%
+  )
+
+ggplot(new_data, aes(x = Campaign, y = fit, color=Campaign)) +
+  geom_point(size = 4) +  # Large points for emphasis
+  geom_errorbar(aes(ymin = lower, ymax = upper), width = 0, size=1, alpha=0.7) + 
+  geom_errorbar(aes(ymin = lower80, ymax = upper80), width = 0, size=2) + 
+  theme_minimal() +
+  theme(legend.position = c(0.15, 0.2),  # Moves legend inside bottom left
+        legend.background = element_rect(fill = "white", color = "black"),
+        axis.text.x = element_text(angle = 45, hjust = 1))+
+  ylim(0,0.6)+
+  labs(x = "Campaign Type", y = "Predicted Vigilance Proportion") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+## Key finding #1b: Dog-free campaign sites also have most number of people and predators, potentially influencing bird vigilance
+Visuals: boxplots of total number of people and predators by campaign type
+
+```{r, echo=FALSE}
+ggplot(behav_beta_rev, aes(x = Campaign, y = People_sum, color=Campaign)) +
+  geom_boxplot(linewidth=1) +
+  theme_minimal() +
+  labs(x = "Campaign Type", y = "Total number of people")+
+  theme(legend.position = "none",
+        axis.title = element_text(size=12),
+        axis.text = element_text(size=12))
+
+ggplot(behav_beta_rev, aes(x = Campaign, y = Predators_num, color=Campaign)) +
+  geom_boxplot(linewidth=1) +
+  theme_minimal() +
+  labs(x = "Campaign Type", y = "Total number of predators") +
+  theme(legend.position = "none",
+        axis.title = element_text(size=12),
+        axis.text = element_text(size=12))
+```
+
+Tukey's HSD results comparing predator and people counts by campaign type:
+
+```{r}
+anova_mod <- aov(People_sum ~ Campaign, data = behav_beta_rev)
+anova_mod2 <- aov(Predators_num ~ Campaign, data = behav_beta_rev)
+TukeyHSD(anova_mod)
+TukeyHSD(anova_mod2)
+```
+
+## Key finding #3: Steward presence significantly reduces bird vigilance.
+Visual: Estimated effect of steward presence (random effect)
+
+```{r, echo=FALSE}
+re_df <- extract_random_effects(behav_mod)
+steward_re_df <- re_df[re_df$group_var == "Steward", ]
+
+ggplot(steward_re_df, aes(x = group, y = value, color = group)) +
+  geom_point(size = 4, show.legend = FALSE) +  
+  geom_linerange(aes(ymin = lower_2.5, ymax = upper_97.5), linewidth = 1, alpha=0.5) +  
+  geom_linerange(aes(ymin = value - 1.28 * se, ymax = value + 1.28 * se), linewidth = 1.5, alpha=0.5) + 
+  geom_hline(yintercept = 0, linetype = "dashed", color = "gray50", linewidth = 1) +  
+  scale_color_viridis_d() +  
+  theme_minimal(base_size = 14) +  
+  theme(
+    axis.text = element_text(face = "bold"),  
+    panel.grid.major = element_blank(),  
+    panel.grid.minor = element_blank(),   
+    legend.position="none"
+  ) +
+  labs(x = "Steward absence (0) vs. presence (1)",
+       y = "Estimated Effect (±95% CI)")
+```
+
+## Key finding #3b: Sites with stewards have fewer leashed and unleashed dogs, potentially influencing bird vigilance.
+Visual: violin plots of number of leashed and unleashed dogs at stewarded and non-stewarded sites
+
+```{r, echo=FALSE}
+ptcts_atl_test <- ptcts_atl %>%   mutate(
+  Steward = factor(ifelse(Steward == "Y", 1, ifelse(Steward == "N" | Steward == "", 0, NA))))  
+  
+ggplot(ptcts_atl_test, aes(x = Steward, y = Dogs_un, color=Steward)) +
+  geom_violin(linewidth=1) +
+  theme_minimal() +
+  labs(x = "Steward", y = "Unleashed Dogs")+
+  theme(legend.position = "none",
+        axis.title = element_text(size=12),
+        axis.text = element_text(size=12))
+
+ggplot(ptcts_atl_test, aes(x = Steward, y = Dogs_leash, color=Steward)) +
+  geom_violin(linewidth=1) +
+  theme_minimal() +
+  labs(x = "Steward", y = "Leashed Dogs")+
+  theme(legend.position = "none",
+        axis.title = element_text(size=12),
+        axis.text = element_text(size=12))
+
+```
+
+T-test comparing whether number of leashed and unleashed dogs differ by steward presence or not:
+```{r}
+t.test(Dogs_un ~ Steward, data = ptcts_atl_test) 
+t.test(Dogs_leash ~ Steward, data = ptcts_atl_test) 
+```
+
+## Key finding #4: Variance in vigilance across campaign types.
+Visual: violin plot of proportion vigilance by campaign type to visualize differences in variance
+
+```{r, echo=FALSE}
+ggplot(behav_beta_rev, aes(x = Campaign, y = Proportion_Vigilance, fill = Campaign)) +
+  geom_violin(alpha = 0.7) +
+  theme_minimal() +
+  theme(legend.position="none")+
+  labs(x = "Campaign Type", y = "Proportion vigilance")
+```
+
+Estimated variance in vigilance by campaign type and pairwise t-test to determine significant differences:
+
+```{r}
+behav_beta_rev %>%
+  group_by(Campaign) %>%
+  summarise(Vigilance_Variance = var(Proportion_Vigilance, na.rm = TRUE)) %>%
+  arrange(desc(Vigilance_Variance))
+
+pairwise_variance <- pairwise.t.test(behav_beta_rev$Proportion_Vigilance, 
+                                     behav_beta_rev$Campaign, 
+                                     p.adjust.method = "bonferroni", 
+                                     var.equal = FALSE)
+print(pairwise_variance)
+```
+
+## Random effect of state
+Visual: There is some variation in bird vigilance by state, with SC having significantly lower vigilance than average and GA, NC, and NY having slightly greater vigilance than average (although not statistically significant)
+
+```{r, echo=FALSE}
+state_re_df <- re_df[re_df$group_var == "State", ]
+
+ggplot(state_re_df, aes(x = group, y = value, color = group)) +
+  geom_point(size = 4, show.legend = FALSE) +  
+  geom_linerange(aes(ymin = lower_2.5, ymax = upper_97.5), linewidth = 1, alpha=0.5) +  
+  geom_linerange(aes(ymin = value - 1.28 * se, ymax = value + 1.28 * se), linewidth = 1.5, alpha=0.5) + 
+  geom_hline(yintercept = 0, linetype = "dashed", color = "gray50", linewidth = 1) +  
+  scale_color_viridis_d() +  
+  theme_minimal(base_size = 14) +  
+  theme(
+    axis.text = element_text(face = "bold"),  
+    panel.grid.major = element_blank(),  
+    panel.grid.minor = element_blank()   
+  ) +
+  labs(x = "State",
+       y = "Estimated Effect (Deviation from mean vigilance prop.)")
+
+```
+
+# Conclusion
+This analysis suggests that CBSM campaigns have a measurable effect on coastal bird vigilance, with steward presence also playing an important role. 
+
+# Key takeaways
+1. Effective human behavior management, not just restrictions, can reduce bird disturbance.
+
+2. ‘Walk around flocks’ campaigns are an effective strategy for reducing bird disturbance/vigilance.
+
+3. Steward presence likely reinforces positive human behaviors.
+
+4. Consider site-specific contexts (e.g. predators, amount of human activity) when implementing campaigns.
+
